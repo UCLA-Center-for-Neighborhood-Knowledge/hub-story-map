@@ -130,6 +130,33 @@
       {
         "geometry": {
           "coordinates": [
+            -121.54818534851076,
+            44.29079411877924
+          ],
+          "type": "Point"
+        },
+        "id": "rec5cfVsc412MUHpp",
+        "properties": {
+          "City": "Sisters",
+          "Contact Info": "madeline.blount@gmail.com",
+          "Description": "This is a test",
+          "Latitude": 44.29079411877924,
+          "Longitude": -121.54818534851076,
+          "Name": "MAB TEST",
+          "News Outlet": "NYT",
+          "Record ID": "rec5cfVsc412MUHpp",
+          "State": "Oregon",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-25T16:22:32.000Z",
+          "Title": "Pangurbot Test",
+          "URL": "http://www.nytimes.com"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -82.72705078125,
             40.43793260507628
           ],
