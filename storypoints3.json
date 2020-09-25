@@ -1049,20 +1049,6 @@
       },
       {
         "geometry": null,
-        "id": "recXPaeHzmcxTKpiv",
-        "properties": {
-          "Approved for Website": true,
-          "Description": "pangurbot",
-          "Record ID": "recXPaeHzmcxTKpiv",
-          "Story Type": "News story",
-          "Theme": "Intersectional issues",
-          "Timestamp": "2020-09-25T18:50:51.000Z",
-          "Title": "MAB TEST2"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": null,
         "id": "recYAMWWqFI9Qy1Xb",
         "properties": {
           "Approved for Website": true,
@@ -1229,20 +1215,6 @@
       },
       {
         "geometry": null,
-        "id": "recfvDmhIxopErFOi",
-        "properties": {
-          "Approved for Website": true,
-          "Description": "pangurbot3",
-          "Record ID": "recfvDmhIxopErFOi",
-          "Story Type": "News story",
-          "Theme": "Intersectional issues",
-          "Timestamp": "2020-09-25T20:12:47.000Z",
-          "Title": "MAB TEST4"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": null,
         "id": "rechNaJAteAteDjBl",
         "properties": {
           "Approved for Website": true,
@@ -1282,46 +1254,6 @@
           "Timestamp": "2020-08-20T21:32:09.000Z",
           "Title": "800+ Hate Crimes Against Asians in California Reported in Past 3 Months",
           "URL": "https://sanfrancisco.cbslocal.com/2020/07/05/800-hate-crimes-against-asians-in-california-reported-in-past-3-months/"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": null,
-        "id": "recjP4B8WcIp3es3n",
-        "properties": {
-          "Approved for Website": true,
-          "City": "Albuquerque",
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Description": "Members of Albuquerque’s Asian American community said they are being targeted and do not feel safe during this coronavirus pandemic.",
-          "Latitude": 35.07982558444753,
-          "Longitude": -106.64785767439753,
-          "Name": "Jared Jimenez",
-          "News Outlet": "KRQE",
-          "Record ID": "recjP4B8WcIp3es3n",
-          "State": "New Mexico",
-          "Story Type": "News story",
-          "Theme": "Rise in anti-Asian violence",
-          "Timestamp": "2020-09-18T22:51:21.000Z",
-          "Title": "Asian American community speaking out against racism during coronavirus pandemic",
-          "URL": "https://www.krqe.com/health/coronavirus-new-mexico/asian-american-community-speaking-out-against-racism-during-coronavirus-pandemic/"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": null,
-        "id": "recjTHwjCex0XETxN",
-        "properties": {
-          "Approved for Website": true,
-          "City": "Portland",
-          "Description": "this is a test pangur",
-          "News Outlet": "NYT",
-          "Record ID": "recjTHwjCex0XETxN",
-          "State": "Oregon",
-          "Story Type": "News story",
-          "Theme": "Intersectional issues",
-          "Timestamp": "2020-09-25T18:06:53.000Z",
-          "Title": "MAB TEST",
-          "URL": "http://www.nytimes.com"
         },
         "type": "Feature"
       },
