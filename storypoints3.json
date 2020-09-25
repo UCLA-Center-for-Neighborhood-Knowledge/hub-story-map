@@ -1051,6 +1051,7 @@
         "geometry": null,
         "id": "recXPaeHzmcxTKpiv",
         "properties": {
+          "Approved for Website": true,
           "Description": "pangurbot",
           "Record ID": "recXPaeHzmcxTKpiv",
           "Story Type": "News story",
@@ -1303,23 +1304,6 @@
           "Timestamp": "2020-09-18T22:51:21.000Z",
           "Title": "Asian American community speaking out against racism during coronavirus pandemic",
           "URL": "https://www.krqe.com/health/coronavirus-new-mexico/asian-american-community-speaking-out-against-racism-during-coronavirus-pandemic/"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": null,
-        "id": "recjTHwjCex0XETxN",
-        "properties": {
-          "City": "Portland",
-          "Description": "this is a test pangur",
-          "News Outlet": "NYT",
-          "Record ID": "recjTHwjCex0XETxN",
-          "State": "Oregon",
-          "Story Type": "News story",
-          "Theme": "Intersectional issues",
-          "Timestamp": "2020-09-25T18:06:53.000Z",
-          "Title": "MAB TEST",
-          "URL": "http://www.nytimes.com"
         },
         "type": "Feature"
       },
