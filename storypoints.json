@@ -1539,6 +1539,19 @@
         "type": "Feature"
       },
       {
+        "geometry": null,
+        "id": "recfvDmhIxopErFOi",
+        "properties": {
+          "Description": "pa",
+          "Record ID": "recfvDmhIxopErFOi",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-25T20:12:47.000Z",
+          "Title": "MAB TEST3"
+        },
+        "type": "Feature"
+      },
+      {
         "geometry": {
           "coordinates": [
             -122.67516824198539,
