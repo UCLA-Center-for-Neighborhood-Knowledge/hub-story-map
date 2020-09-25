@@ -1309,24 +1309,6 @@
       },
       {
         "geometry": null,
-        "id": "recjTHwjCex0XETxN",
-        "properties": {
-          "Approved for Website": true,
-          "City": "Portland",
-          "Description": "this is a test pangur",
-          "News Outlet": "NYT",
-          "Record ID": "recjTHwjCex0XETxN",
-          "State": "Oregon",
-          "Story Type": "News story",
-          "Theme": "Intersectional issues",
-          "Timestamp": "2020-09-25T18:06:53.000Z",
-          "Title": "MAB TEST",
-          "URL": "http://www.nytimes.com"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": null,
         "id": "recjl7pYzPrtT9r08",
         "properties": {
           "Approved for Website": true,
