@@ -1,5 +1,4 @@
 {
-  "Stories": {
     "features": [
       {
         "geometry": {
@@ -2363,5 +2362,4 @@
       }
     ],
     "type": "FeatureCollection"
-  }
 }
