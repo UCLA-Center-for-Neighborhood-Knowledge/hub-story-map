@@ -1542,7 +1542,8 @@
         "geometry": null,
         "id": "recfvDmhIxopErFOi",
         "properties": {
-          "Description": "pa",
+          "Approved for Website": true,
+          "Description": "pangurbot3",
           "Record ID": "recfvDmhIxopErFOi",
           "Story Type": "News story",
           "Theme": "Intersectional issues",
