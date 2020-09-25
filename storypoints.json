@@ -2,7 +2,13 @@
   "Stories": {
     "features": [
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -94.08691406250001,
+            46.19028890427803
+          ],
+          "type": "Point"
+        },
         "id": "rec08Mn5gVcRDNZ1n",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -17,7 +23,8 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-01T23:24:43.000Z",
           "Title": "Amid anti-Asian bias because of COVID-19, Minnesota launches discrimination helpline",
-          "URL": "https://www.startribune.com/amid-anti-asian-bias-because-of-covid-19-minnesota-launches-discrimination-helpline/569410032/"
+          "URL": "https://www.startribune.com/amid-anti-asian-bias-because-of-covid-19-minnesota-launches-discrimination-helpline/569410032/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
@@ -36,12 +43,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-18T22:47:41.000Z",
           "Title": "Anti-Asian 'Zoombombing' of NC Woman Shows Troubling Trend",
-          "URL": "https://www.usnews.com/news/best-states/north-carolina/articles/2020-04-18/anti-asian-zoombombing-of-nc-woman-shows-troubling-trend"
+          "URL": "https://www.usnews.com/news/best-states/north-carolina/articles/2020-04-18/anti-asian-zoombombing-of-nc-woman-shows-troubling-trend",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -87.69874298575817,
+            41.95964696914843
+          ],
+          "type": "Point"
+        },
         "id": "rec2rDXi21ao9H2cs",
         "properties": {
           "City": "Chicago",
@@ -57,12 +71,19 @@
           "Theme": "Exposing system inequalities",
           "Timestamp": "2020-09-18T21:51:38.000Z",
           "Title": "What Happens If Undocumented Immigrants Get Infected With Coronavirus?",
-          "URL": "https://www.npr.org/2020/03/29/823438906/what-happens-if-undocumented-immigrants-get-infected-with-coronavirus"
+          "URL": "https://www.npr.org/2020/03/29/823438906/what-happens-if-undocumented-immigrants-get-infected-with-coronavirus",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.45361328125,
+            37.78672476186115
+          ],
+          "type": "Point"
+        },
         "id": "rec3PZqsA4UV8MSTW",
         "properties": {
           "City": "San Francisco",
@@ -78,12 +99,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-04T23:22:09.000Z",
           "Title": "City officials, seniors condemn brutal Chinatown attacks",
-          "URL": "https://sfbayca.com/2019/11/13/city-officials-seniors-condemn-brutal-chinatown-attacks/"
+          "URL": "https://sfbayca.com/2019/11/13/city-officials-seniors-condemn-brutal-chinatown-attacks/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -87.63559520244598,
+            41.85433058883432
+          ],
+          "type": "Point"
+        },
         "id": "rec5aCy1vJolyaial",
         "properties": {
           "City": "Chicago ",
@@ -99,12 +127,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-08-21T22:19:48.000Z",
           "Title": "Virtual Community Chat addressing Hate Crimes against the Asian Community in Chicago",
-          "URL": "https://abc7chicago.com/society/virtual-community-chat-addressing-hate-crimes-against-the-asian-community-in-chicago/6203064/"
+          "URL": "https://abc7chicago.com/society/virtual-community-chat-addressing-hate-crimes-against-the-asian-community-in-chicago/6203064/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -82.72705078125,
+            40.43793260507628
+          ],
+          "type": "Point"
+        },
         "id": "rec5yD01fYcoUFYQl",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -119,12 +154,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-28T23:35:32.000Z",
           "Title": "Coronavirus Is Fueling Prejudice, Asian-American Group Says",
-          "URL": "https://www.ideastream.org/news/coronavirus-is-fueling-prejudice-asian-american-group-says"
+          "URL": "https://www.ideastream.org/news/coronavirus-is-fueling-prejudice-asian-american-group-says",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -120.22338867187501,
+            44.1021326897392
+          ],
+          "type": "Point"
+        },
         "id": "rec69ZXNVGZjnDFf5",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -139,7 +181,8 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-08-25T23:47:53.000Z",
           "Title": "Immigrant Communities In Oregon Struggle To Access Coronavirus Information",
-          "URL": "https://www.opb.org/news/article/immigrant-communities-oregon-coronavirus-social-media-news/"
+          "URL": "https://www.opb.org/news/article/immigrant-communities-oregon-coronavirus-social-media-news/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
@@ -152,12 +195,19 @@
           "Record ID": "rec6EqPO8JmaLBNRP",
           "Story Type": "Another form of media",
           "Theme": "Intersectional issues",
-          "Timestamp": "2020-08-28T21:17:44.000Z"
+          "Timestamp": "2020-08-28T21:17:44.000Z",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -83.33129883,
+            32.31397575
+          ],
+          "type": "Point"
+        },
         "id": "rec8aQHv5WdKYqakI",
         "properties": {
           "City": "Atlanta",
@@ -171,12 +221,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-07-31T20:31:05.000Z",
           "Title": "Georgia voting rights leaders warned about failures of June 9 primary",
-          "URL": "https://atlantatribune.com/2020/06/11/georgia-voting-rights-leaders-warned-about-failures-of-june-9-primary/"
+          "URL": "https://atlantatribune.com/2020/06/11/georgia-voting-rights-leaders-warned-about-failures-of-june-9-primary/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -75.16414403915407,
+            39.952284032088926
+          ],
+          "type": "Point"
+        },
         "id": "rec9cErK63OMm8Y7A",
         "properties": {
           "City": "Philadelphia ",
@@ -192,12 +249,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-25T21:39:04.000Z",
           "Title": "In coronavirus crisis, Asians in Pa. are facing more discrimination and harassment",
-          "URL": "https://www.pennlive.com/news/2020/03/in-coronavirus-crisis-asians-in-pa-are-facing-more-discrimination-and-harassment.html"
+          "URL": "https://www.pennlive.com/news/2020/03/in-coronavirus-crisis-asians-in-pa-are-facing-more-discrimination-and-harassment.html",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -71.06094360351564,
+            42.36104118745841
+          ],
+          "type": "Point"
+        },
         "id": "recBFpbQwv6RAxyDR",
         "properties": {
           "City": "Boston",
@@ -213,12 +277,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-09-04T21:51:43.000Z",
           "Title": "Asian Americans facing high risk of displacement mobilize to fight back",
-          "URL": "https://www.nbcnews.com/news/asian-america/asian-americans-facing-high-risk-displacement-mobilize-fight-back-n1097306"
+          "URL": "https://www.nbcnews.com/news/asian-america/asian-americans-facing-high-risk-displacement-mobilize-fight-back-n1097306",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -79.40039075911045,
+            35.62738651274884
+          ],
+          "type": "Point"
+        },
         "id": "recBPtaZmJ9VSKM6t",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -233,12 +304,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-18T22:41:30.000Z",
           "Title": "NC's Newest Voters Are Young And Likely Hispanic Or Asian",
-          "URL": "https://www.wunc.org/post/ncs-newest-voters-are-young-and-likely-hispanic-or-asian"
+          "URL": "https://www.wunc.org/post/ncs-newest-voters-are-young-and-likely-hispanic-or-asian",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -93.10217320919037,
+            44.95514824744909
+          ],
+          "type": "Point"
+        },
         "id": "recBT75FygaTeGHDr",
         "properties": {
           "City": "Saint Paul",
@@ -254,12 +332,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-01T21:27:46.000Z",
           "Title": "'We need to help them': Asian Americans demand justice for George Floyd",
-          "URL": "https://www.mprnews.org/story/2020/06/09/we-need-to-help-them-asian-americans-demand-justice-for-george-floyd"
+          "URL": "https://www.mprnews.org/story/2020/06/09/we-need-to-help-them-asian-americans-demand-justice-for-george-floyd",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -87.69876927137376,
+            41.95960945945799
+          ],
+          "type": "Point"
+        },
         "id": "recCT2lOVBtMkhvRk",
         "properties": {
           "City": "Chicago",
@@ -275,7 +360,8 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-08-21T22:40:50.000Z",
           "Title": "For Non-English Speakers, Language Is A Barrier During The COVID-19 Pandemic",
-          "URL": "https://www.wbez.org/stories/for-non-english-speakers-language-is-a-barrier-during-the-covid-19-pandemic/72f6c85c-7f89-4e60-807d-60ab946af265"
+          "URL": "https://www.wbez.org/stories/for-non-english-speakers-language-is-a-barrier-during-the-covid-19-pandemic/72f6c85c-7f89-4e60-807d-60ab946af265",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
@@ -293,12 +379,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-20T21:30:27.000Z",
           "Title": "800+ Hate Crimes Against Asians in California Reported in Past 3 Months",
-          "URL": "https://sanfrancisco.cbslocal.com/2020/07/05/800-hate-crimes-against-asians-in-california-reported-in-past-3-months/"
+          "URL": "https://sanfrancisco.cbslocal.com/2020/07/05/800-hate-crimes-against-asians-in-california-reported-in-past-3-months/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -90.0604248,
+            29.88299732
+          ],
+          "type": "Point"
+        },
         "id": "recEs65nmDjy5CBwm",
         "properties": {
           "City": "New Orleans",
@@ -312,12 +405,19 @@
           "Theme": "Exposing system inequalities",
           "Timestamp": "2020-07-31T20:31:05.000Z",
           "Title": "Louisiana advocacy organizations have a roadmap for an equitable COVID-19 recovery",
-          "URL": "https://www.nola.com/gambit/news/the_latest/article_c492bf78-818f-11ea-869e-975a5bc62501.html"
+          "URL": "https://www.nola.com/gambit/news/the_latest/article_c492bf78-818f-11ea-869e-975a5bc62501.html",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -79.48828138411045,
+            35.55591526966738
+          ],
+          "type": "Point"
+        },
         "id": "recFPVU9jeYQXh6ia",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -332,12 +432,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-18T22:33:08.000Z",
           "Title": "Triangle Asian American group encourages reporting of pandemic-related discrimination",
-          "URL": "https://abc11.com/nc-coronavirus-racism-update-north-carolina-asian-americans-together/6173261/"
+          "URL": "https://abc11.com/nc-coronavirus-racism-update-north-carolina-asian-americans-together/6173261/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.41516113281251,
+            37.78256995126978
+          ],
+          "type": "Point"
+        },
         "id": "recFiAixZIrlTG2Vz",
         "properties": {
           "City": "San Francisco",
@@ -353,12 +460,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-09-04T23:08:03.000Z",
           "Title": "How a bilingual media program taught a Chinese community about COVID-19 ",
-          "URL": "https://www.nbcnews.com/news/asian-america/how-bilingual-media-program-taught-chinese-community-about-covid-19-n1231995"
+          "URL": "https://www.nbcnews.com/news/asian-america/how-bilingual-media-program-taught-chinese-community-about-covid-19-n1231995",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.42408752441408,
+            37.77822834862847
+          ],
+          "type": "Point"
+        },
         "id": "recFq0tTNJ81kFt20",
         "properties": {
           "City": "San Francisco",
@@ -374,12 +488,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-21T21:35:10.000Z",
           "Title": "Civil Rights Organizations Establish STOP AAPI HATE Reporting Center",
-          "URL": "https://www.rafu.com/2020/03/civil-rights-organizations-establish-stop-aapi-hate-reporting-center/"
+          "URL": "https://www.rafu.com/2020/03/civil-rights-organizations-establish-stop-aapi-hate-reporting-center/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -81.69433593750001,
+            41.50002817530095
+          ],
+          "type": "Point"
+        },
         "id": "recGQwvv3Fd4MHYdE",
         "properties": {
           "City": "Cleveland",
@@ -395,12 +516,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-28T23:46:09.000Z",
           "Title": "Asian community group, worried by coronavirus-related racism, urges Clevelanders to ‘get the facts’",
-          "URL": "https://www.cleveland.com/news/2020/02/asian-community-group-frustrated-by-coronavirus-related-racism-urges-clevelanders-to-get-the-facts.html"
+          "URL": "https://www.cleveland.com/news/2020/02/asian-community-group-frustrated-by-coronavirus-related-racism-urges-clevelanders-to-get-the-facts.html",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -89.3824310344644,
+            43.075571463022335
+          ],
+          "type": "Point"
+        },
         "id": "recGhPILJHdYgc6Fy",
         "properties": {
           "City": "Madison ",
@@ -416,12 +544,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-15T21:35:08.000Z",
           "Title": "Latest street message: ‘Defend Black Womxn’",
-          "URL": "https://wkow.com/2020/07/07/latest-street-message-defend-black-women/"
+          "URL": "https://wkow.com/2020/07/07/latest-street-message-defend-black-women/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -71.05957031250001,
+            42.36634458395547
+          ],
+          "type": "Point"
+        },
         "id": "recHIpmiAkspN906g",
         "properties": {
           "City": "Boston",
@@ -437,12 +572,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-09-04T21:20:48.000Z",
           "Title": "Laid off Four Seasons workers to receive full severance package amid coronavirus crisis",
-          "URL": "https://www.bostonherald.com/2020/06/28/laid-off-four-seasons-workers-to-receive-full-severance-package-amid-coronavirus-crisis/"
+          "URL": "https://www.bostonherald.com/2020/06/28/laid-off-four-seasons-workers-to-receive-full-severance-package-amid-coronavirus-crisis/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -89.81323242187501,
+            44.66743203082229
+          ],
+          "type": "Point"
+        },
         "id": "recHUoChyaOlafCWR",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -457,12 +599,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-09-01T23:52:35.000Z",
           "Title": "Domestic violence helpline available over text",
-          "URL": "https://waow.com/2020/04/29/domestic-violence-helpline-available-over-text/"
+          "URL": "https://waow.com/2020/04/29/domestic-violence-helpline-available-over-text/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -97.87994384765626,
+            39.43390596272554
+          ],
+          "type": "Point"
+        },
         "id": "recHwSyRMjURGij8o",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -477,12 +626,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-08-28T21:17:05.000Z",
           "Title": "The Changing Demographics of Asian Americans",
-          "URL": "https://www.kcet.org/shows/asian-americans/the-changing-demographics-of-asian-americans"
+          "URL": "https://www.kcet.org/shows/asian-americans/the-changing-demographics-of-asian-americans",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -73.9863967895508,
+            40.729527157689255
+          ],
+          "type": "Point"
+        },
         "id": "recI3kct5YgUsgMwM",
         "properties": {
           "City": "New York",
@@ -498,12 +654,19 @@
           "Theme": "Exposing system inequalities",
           "Timestamp": "2020-08-25T23:19:02.000Z",
           "Title": "How Coronavirus Relief Is Being Distributed to Undocumented Immigrants",
-          "URL": "https://documentedny.com/2020/05/29/how-coronavirus-relief-is-being-distributed-to-undocumented-immigrants/"
+          "URL": "https://documentedny.com/2020/05/29/how-coronavirus-relief-is-being-distributed-to-undocumented-immigrants/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -87.65915840864183,
+            41.968652037012085
+          ],
+          "type": "Point"
+        },
         "id": "recIUecgnGwMMbQ0C",
         "properties": {
           "City": "Chicago",
@@ -520,12 +683,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-21T23:01:53.000Z",
           "Title": "We don’t have to prove our ‘American-ness’",
-          "URL": "https://www.chicagoreader.com/chicago/asian-american-racism-coronavirus/Content?oid=79147202"
+          "URL": "https://www.chicagoreader.com/chicago/asian-american-racism-coronavirus/Content?oid=79147202",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -77.03653192402273,
+            38.897725177785254
+          ],
+          "type": "Point"
+        },
         "id": "recJ2IKd1imnmvRqo",
         "properties": {
           "City": "Washington",
@@ -541,12 +711,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-18T22:03:17.000Z",
           "Title": "Supreme Court Upholds DACA, Protecting 'Dreamers' (For Now)",
-          "URL": "https://laist.com/2020/06/18/supreme_court_upholds_daca_in_blow_to_trump_administration.php"
+          "URL": "https://laist.com/2020/06/18/supreme_court_upholds_daca_in_blow_to_trump_administration.php",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -98.34960937500001,
+            38.67478920520597
+          ],
+          "type": "Point"
+        },
         "id": "recJfq0t7vF4yvMPt",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -561,12 +738,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-08-25T21:29:48.000Z",
           "Title": "TSURU FOR SOLIDARITY: NIKKEI VOICES OF PROTEST",
-          "URL": "http://www.rafu.com/2020/07/tsuru-for-solidarity-nikkei-voices-of-protest/"
+          "URL": "http://www.rafu.com/2020/07/tsuru-for-solidarity-nikkei-voices-of-protest/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -87.65912622213365,
+            41.96863608299888
+          ],
+          "type": "Point"
+        },
         "id": "recJq9hjNVTzbze3F",
         "properties": {
           "City": "Chicago",
@@ -582,12 +766,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-21T22:09:06.000Z",
           "Title": "How the Pandemic Changed—and Fueled—the Fight Against Anti-Asian Racism",
-          "URL": "https://www.self.com/story/fighting-anti-asian-racism-pandemic"
+          "URL": "https://www.self.com/story/fighting-anti-asian-racism-pandemic",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.40589410066606,
+            37.794634883419384
+          ],
+          "type": "Point"
+        },
         "id": "recKd44zmnRHn00Ju",
         "properties": {
           "City": "San Francisco",
@@ -604,12 +795,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-21T21:14:32.000Z",
           "Title": "Op-Ed:  Trump’s racist comments are fueling hate crimes against Asian Americans. Time for state leaders to step in",
-          "URL": "https://www.latimes.com/opinion/story/2020-04-01/coronavirus-anti-asian-discrimination-threats"
+          "URL": "https://www.latimes.com/opinion/story/2020-04-01/coronavirus-anti-asian-discrimination-threats",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -87.65915840864183,
+            41.968652037012085
+          ],
+          "type": "Point"
+        },
         "id": "recLO4GHxw0nzZY0p",
         "properties": {
           "City": "Chicago",
@@ -626,12 +824,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-21T23:01:53.000Z",
           "Title": "We don’t have to prove our ‘American-ness’",
-          "URL": "https://www.chicagoreader.com/chicago/asian-american-racism-coronavirus/Content?oid=79147202"
+          "URL": "https://www.chicagoreader.com/chicago/asian-american-racism-coronavirus/Content?oid=79147202",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -89.38174438895659,
+            43.07807922870835
+          ],
+          "type": "Point"
+        },
         "id": "recMui3o41eOPBzBe",
         "properties": {
           "City": "Madison ",
@@ -647,12 +852,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-18T21:47:24.000Z",
           "Title": "Madison Mayor Announces Vote To Remove Police From Local Schools",
-          "URL": "https://www.wortfm.org/madison-mayor-announces-vote-to-remove-police-from-local-schools/"
+          "URL": "https://www.wortfm.org/madison-mayor-announces-vote-to-remove-police-from-local-schools/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.45361328125,
+            37.78672476186115
+          ],
+          "type": "Point"
+        },
         "id": "recNBybCk4tbiwdKM",
         "properties": {
           "City": "San Francisco",
@@ -668,12 +880,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-04T23:22:09.000Z",
           "Title": "City officials, seniors condemn brutal Chinatown attacks",
-          "URL": "https://sfbayca.com/2019/11/13/city-officials-seniors-condemn-brutal-chinatown-attacks/"
+          "URL": "https://sfbayca.com/2019/11/13/city-officials-seniors-condemn-brutal-chinatown-attacks/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -95.99338531494142,
+            36.15169355487976
+          ],
+          "type": "Point"
+        },
         "id": "recNRU4Ko7fFhbeU8",
         "properties": {
           "City": "Tulsa",
@@ -689,12 +908,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-21T21:59:02.000Z",
           "Title": "Trump can't claim 'Kung Flu' doesn't affect Asian Americans in this climate, experts say",
-          "URL": "https://www.nbcnews.com/news/asian-america/trump-can-t-claim-kung-flu-doesn-t-affect-asian-n1231812"
+          "URL": "https://www.nbcnews.com/news/asian-america/trump-can-t-claim-kung-flu-doesn-t-affect-asian-n1231812",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -93.28353881835939,
+            44.96270275058462
+          ],
+          "type": "Point"
+        },
         "id": "recNWj60297e0Z1Ct",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -709,12 +935,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-01T22:44:24.000Z",
           "Title": "Asian-Americans in Minnesota face insults, hostility during virus outbreak",
-          "URL": "https://www.startribune.com/local-asian-americans-face-insults-hostility/569178982/"
+          "URL": "https://www.startribune.com/local-asian-americans-face-insults-hostility/569178982/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -93.26969861984254,
+            44.96549393438803
+          ],
+          "type": "Point"
+        },
         "id": "recOXzFCzwCSOIDg1",
         "properties": {
           "City": "Minneapolis",
@@ -730,12 +963,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-01T22:53:11.000Z",
           "Title": "‘We don’t feel safe’: Asian Americans navigate racism amid COVID-19 crisis",
-          "URL": "https://www.twincities.com/2020/03/28/we-dont-feel-safe-asian-americans-navigate-racism-amid-covid-19-crisis/"
+          "URL": "https://www.twincities.com/2020/03/28/we-dont-feel-safe-asian-americans-navigate-racism-amid-covid-19-crisis/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -120.30066780745985,
+            44.049942103658175
+          ],
+          "type": "Point"
+        },
         "id": "recPPNlUjHqLzoTVS",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -750,12 +990,19 @@
           "Theme": "Exposing system inequalities",
           "Timestamp": "2020-08-28T21:11:12.000Z",
           "Title": "People Of Color Disproportionately Represented In Coronavirus Caseload",
-          "URL": "https://www.opb.org/news/article/live-updates-oregon-washington-coronavirus-covid-19-april-30/"
+          "URL": "https://www.opb.org/news/article/live-updates-oregon-washington-coronavirus-covid-19-april-30/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -75.16383826732637,
+            39.95247512307141
+          ],
+          "type": "Point"
+        },
         "id": "recRc6nRLa6W5ZlgZ",
         "properties": {
           "City": "Philadelphia",
@@ -771,7 +1018,8 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-25T21:44:19.000Z",
           "Title": "Coronavirus hasn’t reached Philly. But fear and racism are spreading.",
-          "URL": "https://www.inquirer.com/news/coronavirus-china-chinese-racism-fear-wuhan-philly-20200204.html"
+          "URL": "https://www.inquirer.com/news/coronavirus-china-chinese-racism-fear-wuhan-philly-20200204.html",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
@@ -787,12 +1035,19 @@
           "Story Type": "News story",
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-09-01T23:46:49.000Z",
-          "Title": "Food pantry offers culturally specific items to immigrant communities amid pandemic"
+          "Title": "Food pantry offers culturally specific items to immigrant communities amid pandemic",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -121.4940262,
+            38.57605542
+          ],
+          "type": "Point"
+        },
         "id": "recRfL8fWJDChSbNu",
         "properties": {
           "City": "Sacramento",
@@ -806,12 +1061,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-07-31T20:31:05.000Z",
           "Title": "Sacramento City Schools Consider Ending Police Contract For School Resource Officers",
-          "URL": "https://www.capradio.org/articles/2020/06/24/sacramento-city-schools-consider-ending-police-contract-for-school-resource-officers/"
+          "URL": "https://www.capradio.org/articles/2020/06/24/sacramento-city-schools-consider-ending-police-contract-for-school-resource-officers/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -93.27117919921876,
+            44.96838081402331
+          ],
+          "type": "Point"
+        },
         "id": "recRnrSaElXpKrXfA",
         "properties": {
           "City": "Minneapolis",
@@ -827,12 +1089,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-01T21:55:26.000Z",
           "Title": "Asian-Americans feel targeted with 'Chinese virus' label",
-          "URL": "https://kstp.com/coronavirus/asian-americans-feel-targeted-with-chinese-virus-label-march-19-2020/5678961/"
+          "URL": "https://kstp.com/coronavirus/asian-americans-feel-targeted-with-chinese-virus-label-march-19-2020/5678961/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -74.0087127685547,
+            40.728445820010194
+          ],
+          "type": "Point"
+        },
         "id": "recRzcSM2KGs6tHYk",
         "properties": {
           "City": "New York City",
@@ -848,12 +1117,19 @@
           "Theme": "Exposing system inequalities",
           "Timestamp": "2020-08-25T22:03:31.000Z",
           "Title": "Half of NYC’s Immigrants are Unemployed Because of the Pandemic, Report Finds",
-          "URL": "https://www.thecity.nyc/2020/6/21/21298436/half-of-nyc-immigrants-unemployed-because-of-pandemic"
+          "URL": "https://www.thecity.nyc/2020/6/21/21298436/half-of-nyc-immigrants-unemployed-because-of-pandemic",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -89.38311767997222,
+            43.07296327952303
+          ],
+          "type": "Point"
+        },
         "id": "recTOP4p8cygo7fXJ",
         "properties": {
           "City": "Madison ",
@@ -869,12 +1145,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-18T21:38:04.000Z",
           "Title": "Freedom, Inc. protest organizers reflect on week of action",
-          "URL": "https://wkow.com/2020/06/07/freedom-inc-protest-organizers-reflect-on-week-of-action/"
+          "URL": "https://wkow.com/2020/06/07/freedom-inc-protest-organizers-reflect-on-week-of-action/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -84.19182121753694,
+            33.9165466197329
+          ],
+          "type": "Point"
+        },
         "id": "recTTxvFfY836pjSW",
         "properties": {
           "City": "Atlanta ",
@@ -890,12 +1173,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-21T23:46:07.000Z",
           "Title": "Local Advocates Concerned About Anti-Asian Racism Amid Pandemic",
-          "URL": "https://www.wabe.org/local-advocates-about-anti-asian-racism-amid-pandemic/"
+          "URL": "https://www.wabe.org/local-advocates-about-anti-asian-racism-amid-pandemic/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -89.38723755301909,
+            43.07356517581469
+          ],
+          "type": "Point"
+        },
         "id": "recTUMWRbXZ3WaGZb",
         "properties": {
           "City": "Madison ",
@@ -911,12 +1201,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-18T21:34:38.000Z",
           "Title": "Freedom Inc. protest calls for immediate end to police in Madison schools",
-          "URL": "https://www.wiscnews.com/news/state-and-regional/freedom-inc-protest-calls-for-immediate-end-to-police-in-madison-schools/article_e249c3d6-3909-5c03-b2d1-4b1edbe37757.html"
+          "URL": "https://www.wiscnews.com/news/state-and-regional/freedom-inc-protest-calls-for-immediate-end-to-police-in-madison-schools/article_e249c3d6-3909-5c03-b2d1-4b1edbe37757.html",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -94.19403076171876,
+            46.35800587672091
+          ],
+          "type": "Point"
+        },
         "id": "recTvm5sK24bBVN87",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -931,12 +1228,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-01T23:02:20.000Z",
           "Title": "How to be an ally for Asian Americans facing racism amid COVID-19",
-          "URL": "https://www.mprnews.org/story/2020/05/19/spotlight-on-asian-discrimination-covid19"
+          "URL": "https://www.mprnews.org/story/2020/05/19/spotlight-on-asian-discrimination-covid19",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.66647338867188,
+            45.511970901574045
+          ],
+          "type": "Point"
+        },
         "id": "recUokWiWlrlr3Ijz",
         "properties": {
           "City": "Portland",
@@ -952,12 +1256,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-08-25T23:55:52.000Z",
           "Title": "How Asian and Chinese businesses are dealing with COVID-19",
-          "URL": "https://pamplinmedia.com/scc/103-news/459475-373836-how-asian-and-chinese-businesses-are-dealing-with-covid-19-pwoff"
+          "URL": "https://pamplinmedia.com/scc/103-news/459475-373836-how-asian-and-chinese-businesses-are-dealing-with-covid-19-pwoff",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -121.4899749797769,
+            38.57937263602794
+          ],
+          "type": "Point"
+        },
         "id": "recWAOti6JdKCm32y",
         "properties": {
           "City": "Sacramento",
@@ -973,12 +1284,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-09-18T21:57:59.000Z",
           "Title": "Advocates Worry Coronavirus Could Impact California Census Count",
-          "URL": "https://www.capradio.org/articles/2020/03/11/advocates-worry-coronavirus-could-impact-california-census-count/"
+          "URL": "https://www.capradio.org/articles/2020/03/11/advocates-worry-coronavirus-could-impact-california-census-count/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -81.69570922851564,
+            41.50545185642846
+          ],
+          "type": "Point"
+        },
         "id": "recXCjy8YozC8sY2z",
         "properties": {
           "City": "Cleveland",
@@ -994,7 +1312,8 @@
           "Theme": "Exposing system inequalities",
           "Timestamp": "2020-08-28T22:52:50.000Z",
           "Title": "Two COVID-19 Disparities in Summit County: Death Rate High, Asian Residents Disproportionately Affected",
-          "URL": "https://spectrumnews1.com/oh/columbus/news/2020/07/01/two-covid-19-disparities-in-summit-county--death-rate-high--asian-residents-disproportionately-affected"
+          "URL": "https://spectrumnews1.com/oh/columbus/news/2020/07/01/two-covid-19-disparities-in-summit-county--death-rate-high--asian-residents-disproportionately-affected",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
@@ -1008,12 +1327,19 @@
           "Story Type": "News story",
           "Theme": "Intersectional issues",
           "Timestamp": "2020-08-25T23:22:31.000Z",
-          "Title": "New details for Jade District grant program"
+          "Title": "New details for Jade District grant program",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.40592092275621,
+            37.794579776013364
+          ],
+          "type": "Point"
+        },
         "id": "recYMHxyt9j3CHonE",
         "properties": {
           "City": "San Francisco",
@@ -1029,12 +1355,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-21T21:22:40.000Z",
           "Title": "Asian Americans report rise in racist attacks amid pandemic",
-          "URL": "https://www.pbs.org/newshour/show/what-anti-asian-attacks-say-about-american-culture-during-crisis"
+          "URL": "https://www.pbs.org/newshour/show/what-anti-asian-attacks-say-about-american-culture-during-crisis",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -87.63470202684404,
+            41.90168581322728
+          ],
+          "type": "Point"
+        },
         "id": "recYgaybyA2n2CxxH",
         "properties": {
           "City": "Chicago",
@@ -1050,12 +1383,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-08-20T21:15:10.000Z",
           "Title": "75 ways Asian Americans and Pacific Islanders are speaking out for Black lives",
-          "URL": "https://www.nbcnews.com/news/asian-america/75-ways-asian-americans-pacific-islanders-are-speaking-out-black-n1230551"
+          "URL": "https://www.nbcnews.com/news/asian-america/75-ways-asian-americans-pacific-islanders-are-speaking-out-black-n1230551",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -73.99085998535158,
+            40.733649088278675
+          ],
+          "type": "Point"
+        },
         "id": "recZpBkTgYHoTSExf",
         "properties": {
           "City": "New York City",
@@ -1071,12 +1411,19 @@
           "Theme": "Exposing system inequalities",
           "Timestamp": "2020-08-25T22:27:10.000Z",
           "Title": "New Yorkers Sharing Crowded Apartments Struggle With Coronavirus Quarantines & Social Distancing",
-          "URL": "https://gothamist.com/news/new-yorkers-sharing-crowded-apartments-struggle-coronavirus-quarantines-social-distancing"
+          "URL": "https://gothamist.com/news/new-yorkers-sharing-crowded-apartments-struggle-coronavirus-quarantines-social-distancing",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -121.4242029196612,
+            38.56055471420561
+          ],
+          "type": "Point"
+        },
         "id": "reca71DheJQFQHSXj",
         "properties": {
           "City": "Sacramento",
@@ -1092,12 +1439,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-18T21:56:18.000Z",
           "Title": "Tou Thao’s role in George Floyd killing has Sacramentans discussing Hmong-black relations",
-          "URL": "https://www.sacbee.com/news/local/article243402956.html"
+          "URL": "https://www.sacbee.com/news/local/article243402956.html",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -80.83808899,
+            35.21414834
+          ],
+          "type": "Point"
+        },
         "id": "recbMi6WeTBkwp4Wf",
         "properties": {
           "City": "Charlotte",
@@ -1111,12 +1465,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-07-31T20:31:05.000Z",
           "Title": "Organizers Call on D.A. Merriweather to Drop All Protest Charges",
-          "URL": "https://qcnerve.com/organizers-call-on-d-a-merriweather-to-drop-all-protest-charges/"
+          "URL": "https://qcnerve.com/organizers-call-on-d-a-merriweather-to-drop-all-protest-charges/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -94.33959960937501,
+            46.39122720192668
+          ],
+          "type": "Point"
+        },
         "id": "recbg1Is8YWRTdv2m",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -1131,12 +1492,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-01T23:37:56.000Z",
           "Title": "Fear, anxiety in Minnesota over plans to deport some Hmong residents",
-          "URL": "https://www.startribune.com/fear-anxiety-in-minnesota-over-plans-to-deport-some-hmong-residents/567989172/"
+          "URL": "https://www.startribune.com/fear-anxiety-in-minnesota-over-plans-to-deport-some-hmong-residents/567989172/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -75.17116338014604,
+            39.953700881280696
+          ],
+          "type": "Point"
+        },
         "id": "recenVzVKAFVqwdBg",
         "properties": {
           "City": "Philadelphia",
@@ -1152,12 +1520,19 @@
           "Theme": "Exposing system inequalities",
           "Timestamp": "2020-08-25T21:09:59.000Z",
           "Title": "With undocumented families excluded from coronavirus aid, immigrant organizations step in to help keep food on the table",
-          "URL": "https://www.inquirer.com/news/immigrant-migrant-aid-unemployment-coronavirus-stimulus-20200611.html"
+          "URL": "https://www.inquirer.com/news/immigrant-migrant-aid-unemployment-coronavirus-stimulus-20200611.html",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.67516824198539,
+            45.52508661632931
+          ],
+          "type": "Point"
+        },
         "id": "rechNaJAteAteDjBl",
         "properties": {
           "City": "Portland ",
@@ -1173,12 +1548,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-08-28T22:21:06.000Z",
           "Title": "Nearly $200,000 in grants could reach Portland small businesses hurt by coronavirus next week",
-          "URL": "https://www.oregonlive.com/coronavirus/2020/03/nearly-200000-in-grants-could-reach-portland-small-businesses-hurt-by-coronavirus-next-week.html"
+          "URL": "https://www.oregonlive.com/coronavirus/2020/03/nearly-200000-in-grants-could-reach-portland-small-businesses-hurt-by-coronavirus-next-week.html",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.40593165159227,
+            37.794673034676386
+          ],
+          "type": "Point"
+        },
         "id": "reci6Ihd7TdVlK8VY",
         "properties": {
           "City": "San Francisco",
@@ -1194,12 +1576,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-20T21:32:09.000Z",
           "Title": "800+ Hate Crimes Against Asians in California Reported in Past 3 Months",
-          "URL": "https://sanfrancisco.cbslocal.com/2020/07/05/800-hate-crimes-against-asians-in-california-reported-in-past-3-months/"
+          "URL": "https://sanfrancisco.cbslocal.com/2020/07/05/800-hate-crimes-against-asians-in-california-reported-in-past-3-months/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -106.64785767439753,
+            35.07982558444753
+          ],
+          "type": "Point"
+        },
         "id": "recjP4B8WcIp3es3n",
         "properties": {
           "City": "Albuquerque",
@@ -1215,12 +1604,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-18T22:51:21.000Z",
           "Title": "Asian American community speaking out against racism during coronavirus pandemic",
-          "URL": "https://www.krqe.com/health/coronavirus-new-mexico/asian-american-community-speaking-out-against-racism-during-coronavirus-pandemic/"
+          "URL": "https://www.krqe.com/health/coronavirus-new-mexico/asian-american-community-speaking-out-against-racism-during-coronavirus-pandemic/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.6726531982422,
+            45.51781986738799
+          ],
+          "type": "Point"
+        },
         "id": "recjl7pYzPrtT9r08",
         "properties": {
           "City": "Portland ",
@@ -1236,12 +1632,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-08-25T23:33:52.000Z",
           "Title": "New details for Jade District grant program",
-          "URL": "https://www.bizjournals.com/portland/news/2020/03/18/prosper-portland-provides-new-details-for-jade.html"
+          "URL": "https://www.bizjournals.com/portland/news/2020/03/18/prosper-portland-provides-new-details-for-jade.html",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.67525973176818,
+            45.52507733087022
+          ],
+          "type": "Point"
+        },
         "id": "recjztZJ2IM06D3n1",
         "properties": {
           "City": "Portland",
@@ -1257,12 +1660,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-08-28T22:08:15.000Z",
           "Title": "Jade District Businesses Offered $150k of Relief Grants After Weeks of Declining Business",
-          "URL": "https://pdx.eater.com/2020/3/17/21184374/jade-district-relief-grants-coronavirus-portland-business"
+          "URL": "https://pdx.eater.com/2020/3/17/21184374/jade-district-relief-grants-coronavirus-portland-business",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -89.38380432548003,
+            43.073966439276205
+          ],
+          "type": "Point"
+        },
         "id": "reck8ACFPdKFMbJBA",
         "properties": {
           "City": "Madison ",
@@ -1278,12 +1688,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-18T21:42:19.000Z",
           "Title": "Guest column: Freedom Inc. faces down racist media narratives",
-          "URL": "https://www.tonemadison.com/articles/guest-column-freedom-inc-faces-down-racist-media-narratives"
+          "URL": "https://www.tonemadison.com/articles/guest-column-freedom-inc-faces-down-racist-media-narratives",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -84.19170320034029,
+            33.916644556386224
+          ],
+          "type": "Point"
+        },
         "id": "reckPyygbNDFm2Ud5",
         "properties": {
           "City": "Atlanta ",
@@ -1299,12 +1716,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-08-21T23:59:02.000Z",
           "Title": "Metro Atlanta’s Asian Community Gears Up For 2020 Census",
-          "URL": "https://www.wabe.org/metro-atlantas-asian-community-gears-up-for-2020-census/"
+          "URL": "https://www.wabe.org/metro-atlantas-asian-community-gears-up-for-2020-census/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.27038890123369,
+            37.79902214883163
+          ],
+          "type": "Point"
+        },
         "id": "reckSIR9AkDZWkTPM",
         "properties": {
           "City": "Oakland",
@@ -1320,12 +1744,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-09-08T23:23:14.000Z",
           "Title": "Applications open for Bayanihan COVID-19 Relief Fund",
-          "URL": "https://www.asianjournal.com/usa/northerncalifornia/applications-open-for-bayanihan-covid-19-relief-fund/"
+          "URL": "https://www.asianjournal.com/usa/northerncalifornia/applications-open-for-bayanihan-covid-19-relief-fund/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.42408752441408,
+            37.77822834862847
+          ],
+          "type": "Point"
+        },
         "id": "reckicoTw5vIElqDa",
         "properties": {
           "City": "San Francisco",
@@ -1341,12 +1772,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-21T21:35:10.000Z",
           "Title": "Civil Rights Organizations Establish STOP AAPI HATE Reporting Center",
-          "URL": "https://www.rafu.com/2020/03/civil-rights-organizations-establish-stop-aapi-hate-reporting-center/"
+          "URL": "https://www.rafu.com/2020/03/civil-rights-organizations-establish-stop-aapi-hate-reporting-center/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -89.41634809967583,
+            43.03317054711134
+          ],
+          "type": "Point"
+        },
         "id": "reclev0zITQJSUgTb",
         "properties": {
           "City": "Madison ",
@@ -1362,12 +1800,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-15T21:21:28.000Z",
           "Title": "Freedom Inc. rallies for police-free schools statewide, refuses to condemn Tuesday’s violence",
-          "URL": "https://wkow.com/2020/06/26/freedom-inc-rallies-for-police-free-schools-statewide-refuses-to-condemn-tuesdays-violence/"
+          "URL": "https://wkow.com/2020/06/26/freedom-inc-rallies-for-police-free-schools-statewide-refuses-to-condemn-tuesdays-violence/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.5190163,
+            47.62535938
+          ],
+          "type": "Point"
+        },
         "id": "recml5ReBIB2sCATD",
         "properties": {
           "City": "Bainbridge Island",
@@ -1381,12 +1826,19 @@
           "Theme": "Exposing system inequalities",
           "Timestamp": "2020-07-31T20:31:05.000Z",
           "Title": "Anti-Asian Immigration Violence Is Nothing New",
-          "URL": "https://www.yesmagazine.org/social-justice/2020/07/07/anti-asian-immigration-rhetoric-nothing-new/"
+          "URL": "https://www.yesmagazine.org/social-justice/2020/07/07/anti-asian-immigration-rhetoric-nothing-new/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -100.01953125000001,
+            39.34704251121735
+          ],
+          "type": "Point"
+        },
         "id": "recnC9Tsb9Rp9sjZb",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -1401,12 +1853,19 @@
           "Theme": "Exposing system inequalities",
           "Timestamp": "2020-08-25T22:15:40.000Z",
           "Title": "How Can We Support Small Businesses During Coronavirus?",
-          "URL": "https://www.barrons.com/articles/how-can-we-support-small-businesses-during-coronavirus-51591952400"
+          "URL": "https://www.barrons.com/articles/how-can-we-support-small-businesses-during-coronavirus-51591952400",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -118.32185697565366,
+            34.05612665117182
+          ],
+          "type": "Point"
+        },
         "id": "recoCJBJERvIkCWo8",
         "properties": {
           "City": "Los Angeles",
@@ -1422,12 +1881,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-09-18T22:08:34.000Z",
           "Title": "Coronavirus Concern Has Census Outreach Shifting Tactics",
-          "URL": "https://laist.com/latest/post/20200311/coronavirus-concern-census-shifting-tactics"
+          "URL": "https://laist.com/latest/post/20200311/coronavirus-concern-census-shifting-tactics",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -93.26568603515625,
+            44.96838081402331
+          ],
+          "type": "Point"
+        },
         "id": "recokIPhsuhMhU8eL",
         "properties": {
           "City": "Minneapolis",
@@ -1443,12 +1909,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-09-01T23:47:19.000Z",
           "Title": "Food pantry offers culturally specific items to immigrant communities amid pandemic",
-          "URL": "https://www.nbcnews.com/news/asian-america/food-pantry-offers-culturally-specific-items-immigrant-communities-amid-pandemic-n1196536"
+          "URL": "https://www.nbcnews.com/news/asian-america/food-pantry-offers-culturally-specific-items-immigrant-communities-amid-pandemic-n1196536",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -71.06094360351564,
+            42.36104118745841
+          ],
+          "type": "Point"
+        },
         "id": "recowO1FnY4C0idJf",
         "properties": {
           "City": "Boston",
@@ -1464,12 +1937,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-09-04T21:23:59.000Z",
           "Title": "After Years of Organizing, Affordable Housing, Library Coming to Boston Chinatown",
-          "URL": "https://nextcity.org/daily/entry/after-years-organizing-affordable-housing-library-boston-chinatown"
+          "URL": "https://nextcity.org/daily/entry/after-years-organizing-affordable-housing-library-boston-chinatown",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -75.16390800476076,
+            39.95158545956956
+          ],
+          "type": "Point"
+        },
         "id": "recpL74VGT9fmKXnp",
         "properties": {
           "City": "Philadelphia",
@@ -1485,12 +1965,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-08-25T21:20:02.000Z",
           "Title": "Volunteers needed to translate coronavirus help for Philly area Asian Americans",
-          "URL": "Volunteers needed to translate coronavirus help for Philly area Asian Americans"
+          "URL": "Volunteers needed to translate coronavirus help for Philly area Asian Americans",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -87.69876927137376,
+            41.95960945945799
+          ],
+          "type": "Point"
+        },
         "id": "recpWAopXKu5Cm4sc",
         "properties": {
           "City": "Chicago",
@@ -1506,12 +1993,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-08-21T22:40:50.000Z",
           "Title": "For Non-English Speakers, Language Is A Barrier During The COVID-19 Pandemic",
-          "URL": "https://www.wbez.org/stories/for-non-english-speakers-language-is-a-barrier-during-the-covid-19-pandemic/72f6c85c-7f89-4e60-807d-60ab946af265"
+          "URL": "https://www.wbez.org/stories/for-non-english-speakers-language-is-a-barrier-during-the-covid-19-pandemic/72f6c85c-7f89-4e60-807d-60ab946af265",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.40592092275621,
+            37.7946009711744
+          ],
+          "type": "Point"
+        },
         "id": "recpi6KNJ1PamHFkZ",
         "properties": {
           "City": "San Francisco",
@@ -1527,12 +2021,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-21T21:43:09.000Z",
           "Title": "Tracking the Latest Chapter of Anti-Asian Racism in America",
-          "URL": "https://www.kqed.org/news/11808957/tracking-the-latest-chapter-of-anti-asian-racism-in-america"
+          "URL": "https://www.kqed.org/news/11808957/tracking-the-latest-chapter-of-anti-asian-racism-in-america",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -73.77593994,
+            40.65332714
+          ],
+          "type": "Point"
+        },
         "id": "recqL8qY5kJB4byvA",
         "properties": {
           "City": "New York",
@@ -1546,12 +2047,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-07-31T20:31:05.000Z",
           "Title": "How Coronavirus Relief Is Being Distributed to Undocumented Immigrants",
-          "URL": "https://documentedny.com/2020/05/29/how-coronavirus-relief-is-being-distributed-to-undocumented-immigrants/"
+          "URL": "https://documentedny.com/2020/05/29/how-coronavirus-relief-is-being-distributed-to-undocumented-immigrants/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -78.64123535575345,
+            35.7790094506728
+          ],
+          "type": "Point"
+        },
         "id": "recrCn0kvER6PwJzS",
         "properties": {
           "City": "Raleigh",
@@ -1567,7 +2075,8 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-18T22:39:48.000Z",
           "Title": "Asians, Asian-Americans Feeling the Pain of Prejudice During Pandemic",
-          "URL": "https://spectrumlocalnews.com/nc/charlotte/news/2020/04/23/asians--asian-americans-feeling-the-pain-of-prejudice-during-pandemic"
+          "URL": "https://spectrumlocalnews.com/nc/charlotte/news/2020/04/23/asians--asian-americans-feeling-the-pain-of-prejudice-during-pandemic",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
@@ -1582,12 +2091,19 @@
           "Story Type": "News story",
           "Theme": "Intersectional issues",
           "Timestamp": "2020-08-21T21:49:02.000Z",
-          "Title": "Trump can't claim 'Kung Flu' doesn't affect Asian Americans in this climate, experts say"
+          "Title": "Trump can't claim 'Kung Flu' doesn't affect Asian Americans in this climate, experts say",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -78.65019285682139,
+            35.780592376200346
+          ],
+          "type": "Point"
+        },
         "id": "recs5zTRmO8vsoiAH",
         "properties": {
           "City": "Raleigh",
@@ -1603,12 +2119,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-18T22:38:07.000Z",
           "Title": "NCAAT offers safe space for Asian Americans in NC to report anti-Asian incidents amid COVID-19 outbreak",
-          "URL": "https://mountainx.com/blogwire/ncaat-offers-safe-space-for-asian-americans-in-nc-to-report-anti-asian-incidents-amid-covid-19-outbreak/"
+          "URL": "https://mountainx.com/blogwire/ncaat-offers-safe-space-for-asian-americans-in-nc-to-report-anti-asian-incidents-amid-covid-19-outbreak/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.4161911,
+            37.77339886
+          ],
+          "type": "Point"
+        },
         "id": "recsZLWw1hmNsG6xX",
         "properties": {
           "City": "San Francisco",
@@ -1622,12 +2145,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-07-31T20:30:50.000Z",
           "Title": "Racism is a Public Health Issue: Examining the Impact of Police Brutality on Black Communities in the Age of COVID-19",
-          "URL": "https://www.sfchronicle.com/bayarea/article/Coronavirus-Asian-American-groups-compile-hate-15144295.php"
+          "URL": "https://www.sfchronicle.com/bayarea/article/Coronavirus-Asian-American-groups-compile-hate-15144295.php",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -94.32861328125,
+            46.405196622368194
+          ],
+          "type": "Point"
+        },
         "id": "recsgMi70W5UFbfTt",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -1642,12 +2172,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-01T22:07:53.000Z",
           "Title": "‘I don’t have the virus’: Asian Americans in Minnesota confront a COVID-19 backlash",
-          "URL": "https://www.mprnews.org/story/2020/03/25/asian-americans-in-minnesota-confront-a-covid19-backlash"
+          "URL": "https://www.mprnews.org/story/2020/03/25/asian-americans-in-minnesota-confront-a-covid19-backlash",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -71.06575012207033,
+            42.36205592276628
+          ],
+          "type": "Point"
+        },
         "id": "rectBnzRca3WryS1y",
         "properties": {
           "City": "Boston",
@@ -1663,12 +2200,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-09-04T21:33:20.000Z",
           "Title": "Asian-American leaders in Massachusetts decry racism amid global pandemic",
-          "URL": "https://www.boston.com/news/local-news/2020/03/12/asian-american-leaders-in-massachusetts-decry-racism-amid-global-pandemic"
+          "URL": "https://www.boston.com/news/local-news/2020/03/12/asian-american-leaders-in-massachusetts-decry-racism-amid-global-pandemic",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -73.79834175109865,
+            40.75101814664832
+          ],
+          "type": "Point"
+        },
         "id": "rectMGjNkm2RwhUjX",
         "properties": {
           "City": "Queens",
@@ -1684,12 +2228,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-08-25T23:10:40.000Z",
           "Title": "In COVID-19 Epicenter of Queens, Census Response Lags Far Behind",
-          "URL": "https://documentedny.com/2020/04/23/in-covid-19-epicenter-of-queens-census-response-lags-far-behind/"
+          "URL": "https://documentedny.com/2020/04/23/in-covid-19-epicenter-of-queens-census-response-lags-far-behind/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -82.73793786764145,
+            40.44228611902232
+          ],
+          "type": "Point"
+        },
         "id": "rectgbXlWd1MfbzMY",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -1704,12 +2255,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-08-28T23:19:52.000Z",
           "Title": "Contact Tracing Is a Time-Tested Method for Fighting Outbreaks But It's Facing New Challenges",
-          "URL": "https://www.ideastream.org/news/contact-tracing-is-a-time-tested-method-for-fighting-outbreaks-but-its-facing-new-challenges"
+          "URL": "https://www.ideastream.org/news/contact-tracing-is-a-time-tested-method-for-fighting-outbreaks-but-its-facing-new-challenges",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -122.67805940595282,
+            45.52493704338902
+          ],
+          "type": "Point"
+        },
         "id": "recutq8zXl463PBBY",
         "properties": {
           "City": "Portland",
@@ -1725,12 +2283,19 @@
           "Theme": "Rise in anti-Asian violence",
           "Timestamp": "2020-08-28T22:42:11.000Z",
           "Title": "Coronavirus Fear Hurts Some Businesses In Portland's Jade District",
-          "URL": "https://www.opb.org/news/article/corona-virus-oregon-washington-jade-district-business/"
+          "URL": "https://www.opb.org/news/article/corona-virus-oregon-washington-jade-district-business/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -97.87719726562501,
+            39.36695204842929
+          ],
+          "type": "Point"
+        },
         "id": "recvKjUivOh97dRu3",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -1744,12 +2309,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-01T21:45:13.000Z",
           "Title": "George Floyd death sparks Asian American soul-searching",
-          "URL": "https://www.japantimes.co.jp/news/2020/06/21/world/george-floyd-asian-americans/#.XwOokOdlBPY"
+          "URL": "https://www.japantimes.co.jp/news/2020/06/21/world/george-floyd-asian-americans/#.XwOokOdlBPY",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -118.23266600724313,
+            34.05189140569203
+          ],
+          "type": "Point"
+        },
         "id": "recw8bIIukwib5i9b",
         "properties": {
           "City": "Los Angeles",
@@ -1765,12 +2337,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-18T22:10:04.000Z",
           "Title": "Korean-American ‘Ajumma’ Talks Korean Solidarity With Black Lives",
-          "URL": "https://faithfullymagazine.com/korean-ajumma-solidarity-black-lives/"
+          "URL": "https://faithfullymagazine.com/korean-ajumma-solidarity-black-lives/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -75.16433984041215,
+            39.9503534948962
+          ],
+          "type": "Point"
+        },
         "id": "recxLO8x6PEaka8Oq",
         "properties": {
           "City": "Philadelphia",
@@ -1786,12 +2365,19 @@
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2020-08-25T21:51:28.000Z",
           "Title": "Why 18 strangers spent 6 months raising $150,000 for Philly public spaces",
-          "URL": "https://whyy.org/articles/why-18-strangers-spent-6-months-raising-150000-for-philly-public-spaces/"
+          "URL": "https://whyy.org/articles/why-18-strangers-spent-6-months-raising-150000-for-philly-public-spaces/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -89.38833619002253,
+            43.07723913073348
+          ],
+          "type": "Point"
+        },
         "id": "recxmzwUYVIdNziYJ",
         "properties": {
           "City": "Madison ",
@@ -1807,12 +2393,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-18T21:45:45.000Z",
           "Title": "Madison School Board votes unanimously to end police in schools contract",
-          "URL": "https://madison.com/ct/news/local/education/local_schools/updated-madison-school-board-votes-unanimously-to-end-police-in-schools-contract/article_ac077373-a518-554f-a7a6-1f2514d989a6.html"
+          "URL": "https://madison.com/ct/news/local/education/local_schools/updated-madison-school-board-votes-unanimously-to-end-police-in-schools-contract/article_ac077373-a518-554f-a7a6-1f2514d989a6.html",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -89.38380432548003,
+            43.076574580081704
+          ],
+          "type": "Point"
+        },
         "id": "recyFTQT9otdWHd7T",
         "properties": {
           "City": "Madison ",
@@ -1828,12 +2421,19 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-18T21:49:15.000Z",
           "Title": "Rally supporting the removal of School Resource Officers turns into a march",
-          "URL": "https://www.nbc15.com/2020/06/26/rally-supporting-the-removal-of-school-resource-officers-turns-into-a-march/"
+          "URL": "https://www.nbc15.com/2020/06/26/rally-supporting-the-removal-of-school-resource-officers-turns-into-a-march/",
+          "geometry": "Point"
         },
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -98.0419921875,
+            39.29498546816049
+          ],
+          "type": "Point"
+        },
         "id": "recyj7SfxLqkD9h2i",
         "properties": {
           "Contact Info": "jared.jimenezg@gmail.com",
@@ -1847,7 +2447,8 @@
           "Theme": "Intersectional issues",
           "Timestamp": "2020-09-01T21:45:29.000Z",
           "Title": "George Floyd death sparks Asian American soul-searching",
-          "URL": "https://www.japantimes.co.jp/news/2020/06/21/world/george-floyd-asian-americans/#.XwOokOdlBPY"
+          "URL": "https://www.japantimes.co.jp/news/2020/06/21/world/george-floyd-asian-americans/#.XwOokOdlBPY",
+          "geometry": "Point"
         },
         "type": "Feature"
       }
