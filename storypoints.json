@@ -1319,6 +1319,19 @@
       },
       {
         "geometry": null,
+        "id": "recXPaeHzmcxTKpiv",
+        "properties": {
+          "Description": "o",
+          "Record ID": "recXPaeHzmcxTKpiv",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-25T18:50:51.000Z",
+          "Title": "MAB TEST2"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": null,
         "id": "recYAMWWqFI9Qy1Xb",
         "properties": {
           "Approved for Website": true,
