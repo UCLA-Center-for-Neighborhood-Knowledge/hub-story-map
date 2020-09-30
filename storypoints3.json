@@ -1584,34 +1584,6 @@
       {
         "geometry": {
           "coordinates": [
-            -106.64785767439753,
-            35.07982558444753
-          ],
-          "type": "Point"
-        },
-        "id": "recjP4B8WcIp3es3n",
-        "properties": {
-          "Approved for Website": true,
-          "City": "Albuquerque",
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Description": "Members of Albuquerque’s Asian American community said they are being targeted and do not feel safe during this coronavirus pandemic.",
-          "Latitude": 35.07982558444753,
-          "Longitude": -106.64785767439753,
-          "Name": "Jared Jimenez",
-          "News Outlet": "KRQE",
-          "Record ID": "recjP4B8WcIp3es3n",
-          "State": "New Mexico",
-          "Story Type": "News story",
-          "Theme": "Rise in anti-Asian violence",
-          "Timestamp": "2020-09-18T22:51:21.000Z",
-          "Title": "Asian American community speaking out against racism during coronavirus pandemic",
-          "URL": "https://www.krqe.com/health/coronavirus-new-mexico/asian-american-community-speaking-out-against-racism-during-coronavirus-pandemic/"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -122.6726531982422,
             45.51781986738799
           ],
