@@ -36,6 +36,7 @@
           "City": "Asheville",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "J Chong, an Asian-American chef was \"Zoombombed: by random people calling her racial slurs in relation to the coronavirus pandemic.",
+          "Latitude": 35.594418,
           "Name": "Jared Jimenez",
           "News Outlet": "U.S. News",
           "Record ID": "rec1VWeCs6thrIq4j",
@@ -910,34 +911,6 @@
       {
         "geometry": {
           "coordinates": [
-            -122.45361328125,
-            37.78672476186115
-          ],
-          "type": "Point"
-        },
-        "id": "recNBybCk4tbiwdKM",
-        "properties": {
-          "Approved for Website": true,
-          "City": "San Francisco",
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Description": "San Francisco Mayor London Breed joined city officials, including District Attorney-elect Chesa Boudin, to condemn the violent attack on three seniors at a popular Chinatown gathering spot over the weekend.",
-          "Latitude": 37.78672476186115,
-          "Longitude": -122.45361328125,
-          "Name": "Jared Jimenez",
-          "News Outlet": "SFBay",
-          "Record ID": "recNBybCk4tbiwdKM",
-          "State": "California",
-          "Story Type": "News story",
-          "Theme": "Rise in anti-Asian violence",
-          "Timestamp": "2020-09-04T23:22:09.000Z",
-          "Title": "City officials, seniors condemn brutal Chinatown attacks",
-          "URL": "https://sfbayca.com/2019/11/13/city-officials-seniors-condemn-brutal-chinatown-attacks/"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -95.99338531494142,
             36.15169355487976
           ],
@@ -1070,23 +1043,6 @@
           "Timestamp": "2020-08-25T21:44:19.000Z",
           "Title": "Coronavirus hasn’t reached Philly. But fear and racism are spreading.",
           "URL": "https://www.inquirer.com/news/coronavirus-china-chinese-racism-fear-wuhan-philly-20200204.html"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": null,
-        "id": "recReuuIuIZrpNG1A",
-        "properties": {
-          "Approved for Website": true,
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Description": "A Minneapolis nonprofit makes sure immigrant communities can access culturally specific food like basmati rice, vermicelli noodles and fish sauce during the pandemic.",
-          "Name": "Jared Jimenez",
-          "News Outlet": "NBC News",
-          "Record ID": "recReuuIuIZrpNG1A",
-          "Story Type": "News story",
-          "Theme": "AAPI groups rising to challenge",
-          "Timestamp": "2020-09-01T23:46:49.000Z",
-          "Title": "Food pantry offers culturally specific items to immigrant communities amid pandemic"
         },
         "type": "Feature"
       },
