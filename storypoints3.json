@@ -2513,6 +2513,34 @@
       {
         "geometry": {
           "coordinates": [
+            -91.23766994489417,
+            43.83436155089898
+          ],
+          "type": "Point"
+        },
+        "id": "recvp08lKTdSEsWxe",
+        "properties": {
+          "Approved for Website": true,
+          "City": "La Crosse",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "We are witnessing insensitivity, fear, panic and yes, expressions of racial and ethnic hate and discrimination directed toward those in our midst who are of Asian descent. Members of La Crosse’s Asian population have not been exempt from these attacks. The #Stop AAPI Hate Reporting Center indicates that more than 100 incidents of harassment per day against people of varying Asian backgrounds have been reported in the U.S. since mid-March. Providing support for people of Asian descent, Cia Siab is calling on communities to report incidents.",
+          "Latitude": 43.83436155089898,
+          "Longitude": -91.23766994489417,
+          "Name": "Victor Tran",
+          "News Outlet": "La Crosse Tribune",
+          "Record ID": "recvp08lKTdSEsWxe",
+          "State": "Wisconsin",
+          "Story Type": "News story",
+          "Theme": "Rise in anti-Asian violence",
+          "Timestamp": "2020-10-10T03:10:54.000Z",
+          "Title": "Beth Moore: Pandemic is no time for hate",
+          "URL": "https://lacrossetribune.com/opinion/columnists/beth-moore-pandemic-is-no-time-for-hate/article_4264c3dd-f3ea-5a92-9518-53e354b4fbe9.html"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -118.23266600724313,
             34.05189140569203
           ],
