@@ -203,6 +203,34 @@
       {
         "geometry": {
           "coordinates": [
+            -73.85984796797858,
+            40.84899514136141
+          ],
+          "type": "Point"
+        },
+        "id": "rec7mB7GYWEbI9UCy",
+        "properties": {
+          "Approved for Website": true,
+          "City": "New York City ",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "In a congressional district that has been one of the hardest hit by the novel coronavirus in what is thus far the most affected city in the country, community organizations are focused on simultaneously providing the type of support that their members and clients have always relied on them for, while gently prodding them to exercise their civic voice in the election. During the New York primaries in June, Mekong NYC dropped off care packages while providing information and materials related to the 2020 Census, access to health care, and elections, including information about where to vote and how to vote in-person and via mail.",
+          "Latitude": 40.84899514136141,
+          "Longitude": -73.85984796797858,
+          "Name": "Victor Tran",
+          "News Outlet": "Gotham Gazette",
+          "Record ID": "rec7mB7GYWEbI9UCy",
+          "State": "New York",
+          "Story Type": "News story",
+          "Theme": "AAPI groups rising to challenge",
+          "Timestamp": "2020-10-10T02:49:51.000Z",
+          "Title": "A Pandemic and A Primary in the Most Impoverished Congressional District in the Country",
+          "URL": "https://www.gothamgazette.com/state/9526-pandemic-primary-most-impoverished-congressional-district-in-the-country-bronx-15"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -83.33129883,
             32.31397575
           ],
