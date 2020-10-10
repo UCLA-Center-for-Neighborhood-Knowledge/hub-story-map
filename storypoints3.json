@@ -1584,6 +1584,34 @@
       {
         "geometry": {
           "coordinates": [
+            -89.39507389071878,
+            43.07084845918359
+          ],
+          "type": "Point"
+        },
+        "id": "recfOgUKWelfL4Dji",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Madison",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "This week the Madison Metropolitan School Board voted to end its school resource officer (SRO) contract with the Madison Police Department. It was something Freedom, Inc. and its Freedom Youth Squad had been fighting years for, saying the presence of police in schools negatively impacted students of color and made them feel unsafe.",
+          "Latitude": 43.07084845918359,
+          "Longitude": -89.39507389071878,
+          "Name": "Victor Tran",
+          "News Outlet": "WKOW",
+          "Record ID": "recfOgUKWelfL4Dji",
+          "State": "Wisconsin ",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-10-10T01:32:55.000Z",
+          "Title": "Freedom Youth Squad celebrates the removal of police officers from Madison schools",
+          "URL": "https://wkow.com/2020/07/03/freedom-youth-squad-celebrates-the-removal-of-police-officers-from-madison-schools/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -122.67516824198539,
             45.52508661632931
           ],
