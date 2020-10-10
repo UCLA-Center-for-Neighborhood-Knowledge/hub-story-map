@@ -2276,6 +2276,34 @@
       {
         "geometry": {
           "coordinates": [
+            -93.29332137111123,
+            44.999146158592666
+          ],
+          "type": "Point"
+        },
+        "id": "rectKIqQkz46rbv3h",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Minneapolis ",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "Muslims in Minnesota and across the globe are reworking ancient traditions as the coronavirus upends society. That’s especially evident during Ramadan, Islam’s most sacred month, which began Thursday night with a historic first in Minneapolis.",
+          "Latitude": 44.999146158592666,
+          "Longitude": -93.29332137111123,
+          "Name": "Victor Tran",
+          "News Outlet": "StarTribune",
+          "Record ID": "rectKIqQkz46rbv3h",
+          "State": "Minnesota ",
+          "Story Type": "News story",
+          "Theme": "AAPI groups rising to challenge",
+          "Timestamp": "2020-10-10T04:57:41.000Z",
+          "Title": "Ramadan call to prayers broadcast as Muslims pray at home",
+          "URL": "https://www.startribune.com/ramadan-call-to-prayer-broadcast-as-muslims-pray-at-home/569933222/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -73.79834175109865,
             40.75101814664832
           ],
