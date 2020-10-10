@@ -608,6 +608,34 @@
       {
         "geometry": {
           "coordinates": [
+            -73.9411468547769,
+            40.664142151151545
+          ],
+          "type": "Point"
+        },
+        "id": "recH5gpSndPkDwzqG",
+        "properties": {
+          "Approved for Website": true,
+          "City": "New York City",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "With widespread economic uncertainty, the act of paying—or not paying rent—has become a flash point for both renters and landlords who say they are not receiving enough emergency support to cope with months of missed income. In response, community organizers and tenants are getting creative and turning to digital tools as part of a nation-wide push to cancel rent payments during the pandemic with a rash of both rent and labor strikes. Given the hardships low income communities of color are facing and the inequities in the governmental response to the crisis, groups like CAAAV-Organizing Asian Communities won one of the strongest eviction moratoriums in the country. ",
+          "Latitude": 40.664142151151545,
+          "Longitude": -73.9411468547769,
+          "Name": "Victor Tran",
+          "News Outlet": "Curbed NY",
+          "Record ID": "recH5gpSndPkDwzqG",
+          "State": "New York",
+          "Story Type": "News story",
+          "Theme": "AAPI groups rising to challenge",
+          "Timestamp": "2020-10-10T02:58:25.000Z",
+          "Title": "In New York, the rent strike movement takes root",
+          "URL": "https://ny.curbed.com/2020/5/1/21243843/new-york-rent-strike-renters-tenants-landlords-rights"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -71.05957031250001,
             42.36634458395547
           ],
