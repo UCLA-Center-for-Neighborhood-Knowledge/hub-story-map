@@ -719,34 +719,6 @@
       {
         "geometry": {
           "coordinates": [
-            -91.22861480660504,
-            43.79821748134977
-          ],
-          "type": "Point"
-        },
-        "id": "recJ5V7OuQBHJVSRV",
-        "properties": {
-          "Approved for Website": true,
-          "City": "La Crosse",
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Description": "Congressman Ron Kind held his first listening session of the year at Western Technical College on Wednesday. Constituents brought up the potential Hmong deportations frequently throughout the listening session. The Hmong nonprofit Cia Siab Inc. which operates in La Crosse, read off statements regarding their concerns for their community.",
-          "Latitude": 43.79821748134977,
-          "Longitude": -91.22861480660504,
-          "Name": "Jared Jimenez",
-          "News Outlet": "WQOW",
-          "Record ID": "recJ5V7OuQBHJVSRV",
-          "State": "Wisconsin",
-          "Story Type": "News story",
-          "Theme": "AAPI groups rising to challenge",
-          "Timestamp": "2020-09-26T01:19:13.000Z",
-          "Title": "Rep. Kind address concerns over potential Hmong deportations at a listening session",
-          "URL": "https://wqow.com/2020/02/20/rep-kind-address-concerns-over-potential-hmong-deportations-at-a-listening-session/"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -98.34960937500001,
             38.67478920520597
           ],
