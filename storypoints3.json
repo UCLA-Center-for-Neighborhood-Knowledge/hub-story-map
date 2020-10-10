@@ -422,25 +422,6 @@
         "type": "Feature"
       },
       {
-        "geometry": null,
-        "id": "recCVGwHNCrIoYMtD",
-        "properties": {
-          "Approved for Website": true,
-          "City": "San Francisco",
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Description": "More than 800 Asian-Americans in California have been a victim of hate crimes in relation to COVID-19 since the month of May. This includes physical altercations, being banned from establishments, being unable to use public transportation, possible civil rights violations and racist remarks from Donald Trump. ",
-          "Name": "Jared Jimenez",
-          "News Outlet": "CBS San Francisco Bay Area",
-          "Record ID": "recCVGwHNCrIoYMtD",
-          "Story Type": "News story",
-          "Theme": "Rise in anti-Asian violence",
-          "Timestamp": "2020-08-20T21:30:27.000Z",
-          "Title": "800+ Hate Crimes Against Asians in California Reported in Past 3 Months",
-          "URL": "https://sanfrancisco.cbslocal.com/2020/07/05/800-hate-crimes-against-asians-in-california-reported-in-past-3-months/"
-        },
-        "type": "Feature"
-      },
-      {
         "geometry": {
           "coordinates": [
             -75.15284872068152,
