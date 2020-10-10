@@ -2494,6 +2494,34 @@
           "URL": "https://www.nbc15.com/2020/06/26/rally-supporting-the-removal-of-school-resource-officers-turns-into-a-march/"
         },
         "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -93.11831796172555,
+            44.93102784671917
+          ],
+          "type": "Point"
+        },
+        "id": "reczSreXOH5g0vIax",
+        "properties": {
+          "Approved for Website": true,
+          "City": "St. Paul",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "The school district will allow the contract with police to expire, meaning school resource officers won't be in the high school buildings next year. The move follows a similar decision by the school board in Minneapolis, which terminated a partnership with Minneapolis police just days after the killing of George Floyd.",
+          "Latitude": 44.93102784671917,
+          "Longitude": -93.11831796172555,
+          "Name": "Victor Tran",
+          "News Outlet": "KARE11",
+          "Record ID": "reczSreXOH5g0vIax",
+          "State": "Minnesota ",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-10-10T04:38:09.000Z",
+          "Title": "St. Paul schools to end contract with SPPD, vote to remove school resource officers",
+          "URL": "https://www.kare11.com/article/news/education/st-paul-schools-to-end-contract-with-sppd-vote-to-remove-school-resource-officers/89-af368ea9-b58f-41a2-a9b3-6f5aba20f659"
+        },
+        "type": "Feature"
       }
     ],
     "type": "FeatureCollection"
