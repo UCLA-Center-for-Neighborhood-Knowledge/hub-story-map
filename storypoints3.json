@@ -187,20 +187,6 @@
         "type": "Feature"
       },
       {
-        "geometry": null,
-        "id": "rec6EqPO8JmaLBNRP",
-        "properties": {
-          "Approved for Website": true,
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Name": "Jared Jimenez",
-          "Record ID": "rec6EqPO8JmaLBNRP",
-          "Story Type": "Another form of media",
-          "Theme": "Intersectional issues",
-          "Timestamp": "2020-08-28T21:17:44.000Z"
-        },
-        "type": "Feature"
-      },
-      {
         "geometry": {
           "coordinates": [
             -73.85984796797858,
@@ -390,34 +376,6 @@
           "Timestamp": "2020-10-10T01:20:25.000Z",
           "Title": "‘I was naive to think this couldn’t touch my family’: Pacific Islanders hit hard by the coronavirus ",
           "URL": "https://www.latimes.com/california/story/2020-07-19/california-pacific-islander-native-hawaiian-communities-hit-hard-by-coronavirus"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -87.69876927137376,
-            41.95960945945799
-          ],
-          "type": "Point"
-        },
-        "id": "recCT2lOVBtMkhvRk",
-        "properties": {
-          "Approved for Website": true,
-          "City": "Chicago",
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Description": "Asian-American communities in Chicago are helping non-English speakers during the pandemic by keeping them informed about COVID-19 and providing them resources to help them protect themselves from the virus.",
-          "Latitude": 41.95960945945799,
-          "Longitude": -87.69876927137376,
-          "Name": "Jared Jimenez",
-          "News Outlet": "WBEZ",
-          "Record ID": "recCT2lOVBtMkhvRk",
-          "State": "Illinois",
-          "Story Type": "News story",
-          "Theme": "AAPI groups rising to challenge",
-          "Timestamp": "2020-08-21T22:40:50.000Z",
-          "Title": "For Non-English Speakers, Language Is A Barrier During The COVID-19 Pandemic",
-          "URL": "https://www.wbez.org/stories/for-non-english-speakers-language-is-a-barrier-during-the-covid-19-pandemic/72f6c85c-7f89-4e60-807d-60ab946af265"
         },
         "type": "Feature"
       },
@@ -924,35 +882,6 @@
       {
         "geometry": {
           "coordinates": [
-            -87.65915840864183,
-            41.968652037012085
-          ],
-          "type": "Point"
-        },
-        "id": "recLO4GHxw0nzZY0p",
-        "properties": {
-          "Approved for Website": true,
-          "City": "Chicago",
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Description": "During the wave of hate crimes reported in America, ex-presidential candidate, Andrew Yang told Asian-American communities to \"embrace and show our American-ness\" to prove to Americans that they are indeed, true American citizens.",
-          "Did you report?": "No",
-          "Latitude": 41.968652037012085,
-          "Longitude": -87.65915840864183,
-          "Name": "Jared Jimenez (double check)",
-          "News Outlet": "Chicago Reader",
-          "Record ID": "recLO4GHxw0nzZY0p",
-          "State": "Illinois",
-          "Story Type": "News story",
-          "Theme": "Rise in anti-Asian violence",
-          "Timestamp": "2020-08-21T23:01:53.000Z",
-          "Title": "We don’t have to prove our ‘American-ness’",
-          "URL": "https://www.chicagoreader.com/chicago/asian-american-racism-coronavirus/Content?oid=79147202"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -89.38174438895659,
             43.07807922870835
           ],
@@ -1439,21 +1368,6 @@
         "type": "Feature"
       },
       {
-        "geometry": null,
-        "id": "recYAMWWqFI9Qy1Xb",
-        "properties": {
-          "Approved for Website": true,
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Name": "Jared Jimenez",
-          "Record ID": "recYAMWWqFI9Qy1Xb",
-          "Story Type": "News story",
-          "Theme": "Intersectional issues",
-          "Timestamp": "2020-08-25T23:22:31.000Z",
-          "Title": "New details for Jade District grant program"
-        },
-        "type": "Feature"
-      },
-      {
         "geometry": {
           "coordinates": [
             -122.40592092275621,
@@ -1929,34 +1843,6 @@
       {
         "geometry": {
           "coordinates": [
-            -122.42408752441408,
-            37.77822834862847
-          ],
-          "type": "Point"
-        },
-        "id": "reckicoTw5vIElqDa",
-        "properties": {
-          "Approved for Website": true,
-          "City": "San Francisco",
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Description": "In response to the growing amount of hate crimes against Asian-Americans from COVID-19, civil rights activists have launched the creation of a reporting center for Asian-Americans to report an incident of discrimination made against them.",
-          "Latitude": 37.77822834862847,
-          "Longitude": -122.42408752441408,
-          "Name": "Jared Jimenez (double check)",
-          "News Outlet": "RAFU SHIMPO",
-          "Record ID": "reckicoTw5vIElqDa",
-          "State": "California",
-          "Story Type": "News story",
-          "Theme": "Rise in anti-Asian violence",
-          "Timestamp": "2020-08-21T21:35:10.000Z",
-          "Title": "Civil Rights Organizations Establish STOP AAPI HATE Reporting Center",
-          "URL": "https://www.rafu.com/2020/03/civil-rights-organizations-establish-stop-aapi-hate-reporting-center/"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -89.41634809967583,
             43.03317054711134
           ],
@@ -2258,22 +2144,6 @@
         "type": "Feature"
       },
       {
-        "geometry": null,
-        "id": "recrIAQGW0UCvBY2N",
-        "properties": {
-          "Approved for Website": true,
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Description": "At a rally in Tulsa, Oklahoma, Donald Trump",
-          "Name": "Jared Jimenez",
-          "Record ID": "recrIAQGW0UCvBY2N",
-          "Story Type": "News story",
-          "Theme": "Intersectional issues",
-          "Timestamp": "2020-08-21T21:49:02.000Z",
-          "Title": "Trump can't claim 'Kung Flu' doesn't affect Asian Americans in this climate, experts say"
-        },
-        "type": "Feature"
-      },
-      {
         "geometry": {
           "coordinates": [
             -78.65019285682139,
@@ -2479,7 +2349,7 @@
         "properties": {
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Description": "Asian Americans show their support for black power and justice for the murder of George Floyd.",
+          "Description": "Asian Americans show their support for black power and justice for the murder of George Floyd. The death of George Floyd, a Black man, in Minneapolis police custody sparked nationwide protests — and a sense of reckoning in the Asian American community, which has historically fraught, even violent, ties with African Americans.\n\nIn particular, the revelation that one of the officers charged over Floyd’s death, Tou Thao, is Hmong has caused many Asian Americans to grapple with their community’s complicity.",
           "Latitude": 39.36695204842929,
           "Longitude": -97.87719726562501,
           "Name": "Jared Jimenez",
@@ -2630,32 +2500,6 @@
           "Timestamp": "2020-09-18T21:49:15.000Z",
           "Title": "Rally supporting the removal of School Resource Officers turns into a march",
           "URL": "https://www.nbc15.com/2020/06/26/rally-supporting-the-removal-of-school-resource-officers-turns-into-a-march/"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -98.0419921875,
-            39.29498546816049
-          ],
-          "type": "Point"
-        },
-        "id": "recyj7SfxLqkD9h2i",
-        "properties": {
-          "Approved for Website": true,
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Description": "Asian Americans show their support for black power and justice for the murder of George Floyd.",
-          "Latitude": 39.29498546816049,
-          "Longitude": -98.0419921875,
-          "Name": "Jared Jimenez (double check)",
-          "News Outlet": "The Japan Times",
-          "Record ID": "recyj7SfxLqkD9h2i",
-          "Story Type": "News story",
-          "Theme": "Intersectional issues",
-          "Timestamp": "2020-09-01T21:45:29.000Z",
-          "Title": "George Floyd death sparks Asian American soul-searching",
-          "URL": "https://www.japantimes.co.jp/news/2020/06/21/world/george-floyd-asian-americans/#.XwOokOdlBPY"
         },
         "type": "Feature"
       }
