@@ -1915,6 +1915,34 @@
       {
         "geometry": {
           "coordinates": [
+            -95.36270145792517,
+            29.74044275838067
+          ],
+          "type": "Point"
+        },
+        "id": "reco7Qgn8fj5NvlLZ",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Houston",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "In the midst of this economic devastation, Houston’s Asian community rallied, and Asian-American organizations became some of the most generous donors to frontline workers and individuals in need. The collaboration also has an advocacy arm to address the ignorance and anti-Asian sentiment that shut Chinatown down in the first place.",
+          "Latitude": 29.74044275838067,
+          "Longitude": -95.36270145792517,
+          "Name": "Victor Tran",
+          "News Outlet": "Houston Chronicle",
+          "Record ID": "reco7Qgn8fj5NvlLZ",
+          "State": "Texas",
+          "Story Type": "News story",
+          "Theme": "AAPI groups rising to challenge",
+          "Timestamp": "2020-10-10T04:48:39.000Z",
+          "Title": "Asian-American groups band together for COVID relief",
+          "URL": "https://www.houstonchronicle.com/life/article/Asian-American-groups-band-together-for-COVID-15336059.php"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -118.32185697565366,
             34.05612665117182
           ],
