@@ -2332,6 +2332,33 @@
       {
         "geometry": {
           "coordinates": [
+            -119.721812,
+            36.709738
+          ],
+          "type": "Point"
+        },
+        "id": "rectRJwdEz4qow1bU",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Every 10 years, the federal government spends three months counting everyone living in America, and uses the data to calculate political representation and allocate federal money. This time, there’s a new wrinkle: How do you conduct the Census when everybody is socially distancing? Some strategies may work for some communities, but possibly not for the ones that the Census deems  “hard-to-count.” That includes renters, older residents, and those with limited English proficiency. ",
+          "Latitude": 36.709738,
+          "Longitude": -119.721812,
+          "Name": "Jared Jimenez",
+          "News Outlet": "KCRW",
+          "Record ID": "rectRJwdEz4qow1bU",
+          "State": "California",
+          "Story Type": "News story",
+          "Theme": "AAPI groups rising to challenge",
+          "Timestamp": "2020-09-26T01:29:21.000Z",
+          "Title": "How do you count Americans for 2020 Census when they’re social distancing during coronavirus?",
+          "URL": "https://www.kcrw.com/news/shows/greater-la/2020-census-during-covid-19/coronavirus-census-2020"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -82.73793786764145,
             40.44228611902232
           ],
