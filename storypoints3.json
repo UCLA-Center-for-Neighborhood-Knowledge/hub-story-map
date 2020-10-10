@@ -340,6 +340,34 @@
       {
         "geometry": {
           "coordinates": [
+            -118.30884933471681,
+            33.9889647347954
+          ],
+          "type": "Point"
+        },
+        "id": "recBof0KIZnoEq8oK",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "In L.A. County, Pacific Islanders suffer the highest infection rate of any racial or ethnic group, more than 2,500 per 100,000 residents. That’s six times higher than for white people, five times higher than for Black people and three times higher than for Latinos, according to county health demographic data.",
+          "Latitude": 33.9889647347954,
+          "Longitude": -118.30884933471681,
+          "Name": "Victor Tran",
+          "News Outlet": "Los Angeles Times",
+          "Record ID": "recBof0KIZnoEq8oK",
+          "State": "California",
+          "Story Type": "News story",
+          "Theme": "Exposing system inequalities",
+          "Timestamp": "2020-10-10T01:20:25.000Z",
+          "Title": "‘I was naive to think this couldn’t touch my family’: Pacific Islanders hit hard by the coronavirus ",
+          "URL": "https://www.latimes.com/california/story/2020-07-19/california-pacific-islander-native-hawaiian-communities-hit-hard-by-coronavirus"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -87.69876927137376,
             41.95960945945799
           ],
