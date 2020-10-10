@@ -29,7 +29,13 @@
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -82.552485,
+            35.594418
+          ],
+          "type": "Point"
+        },
         "id": "rec1VWeCs6thrIq4j",
         "properties": {
           "Approved for Website": true,
@@ -37,6 +43,7 @@
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "J Chong, an Asian-American chef was \"Zoombombed: by random people calling her racial slurs in relation to the coronavirus pandemic.",
           "Latitude": 35.594418,
+          "Longitude": -82.552485,
           "Name": "Jared Jimenez",
           "News Outlet": "U.S. News",
           "Record ID": "rec1VWeCs6thrIq4j",
