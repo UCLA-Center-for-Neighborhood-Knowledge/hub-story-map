@@ -1528,34 +1528,6 @@
       {
         "geometry": {
           "coordinates": [
-            -106.63317632635882,
-            35.06571188923899
-          ],
-          "type": "Point"
-        },
-        "id": "recgWGJlBzJ6Ls5Xd",
-        "properties": {
-          "Approved for Website": true,
-          "City": "Albuquerque",
-          "Contact Info": "jared.jimenezg@gmail.com",
-          "Description": "Students at the University of New Mexico have started a petition asking administrators to create an Asian and Pacific Islander resource center after Asian and Pacific Islander communities have seen an increased amount of discrimination because of COVID-19.",
-          "Latitude": 35.06571188923899,
-          "Longitude": -106.63317632635882,
-          "Name": "Jared Jimenez",
-          "News Outlet": "KOB 4",
-          "Record ID": "recgWGJlBzJ6Ls5Xd",
-          "State": "New Mexico",
-          "Story Type": "News story",
-          "Theme": "Rise in anti-Asian violence",
-          "Timestamp": "2020-09-25T22:31:47.000Z",
-          "Title": "UNM students ask for Asian and Pacific Islander resource center after experiencing COVID-19 racism",
-          "URL": "https://www.kob.com/albuquerque-news/unm-students-ask-for-asian-and-pacific-islander-resource-center-after-experiencing-covid-19-racism/5710680/"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -122.67516824198539,
             45.52508661632931
           ],
