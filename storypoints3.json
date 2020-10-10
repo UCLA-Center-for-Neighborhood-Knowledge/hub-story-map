@@ -831,6 +831,34 @@
       {
         "geometry": {
           "coordinates": [
+            -118.39416506001726,
+            34.06304834753492
+          ],
+          "type": "Point"
+        },
+        "id": "recKj51V2riREtqCr",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "The coronavirus death rate among minorities is substantially higher than that of whites, according to Los Angeles County officials. Whites were the least likely to die from the virus, with 13 fatalities reported per 100,000 Caucasian residents. But for every 100,000 Native Hawaiian/Pacific Islander residents, there were 53 to 154 deaths — a rate four to 12 times higher than for white people.",
+          "Latitude": 34.06304834753492,
+          "Longitude": -118.39416506001726,
+          "Name": "Victor Tran",
+          "News Outlet": "Los Angeles Times",
+          "Record ID": "recKj51V2riREtqCr",
+          "State": "California",
+          "Story Type": "News story",
+          "Theme": "Exposing system inequalities",
+          "Timestamp": "2020-10-10T01:28:56.000Z",
+          "Title": "Whites far less likely to die from the coronavirus than blacks, Latinos in L.A. County",
+          "URL": "https://www.latimes.com/california/story/2020-05-29/whites-far-less-likely-to-die-from-the-coronavirus-than-non-whites-in-l-a-county"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -87.65915840864183,
             41.968652037012085
           ],
