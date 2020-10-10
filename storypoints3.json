@@ -1001,8 +1001,8 @@
       {
         "geometry": {
           "coordinates": [
-            -120.30066780745985,
-            44.049942103658175
+            -123.048722,
+            43.987294
           ],
           "type": "Point"
         },
@@ -1011,8 +1011,8 @@
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "Demographic information in the state of Oregon about the number of confirmed coronavirus cases dispraportionately represents people of color, who make up 43% of confirmed cases. The number is meant to ",
-          "Latitude": 44.049942103658175,
-          "Longitude": -120.30066780745985,
+          "Latitude": 43.987294,
+          "Longitude": -123.048722,
           "Name": "Jared Jimenez (double check)",
           "News Outlet": "Oregon Public Brodcasting",
           "Record ID": "recPPNlUjHqLzoTVS",
