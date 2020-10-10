@@ -2332,9 +2332,11 @@
         "properties": {
           "Approved for Website": true,
           "City": "San Francisco",
+          "Contact Info": "victortran3052@gmail",
           "Description": "Distressed by the rise in xenophobia and racism during the coronavirus pandemic, a coalition of Asian American groups based in California have created a reporting webpage for victims of virus-related hate crimes. The Asian Pacific Planning and Policy Council, Chinese for Affirmative Action and San Francisco State University Asian American Studies Department are asking anyone who’s been harassed, intimidated or otherwise discriminated against for their race to share their stories on the website.",
           "Latitude": 37.77339886,
           "Longitude": -122.4161911,
+          "Name": "Victor Tran",
           "News Outlet": "San Francisco Chronicle",
           "Record ID": "recsZLWw1hmNsG6xX",
           "State": "California",
