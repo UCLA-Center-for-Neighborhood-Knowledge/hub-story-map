@@ -1385,8 +1385,8 @@
       {
         "geometry": {
           "coordinates": [
-            -74.0087127685547,
-            40.728445820010194
+            -73.946064,
+            40.812722
           ],
           "type": "Point"
         },
@@ -1396,8 +1396,8 @@
           "City": "New York City",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "As a result of COVID-19's spread in New York City, half of immigrant workers in the city have lost their job and their subsequent ability to get relief because of a loss of income.",
-          "Latitude": 40.728445820010194,
-          "Longitude": -74.0087127685547,
+          "Latitude": 40.812722,
+          "Longitude": -73.946064,
           "Name": "Jared Jimenez",
           "News Outlet": "THE CITY",
           "Record ID": "recRzcSM2KGs6tHYk",
