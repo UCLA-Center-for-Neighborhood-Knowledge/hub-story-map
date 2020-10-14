@@ -916,6 +916,33 @@
       {
         "geometry": {
           "coordinates": [
+            -100.47656893730165,
+            39.402240195160104
+          ],
+          "type": "Point"
+        },
+        "id": "recJHDavnLtvBJ1V8",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Secretary of State Mike Pompeo was in Laos in late January, discussed the potential deportation of more than 4,500 Hmong and Lao refugees. However, deportation could mean potential persecution for some of the refugees.  Over the past two decades, the U.S. started deportation proceedings in court against almost 5,000 Lao citizens. While courts are not required to report, many of the citizens are Hmong.",
+          "Latitude": 39.402240195160104,
+          "Longitude": -100.47656893730165,
+          "Name": "Jared Jimenez",
+          "News Outlet": "The Pointer",
+          "Record ID": "recJHDavnLtvBJ1V8",
+          "State": "Nationwide",
+          "Story Type": "News story",
+          "Theme": "AAPI groups rising to challenge",
+          "Timestamp": "2020-09-26T01:24:52.000Z",
+          "Title": "Trump Administration in Talks with Laos Regarding Hmong Deportations",
+          "URL": "https://thepointeruwsp.com/2020/03/12/trump-administration-in-talks-with-laos-regarding-hmong-deportations/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -104.950436,
             39.521595
           ],
@@ -2884,6 +2911,34 @@
       {
         "geometry": {
           "coordinates": [
+            -71.05517584830524,
+            42.32870216575532
+          ],
+          "type": "Point"
+        },
+        "id": "rect90ioEBt1A49Az",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Boston",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "The streets of Chinatown bear the scars of highway construction, institutional expansion, and urban renewal efforts. Today, a lack of affordable housing and the emergence of Airbnbs and short-term rentals drive up prices for the residents who have built the community from the ground up. Chinatown’s right to take up space continues to be challenged.",
+          "Latitude": 42.32870216575532,
+          "Longitude": -71.05517584830524,
+          "Name": "Jared Jimenez",
+          "News Outlet": "The Harvard Crimson",
+          "Record ID": "rect90ioEBt1A49Az",
+          "State": "Massachusetts",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-26T01:28:05.000Z",
+          "Title": "Amid a Rapidly Changing Present, Can Chinatown Preserve Its Past?",
+          "URL": "https://www.thecrimson.com/article/2020/3/26/chinatown-scrut/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -71.06575012207033,
             42.36205592276628
           ],
@@ -2962,6 +3017,33 @@
           "Timestamp": "2020-08-25T23:10:40.000Z",
           "Title": "In COVID-19 Epicenter of Queens, Census Response Lags Far Behind",
           "URL": "https://documentedny.com/2020/04/23/in-covid-19-epicenter-of-queens-census-response-lags-far-behind/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -119.721812,
+            36.709738
+          ],
+          "type": "Point"
+        },
+        "id": "rectRJwdEz4qow1bU",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Every 10 years, the federal government spends three months counting everyone living in America, and uses the data to calculate political representation and allocate federal money. This time, there’s a new wrinkle: How do you conduct the Census when everybody is socially distancing? Some strategies may work for some communities, but possibly not for the ones that the Census deems  “hard-to-count.” That includes renters, older residents, and those with limited English proficiency. ",
+          "Latitude": 36.709738,
+          "Longitude": -119.721812,
+          "Name": "Jared Jimenez",
+          "News Outlet": "KCRW",
+          "Record ID": "rectRJwdEz4qow1bU",
+          "State": "California",
+          "Story Type": "News story",
+          "Theme": "AAPI groups rising to challenge",
+          "Timestamp": "2020-09-26T01:29:21.000Z",
+          "Title": "How do you count Americans for 2020 Census when they’re social distancing during coronavirus?",
+          "URL": "https://www.kcrw.com/news/shows/greater-la/2020-census-during-covid-19/coronavirus-census-2020"
         },
         "type": "Feature"
       },
