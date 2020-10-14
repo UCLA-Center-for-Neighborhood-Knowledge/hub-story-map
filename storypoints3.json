@@ -1192,8 +1192,8 @@
       {
         "geometry": {
           "coordinates": [
-            -93.26969861984254,
-            44.96549393438803
+            -93.242828,
+            45.031882
           ],
           "type": "Point"
         },
@@ -1203,8 +1203,8 @@
           "City": "Minneapolis",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "The spread of coronavirus in the United States has caused a rise in hate-crimes against Asian-Americans in states such as Minnesota.",
-          "Latitude": 44.96549393438803,
-          "Longitude": -93.26969861984254,
+          "Latitude": 45.031882,
+          "Longitude": -93.242828,
           "Name": "Jared Jimenez",
           "News Outlet": "St. Paul Pioneer Press",
           "Record ID": "recOXzFCzwCSOIDg1",
