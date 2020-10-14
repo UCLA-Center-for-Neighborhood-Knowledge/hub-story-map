@@ -3241,21 +3241,14 @@
         "type": "Feature"
       },
       {
-        "geometry": {
-          "coordinates": [
-            -75.16433984041215,
-            39.9503534948962
-          ],
-          "type": "Point"
-        },
+        "geometry": null,
         "id": "recxLO8x6PEaka8Oq",
         "properties": {
           "Approved for Website": true,
           "City": "Philadelphia",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "In the city of Philadelphia, 18 citizens help raise $150,000 for the Brad and Roses Community Fund for the purpose of providing funding towards public areas. The 20 grants will go toward supporting equitable space projects in the city, such as a garden used for Asian-American cultural events, park and library programs for African and Caribbean immigrants, and a neighborhood marketplace in North Philadelphia.",
-          "Latitude": 39.9503534948962,
-          "Longitude": -75.16433984041215,
+          "Latitude": 39.943291,
           "Name": "Jared Jimenez (double check)",
           "News Outlet": "WHYY-FM",
           "Record ID": "recxLO8x6PEaka8Oq",
