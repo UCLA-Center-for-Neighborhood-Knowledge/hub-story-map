@@ -1165,8 +1165,8 @@
       {
         "geometry": {
           "coordinates": [
-            -93.28353881835939,
-            44.96270275058462
+            -93.30421,
+            44.909003
           ],
           "type": "Point"
         },
@@ -1175,8 +1175,8 @@
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "The spread of COVID-19 and racists remarks made by Donald Trump towards Asian-Americans have contributed to the growth of hate-crimes against Asian-Americans.",
-          "Latitude": 44.96270275058462,
-          "Longitude": -93.28353881835939,
+          "Latitude": 44.909003,
+          "Longitude": -93.30421,
           "Name": "Jared Jimenez",
           "News Outlet": "StarTribune",
           "Record ID": "recNWj60297e0Z1Ct",
