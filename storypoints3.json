@@ -1026,8 +1026,8 @@
       {
         "geometry": {
           "coordinates": [
-            -122.40589410066606,
-            37.794634883419384
+            -121.89142,
+            37.332553
           ],
           "type": "Point"
         },
@@ -1037,8 +1037,8 @@
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "Donald Trump's racist comments towards Asian-Americans are largely responsible for the rise of hate crimes against Asian-Americans. Incidents involving discrimination and physical assaults against Asian-Americans have seen an increase during the past few months of COVID-19.",
           "Did you report?": "No",
-          "Latitude": 37.794634883419384,
-          "Longitude": -122.40589410066606,
+          "Latitude": 37.332553,
+          "Longitude": -121.89142,
           "Name": "Jared Jimenez",
           "News Outlet": "Los Angeles Times",
           "Record ID": "recKd44zmnRHn00Ju",
