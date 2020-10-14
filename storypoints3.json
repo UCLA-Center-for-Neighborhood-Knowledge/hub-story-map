@@ -1913,8 +1913,8 @@
       {
         "geometry": {
           "coordinates": [
-            -94.33959960937501,
-            46.39122720192668
+            -93.70658,
+            45.190482
           ],
           "type": "Point"
         },
@@ -1923,8 +1923,8 @@
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "As the coronavirus spread across the country, Hmong Asians in the state of Minnesota are facing fears of being deported from their homes.",
-          "Latitude": 46.39122720192668,
-          "Longitude": -94.33959960937501,
+          "Latitude": 45.190482,
+          "Longitude": -93.70658,
           "Name": "Jared Jimenez",
           "News Outlet": "StarTribune",
           "Record ID": "recbg1Is8YWRTdv2m",
