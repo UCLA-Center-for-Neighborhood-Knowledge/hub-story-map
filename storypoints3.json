@@ -2386,8 +2386,8 @@
       {
         "geometry": {
           "coordinates": [
-            -100.01953125000001,
-            39.34704251121735
+            -90.244895,
+            38.622367
           ],
           "type": "Point"
         },
@@ -2396,8 +2396,8 @@
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "As COVID-19 hit the United States, many small business were forced to close their doors. This article provides ways to help keep small businesses stay afloat, such as purchasing gift cards or advocating for policies that will put less strain on small businesses. ",
-          "Latitude": 39.34704251121735,
-          "Longitude": -100.01953125000001,
+          "Latitude": 38.622367,
+          "Longitude": -90.244895,
           "Name": "Jared Jimenez (double check)",
           "News Outlet": "Barron's",
           "Record ID": "recnC9Tsb9Rp9sjZb",
