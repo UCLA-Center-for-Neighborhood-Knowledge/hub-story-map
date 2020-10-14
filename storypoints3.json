@@ -2525,8 +2525,8 @@
       {
         "geometry": {
           "coordinates": [
-            -75.16390800476076,
-            39.95158545956956
+            -75.151924,
+            39.956074
           ],
           "type": "Point"
         },
@@ -2536,8 +2536,8 @@
           "City": "Philadelphia",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "Organizations that serve Asian-Americans and Pacific Islanders are taking efforts to notify the populace of Philadelphia, especially non-English speaking residents to areas where services can be provided amid COVID-19 shutdowns.",
-          "Latitude": 39.95158545956956,
-          "Longitude": -75.16390800476076,
+          "Latitude": 39.956074,
+          "Longitude": -75.151924,
           "Name": "Jared Jimenez",
           "News Outlet": "WHYY-FM",
           "Record ID": "recpL74VGT9fmKXnp",
