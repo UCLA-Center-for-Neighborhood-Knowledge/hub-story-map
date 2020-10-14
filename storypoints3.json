@@ -888,6 +888,34 @@
       {
         "geometry": {
           "coordinates": [
+            -91.22861480660504,
+            43.79821748134977
+          ],
+          "type": "Point"
+        },
+        "id": "recJ5V7OuQBHJVSRV",
+        "properties": {
+          "Approved for Website": true,
+          "City": "La Crosse",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Congressman Ron Kind held his first listening session of the year at Western Technical College on Wednesday. Constituents brought up the potential Hmong deportations frequently throughout the listening session. The Hmong nonprofit Cia Siab Inc. which operates in La Crosse, read off statements regarding their concerns for their community.",
+          "Latitude": 43.79821748134977,
+          "Longitude": -91.22861480660504,
+          "Name": "Jared Jimenez",
+          "News Outlet": "WQOW",
+          "Record ID": "recJ5V7OuQBHJVSRV",
+          "State": "Wisconsin",
+          "Story Type": "News story",
+          "Theme": "AAPI groups rising to challenge",
+          "Timestamp": "2020-09-26T01:19:13.000Z",
+          "Title": "Rep. Kind address concerns over potential Hmong deportations at a listening session",
+          "URL": "https://wqow.com/2020/02/20/rep-kind-address-concerns-over-potential-hmong-deportations-at-a-listening-session/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -104.950436,
             39.521595
           ],
@@ -937,6 +965,34 @@
           "Timestamp": "2020-08-21T22:09:06.000Z",
           "Title": "How the Pandemic Changed—and Fueled—the Fight Against Anti-Asian Racism",
           "URL": "https://www.self.com/story/fighting-anti-asian-racism-pandemic"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -81.51768136031025,
+            41.07937642258714
+          ],
+          "type": "Point"
+        },
+        "id": "recKLRgzUf7tSn9lq",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Akron",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Asian residents make up just under 4% of the Summit County population but account for nearly 20% of coronavirus cases in the county, according to Summit County Public Health data.",
+          "Latitude": 41.07937642258714,
+          "Longitude": -81.51768136031025,
+          "Name": "Jared Jimenez",
+          "News Outlet": "Akron Beacon Journal",
+          "Record ID": "recKLRgzUf7tSn9lq",
+          "State": "Ohio",
+          "Story Type": "News story",
+          "Theme": "Exposing system inequalities",
+          "Timestamp": "2020-09-26T01:14:16.000Z",
+          "Title": "Asian residents account for nearly 1 in 5 Summit County coronavirus cases",
+          "URL": "https://www.beaconjournal.com/story/news/local/2020/06/23/asian-residents-account-for-nearly-1-in-5-summit-county-coronavirus-cases/42243581/"
         },
         "type": "Feature"
       },
@@ -1464,6 +1520,34 @@
           "Timestamp": "2020-09-01T23:02:20.000Z",
           "Title": "How to be an ally for Asian Americans facing racism amid COVID-19",
           "URL": "https://www.mprnews.org/story/2020/05/19/spotlight-on-asian-discrimination-covid19"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -93.29150397330524,
+            44.99374589568285
+          ],
+          "type": "Point"
+        },
+        "id": "recULBL3kPvwXzx5p",
+        "properties": {
+          "Approved for Website": true,
+          "City": "St. Paul",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Gaosong Heu talks about reactions in the Hmong community to the killing of George Floyd. Former police officer Tou Thao, a Hmong American, is seen on video of the killing running interference with the crowd and standing watch. His involvement has stirred a racial debate among Asian Americans.",
+          "Latitude": 44.99374589568285,
+          "Longitude": -93.29150397330524,
+          "Name": "Jared Jimenez",
+          "News Outlet": "NPR ",
+          "Record ID": "recULBL3kPvwXzx5p",
+          "State": "Minnesota",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-26T01:16:13.000Z",
+          "Title": "For One Immigrant Community, George Floyd's Death Isn't Just About Black And White",
+          "URL": "https://www.npr.org/2020/06/04/868978380/for-one-immigrant-community-george-floyds-death-isn-t-just-about-black-and-white"
         },
         "type": "Feature"
       },
@@ -2526,6 +2610,33 @@
       {
         "geometry": {
           "coordinates": [
+            -98.31445366144182,
+            39.390359232893125
+          ],
+          "type": "Point"
+        },
+        "id": "recpsZebeexI2iiLr",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Amid the ongoing threat of the coronavirus, there are surging reports of xenophobic and racist incidents targeting members of the Asian American and Pacific Islander (AAPI) community in the U.S. Visit the website to see a representative list of coronavirus-related anti-Asian incidents reported in the media or by the victims. The description of the victims is based on media reporting.",
+          "Latitude": 39.390359232893125,
+          "Longitude": -98.31445366144182,
+          "Name": "Jared Jimenez",
+          "News Outlet": "ADL",
+          "Record ID": "recpsZebeexI2iiLr",
+          "State": "Nationwide",
+          "Story Type": "News story",
+          "Theme": "Rise in anti-Asian violence",
+          "Timestamp": "2020-09-26T01:07:19.000Z",
+          "Title": "Reports of Anti-Asian Assaults, Harassment and Hate Crimes Rise as Coronavirus Spreads",
+          "URL": "https://www.adl.org/blog/reports-of-anti-asian-assaults-harassment-and-hate-crimes-rise-as-coronavirus-spreads"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -73.77593994,
             40.65332714
           ],
@@ -2546,6 +2657,33 @@
           "Timestamp": "2020-07-31T20:31:05.000Z",
           "Title": "How Coronavirus Relief Is Being Distributed to Undocumented Immigrants",
           "URL": "https://documentedny.com/2020/05/29/how-coronavirus-relief-is-being-distributed-to-undocumented-immigrants/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -98.5429698228836,
+            39.548107885058094
+          ],
+          "type": "Point"
+        },
+        "id": "recr0sJsRAy5PUEzB",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Coronavirus, Black Lives Matter and a Chevron slip-up highlight how environmentalism has failed black communities – calling for new models of activism",
+          "Latitude": 39.548107885058094,
+          "Longitude": -98.5429698228836,
+          "Name": "Jared Jimenez",
+          "News Outlet": "Climate Home News",
+          "Record ID": "recr0sJsRAy5PUEzB",
+          "State": "Nationwide",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-26T01:09:46.000Z",
+          "Title": "US climate activists confront the movement’s whiteness problem",
+          "URL": "https://www.climatechangenews.com/2020/06/23/us-climate-activists-confront-movements-whiteness-problem/"
         },
         "type": "Feature"
       },
