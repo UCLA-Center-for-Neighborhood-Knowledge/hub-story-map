@@ -693,8 +693,8 @@
       {
         "geometry": {
           "coordinates": [
-            -71.05957031250001,
-            42.36634458395547
+            -71.068826,
+            42.352225
           ],
           "type": "Point"
         },
@@ -704,8 +704,8 @@
           "City": "Boston",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "192 employees who were laid off from the Four Seasons Hotel in Boston fought the hote with support of local AAPI groups and won a severance package after not getting paid what they were owed.",
-          "Latitude": 42.36634458395547,
-          "Longitude": -71.05957031250001,
+          "Latitude": 42.352225,
+          "Longitude": -71.068826,
           "Name": "Jared Jimenez ",
           "News Outlet": "Boston Herald",
           "Record ID": "recHIpmiAkspN906g",
