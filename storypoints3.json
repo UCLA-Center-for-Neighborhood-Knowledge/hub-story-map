@@ -2081,8 +2081,8 @@
       {
         "geometry": {
           "coordinates": [
-            -122.40593165159227,
-            37.794673034676386
+            -122.409377,
+            37.800471
           ],
           "type": "Point"
         },
@@ -2092,8 +2092,8 @@
           "City": "San Francisco",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "More than 800 Asian-Americans in California have been a victim of hate crimes in relation to COVID-19 since the month of May. This includes physical altercations, being banned from establishments, being unable to use public transportation, possible civil rights violations and racist remarks from Donald Trump. ",
-          "Latitude": 37.794673034676386,
-          "Longitude": -122.40593165159227,
+          "Latitude": 37.800471,
+          "Longitude": -122.409377,
           "Name": "Jared Jimenez",
           "News Outlet": "CBS San Francisco Bay Area",
           "Record ID": "reci6Ihd7TdVlK8VY",
