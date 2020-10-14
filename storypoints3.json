@@ -1331,6 +1331,34 @@
       {
         "geometry": {
           "coordinates": [
+            -75.16356575479223,
+            39.95219417934291
+          ],
+          "type": "Point"
+        },
+        "id": "recSd27mUbU1WON36",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Philadelphia",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Traffic around Philadelphia City Hall came to a standstill for over an hour April 9 as hundreds of protesters, from social distance in their cars, demanded Mayor Jim Kenney and First Judicial District Judges Patrick Dugan, Leon Tucker and Idee Fox decrease the number of incarcerated people in the city’s jails.",
+          "Latitude": 39.95219417934291,
+          "Longitude": -75.16356575479223,
+          "Name": "Jared Jimenez",
+          "News Outlet": "Workers World",
+          "Record ID": "recSd27mUbU1WON36",
+          "State": "Pennsylvania",
+          "Story Type": "News story",
+          "Theme": "Exposing system inequalities",
+          "Timestamp": "2020-09-26T01:03:34.000Z",
+          "Title": "Caravan targets City Hall and jail in Philly protest",
+          "URL": "https://www.workers.org/2020/04/47626/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -89.38311767997222,
             43.07296327952303
           ],
