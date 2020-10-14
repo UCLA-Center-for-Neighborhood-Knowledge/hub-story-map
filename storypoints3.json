@@ -2497,8 +2497,8 @@
       {
         "geometry": {
           "coordinates": [
-            -71.06094360351564,
-            42.36104118745841
+            -71.062996,
+            42.347816
           ],
           "type": "Point"
         },
@@ -2508,8 +2508,8 @@
           "City": "Boston",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "Boston's Chinatown will now have it's own public library after the Chinese Progressive Association Chinese Youth Initiative pressured the city of Boston to build one.",
-          "Latitude": 42.36104118745841,
-          "Longitude": -71.06094360351564,
+          "Latitude": 42.347816,
+          "Longitude": -71.062996,
           "Name": "Jared Jimenez",
           "News Outlet": "Next City",
           "Record ID": "recowO1FnY4C0idJf",
