@@ -307,8 +307,8 @@
       {
         "geometry": {
           "coordinates": [
-            -71.06094360351564,
-            42.36104118745841
+            -71.096449,
+            42.338483
           ],
           "type": "Point"
         },
@@ -318,8 +318,8 @@
           "City": "Boston",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "Asian Americans living in Boston's Chinatown are at risk of being displaced from their own homes due to high rent, so the tenents, along with local activists, have decided to take action by combatting the expensive rent through petitions and exposure.",
-          "Latitude": 42.36104118745841,
-          "Longitude": -71.06094360351564,
+          "Latitude": 42.338483,
+          "Longitude": -71.096449,
           "Name": "Jared Jimenez",
           "News Outlet": "NBC News",
           "Record ID": "recBFpbQwv6RAxyDR",
