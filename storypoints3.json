@@ -1305,7 +1305,7 @@
         "geometry": {
           "coordinates": [
             -121.4940262,
-            38.57605542
+            38.510758
           ],
           "type": "Point"
         },
@@ -1314,7 +1314,7 @@
           "Approved for Website": true,
           "City": "Sacramento",
           "Description": "The Sacramento City Unified School District is considering fully divesting from the Sacramento Police Department. ",
-          "Latitude": 38.57605542,
+          "Latitude": 38.510758,
           "Longitude": -121.4940262,
           "News Outlet": "Cap Radio",
           "Record ID": "recRfL8fWJDChSbNu",
