@@ -171,8 +171,8 @@
       {
         "geometry": {
           "coordinates": [
-            -82.72705078125,
-            40.43793260507628
+            -81.638671,
+            41.250062
           ],
           "type": "Point"
         },
@@ -181,8 +181,8 @@
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "As the spread of COVID-19 spreads, fear and hate towards Asian-Americans grows more exponentially.",
-          "Latitude": 40.43793260507628,
-          "Longitude": -82.72705078125,
+          "Latitude": 41.250062,
+          "Longitude": -81.638671,
           "Name": "Jared Jimenez",
           "News Outlet": "Idea Stream",
           "Record ID": "rec5yD01fYcoUFYQl",
