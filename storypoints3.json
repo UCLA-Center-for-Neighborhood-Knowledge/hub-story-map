@@ -2882,8 +2882,8 @@
       {
         "geometry": {
           "coordinates": [
-            -71.41339874477126,
-            41.82719018478549
+            -71.427848,
+            41.821391
           ],
           "type": "Point"
         },
@@ -2893,8 +2893,8 @@
           "City": "Providence ",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "Last week, the Providence External Review Authority (PERA) sent a letter to Providence Mayor Jorge Elorza and the Providence City Council “recommending the city reallocate funding from the Providence Police Department and reinvest the funds into PERA, in order to transition to a new, civilian lead model of oversight.”",
-          "Latitude": 41.82719018478549,
-          "Longitude": -71.41339874477126,
+          "Latitude": 41.821391,
+          "Longitude": -71.427848,
           "Name": "Jared Jimenez",
           "News Outlet": "Uprise RI",
           "Record ID": "rect36LT4UC7HtpOa",
