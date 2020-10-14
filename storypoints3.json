@@ -2716,8 +2716,8 @@
       {
         "geometry": {
           "coordinates": [
-            -78.64123535575345,
-            35.7790094506728
+            -78.592953,
+            35.837852
           ],
           "type": "Point"
         },
@@ -2727,8 +2727,8 @@
           "City": "Raleigh",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "The FBI sent a letter to law enforcement agencies across the country this week raising concerns about potential hate crimes during the coronavirus pandemic",
-          "Latitude": 35.7790094506728,
-          "Longitude": -78.64123535575345,
+          "Latitude": 35.837852,
+          "Longitude": -78.592953,
           "Name": "Jared Jimenez",
           "News Outlet": "Spectrum News 1",
           "Record ID": "recrCn0kvER6PwJzS",
