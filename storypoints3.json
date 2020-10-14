@@ -115,6 +115,34 @@
       {
         "geometry": {
           "coordinates": [
+            -77.43253326625563,
+            37.53698898161375
+          ],
+          "type": "Point"
+        },
+        "id": "rec5ElvkWVSUSdCy2",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Richmond",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Residents of Richmond demand an extension of housing evictions following the coronavirus pandemic.",
+          "Latitude": 37.53698898161375,
+          "Longitude": -77.43253326625563,
+          "Name": "Jared Jimenez",
+          "News Outlet": "Richmond Free Press",
+          "Record ID": "rec5ElvkWVSUSdCy2",
+          "State": "Virginia",
+          "Story Type": "News story",
+          "Theme": "AAPI groups rising to challenge",
+          "Timestamp": "2020-09-25T22:58:24.000Z",
+          "Title": " Advocates demand extension of eviction moratorium",
+          "URL": "http://richmondfreepress.com/news/2020/jul/02/advocates-demand-extension-eviction-moratorium/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -87.63559520244598,
             41.85433058883432
           ],
@@ -390,6 +418,33 @@
       {
         "geometry": {
           "coordinates": [
+            -78.80712904036045,
+            37.67208198374687
+          ],
+          "type": "Point"
+        },
+        "id": "recD2sNCAqWrwcTzA",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "The Virginia Department of Health will begin releasing more comprehensive demographic data on the commonwealth’s coronavirus cases and deaths on Monday. It’s a move that advocates have awaited for months, arguing that without detailed race and ethnicity data, it’s impossible to determine the full impact on the state’s most vulnerable populations.",
+          "Latitude": 37.67208198374687,
+          "Longitude": -78.80712904036045,
+          "Name": "Jared Jimenez",
+          "News Outlet": "DCist",
+          "Record ID": "recD2sNCAqWrwcTzA",
+          "State": "Virginia",
+          "Story Type": "News story",
+          "Theme": "Exposing system inequalities",
+          "Timestamp": "2020-09-25T22:44:23.000Z",
+          "Title": "Virginia Will Expand Racial COVID-19 Data Reporting After Criticism From Advocates And Experts",
+          "URL": "https://dcist.com/story/20/06/13/virginia-will-expand-racial-covid-19-data-reporting-after-criticism-from-advocates-and-experts/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.15284872068152,
             39.91322756166303
           ],
@@ -611,6 +666,33 @@
       {
         "geometry": {
           "coordinates": [
+            -98.36718857288362,
+            39.81866236393995
+          ],
+          "type": "Point"
+        },
+        "id": "recH7qxSgQUF6y0WY",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Juneteenth is a holiday that marks the final end of chattel slavery in the United States, the announcement by Union army general Gordon Granger in Galveston, Texas, on June 19, 1865, that all slaves in Texas were free–some two years after the Emancipation Proclamation. This year, the holiday was celebrated in towns big and small with marches and rallies demanding an end to systemic racism and racist police terror.",
+          "Latitude": 39.81866236393995,
+          "Longitude": -98.36718857288362,
+          "Name": "Jared Jimenez",
+          "News Outlet": "Liberation News",
+          "Record ID": "recH7qxSgQUF6y0WY",
+          "State": "Nationwide",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-26T00:46:28.000Z",
+          "Title": "Juneteenth 2020 marked as day of struggle for Black liberation",
+          "URL": "https://www.liberationnews.org/juneteenth-2020-marked-as-day-of-struggle-for-black-liberation/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -71.05957031250001,
             42.36634458395547
           ],
@@ -715,6 +797,34 @@
           "Timestamp": "2020-08-25T23:19:02.000Z",
           "Title": "How Coronavirus Relief Is Being Distributed to Undocumented Immigrants",
           "URL": "https://documentedny.com/2020/05/29/how-coronavirus-relief-is-being-distributed-to-undocumented-immigrants/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -77.04801178188065,
+            38.805289632029876
+          ],
+          "type": "Point"
+        },
+        "id": "recI6G5ByViE09Gfn",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Alexandria",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Whites make three times as much as Hispanic workers, twice as much as black workers.",
+          "Latitude": 38.805289632029876,
+          "Longitude": -77.04801178188065,
+          "Name": "Jared Jimenez",
+          "News Outlet": "Alexandria Gazette Packet",
+          "Record ID": "recI6G5ByViE09Gfn",
+          "State": "Virginia",
+          "Story Type": "News story",
+          "Theme": "Exposing system inequalities",
+          "Timestamp": "2020-09-25T23:57:28.000Z",
+          "Title": "Alexandria’s Income Gaps",
+          "URL": "http://www.alexandriagazette.com/news/2020/jun/17/alexandrias-income-gaps/"
         },
         "type": "Feature"
       },
@@ -1028,6 +1138,34 @@
       {
         "geometry": {
           "coordinates": [
+            -95.36572267301382,
+            29.75799933040399
+          ],
+          "type": "Point"
+        },
+        "id": "recQN0hNPp8qWwRgw",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Houston",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "They [Asian-Americans] went to protests in Houston and El Paso, spoke at an online town hall in Midland and held small celebrations amid national upheaval. In this weekly series, Texans from across the state share stories about how they’re navigating life during the COVID-19 pandemic.",
+          "Latitude": 29.75799933040399,
+          "Longitude": -95.36572267301382,
+          "Name": "Jared Jimenez",
+          "News Outlet": "The Texas Tribune",
+          "Record ID": "recQN0hNPp8qWwRgw",
+          "State": "Texas",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-26T00:05:43.000Z",
+          "Title": "“The African American community is not alone”: A Houston restaurant owner joins the protests",
+          "URL": "https://www.texastribune.org/2020/06/04/coronavirus-pandemic-texas/#debbie-chen"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.16383826732637,
             39.95247512307141
           ],
@@ -1104,6 +1242,34 @@
           "Timestamp": "2020-09-01T21:55:26.000Z",
           "Title": "Asian-Americans feel targeted with 'Chinese virus' label",
           "URL": "https://kstp.com/coronavirus/asian-americans-feel-targeted-with-chinese-virus-label-march-19-2020/5678961/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -71.41168213100173,
+            41.82412014429383
+          ],
+          "type": "Point"
+        },
+        "id": "recRwdpYZn02DAbds",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Providence ",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "The Providence City Council Finance Committee is planning to discuss “requests for defunding of the Providence Police Department” at its meeting Wednesday night, amid a nationwide movement to slash police budgets and reallocate funds to other services.",
+          "Latitude": 41.82412014429383,
+          "Longitude": -71.41168213100173,
+          "Name": "Jared Jimenez",
+          "News Outlet": "WPRI",
+          "Record ID": "recRwdpYZn02DAbds",
+          "State": "Rhode Island",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-26T00:41:41.000Z",
+          "Title": "Defunding the police will get Providence City Council hearing tonight",
+          "URL": "https://www.wpri.com/news/local-news/providence/defunding-the-police-will-get-providence-city-council-hearing-weds/"
         },
         "type": "Feature"
       },
@@ -1333,6 +1499,34 @@
       {
         "geometry": {
           "coordinates": [
+            -71.4103088399861,
+            41.821817520245396
+          ],
+          "type": "Point"
+        },
+        "id": "recYEwBEhmQM8wYIG",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Providence ",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "The Providence Police Department has revised its policy around identifying and storing information on suspected gang members as part of a settlement reached with the activist group Providence Youth Student Movement, which sued the department over the policy in January.",
+          "Latitude": 41.821817520245396,
+          "Longitude": -71.4103088399861,
+          "Name": "Jared Jimenez",
+          "News Outlet": "Providence Journal",
+          "Record ID": "recYEwBEhmQM8wYIG",
+          "State": "Rhode Island",
+          "Story Type": "News story",
+          "Theme": "Exposing system inequalities",
+          "Timestamp": "2020-09-26T00:43:54.000Z",
+          "Title": "In settlement with activists, Providence police gang database is now a narrower dragnet",
+          "URL": "https://www.providencejournal.com/news/20200311/in-settlement-with-activists-providence-police-gang-database-is-now-narrower-dragnet"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -122.40592092275621,
             37.794579776013364
           ],
@@ -1411,6 +1605,61 @@
           "Timestamp": "2020-10-10T02:30:15.000Z",
           "Title": "Coronavirus delays census operations nationwide, how census advocates are adjusting",
           "URL": "https://www.kob.com/albuquerque-news/coronavirus-delays-census-operations-nationwide-how-census-advocates-are-adjusting/5686798/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -71.41496729844222,
+            41.83124276438199
+          ],
+          "type": "Point"
+        },
+        "id": "recZD8jvW48DR11kH",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Providence ",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Hundreds of protesters took to the streets and marched to the Rhode Island State House in honor of black lives and George Floyd.",
+          "Latitude": 41.83124276438199,
+          "Longitude": -71.41496729844222,
+          "Name": "Jared Jimenez",
+          "News Outlet": "Uprise RI",
+          "Record ID": "recZD8jvW48DR11kH",
+          "State": "Rhode Island",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-26T00:36:12.000Z",
+          "Title": "Selene Means: Providence Juneteenth Youth after their Liberation",
+          "URL": "https://upriseri.com/2020-06-22-selene-means/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -106.00488267838955,
+            34.29489108307724
+          ],
+          "type": "Point"
+        },
+        "id": "recZhiTAjTnvbUxbZ",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "The New Mexico Complete Count Commission, a coalition of state and community leaders, is producing audio recordings explaining how to fill out census forms in the languages of New Mexico's Native American tribes.",
+          "Latitude": 34.29489108307724,
+          "Longitude": -106.00488267838955,
+          "Name": "Jared Jimenez",
+          "News Outlet": "Government Technology",
+          "Record ID": "recZhiTAjTnvbUxbZ",
+          "State": "New Mexico",
+          "Story Type": "News story",
+          "Theme": "AAPI groups rising to challenge",
+          "Timestamp": "2020-09-25T22:38:27.000Z",
+          "Title": "New Mexico Cuts Census Barriers for Native Language Speakers",
+          "URL": "https://www.govtech.com/gov-experience/New-Mexico-Cuts-Census-Barriers-for-Native-Language-Speakers.html"
         },
         "type": "Feature"
       },
@@ -1526,6 +1775,34 @@
       {
         "geometry": {
           "coordinates": [
+            -71.31520843715407,
+            41.490147068822814
+          ],
+          "type": "Point"
+        },
+        "id": "recdug0vR8WvxfkPo",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Newport",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "The Rhode Island Solidarity Fund has brought together 6 community-led relief efforts to offer a one-stop option for community members and foundations seeking to contribute directly to frontline relief during the Coronavirus crisis.",
+          "Latitude": 41.490147068822814,
+          "Longitude": -71.31520843715407,
+          "Name": "Jared Jimenez",
+          "News Outlet": "What's Up Newp",
+          "Record ID": "recdug0vR8WvxfkPo",
+          "State": "Rhode Island",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-26T00:40:17.000Z",
+          "Title": "WUN-ON-ONE: A conversation with RI Solidarity Fund",
+          "URL": "https://whatsupnewp.com/2020/06/wun-on-one-a-conversation-with-ri-solidarity-fund/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.17116338014604,
             39.953700881280696
           ],
@@ -1582,6 +1859,34 @@
       {
         "geometry": {
           "coordinates": [
+            -106.63317632635882,
+            35.06571188923899
+          ],
+          "type": "Point"
+        },
+        "id": "recgWGJlBzJ6Ls5Xd",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Albuquerque",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Students at the University of New Mexico have started a petition asking administrators to create an Asian and Pacific Islander resource center after Asian and Pacific Islander communities have seen an increased amount of discrimination because of COVID-19.",
+          "Latitude": 35.06571188923899,
+          "Longitude": -106.63317632635882,
+          "Name": "Jared Jimenez",
+          "News Outlet": "KOB 4",
+          "Record ID": "recgWGJlBzJ6Ls5Xd",
+          "State": "New Mexico",
+          "Story Type": "News story",
+          "Theme": "Rise in anti-Asian violence",
+          "Timestamp": "2020-09-25T22:31:47.000Z",
+          "Title": "UNM students ask for Asian and Pacific Islander resource center after experiencing COVID-19 racism",
+          "URL": "https://www.kob.com/albuquerque-news/unm-students-ask-for-asian-and-pacific-islander-resource-center-after-experiencing-covid-19-racism/5710680/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -122.67516824198539,
             45.52508661632931
           ],
@@ -1632,6 +1937,34 @@
           "Timestamp": "2020-08-20T21:32:09.000Z",
           "Title": "800+ Hate Crimes Against Asians in California Reported in Past 3 Months",
           "URL": "https://sanfrancisco.cbslocal.com/2020/07/05/800-hate-crimes-against-asians-in-california-reported-in-past-3-months/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -111.89067078055815,
+            40.765110434684054
+          ],
+          "type": "Point"
+        },
+        "id": "reciqIu7qf5uh5sYl",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Salt Lake City",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "The Black Lives Matter movement has descended on Utah, with chants of “no justice, no peace,” “I can’t breathe,” and “our streets.”",
+          "Latitude": 40.765110434684054,
+          "Longitude": -111.89067078055815,
+          "Name": "Jared Jimenez",
+          "News Outlet": "KSL-TV",
+          "Record ID": "reciqIu7qf5uh5sYl",
+          "State": "Utah",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-25T22:40:55.000Z",
+          "Title": "Urged to get out and vote, 1K protesters eschew marching after early morning Black Lives Matter gathering",
+          "URL": "https://www.ksl.com/article/46763254/urged-to-get-out-and-vote-1k-protesters-eschew-marching-after-early-morning-black-lives-matter-gathering"
         },
         "type": "Feature"
       },
@@ -2193,6 +2526,61 @@
       {
         "geometry": {
           "coordinates": [
+            -106.65307620540263,
+            35.08002225887544
+          ],
+          "type": "Point"
+        },
+        "id": "recsI4tIms0ZduBV9",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Residents of New Mexico are hard to count because it's big, area-wise, and because plenty of communities are intentionally discouraged from filling the 2020 Census out through fear tactics.",
+          "Latitude": 35.08002225887544,
+          "Longitude": -106.65307620540263,
+          "Name": "Jared Jimenez",
+          "News Outlet": "KUNM",
+          "Record ID": "recsI4tIms0ZduBV9",
+          "State": "New Mexico",
+          "Story Type": "News story",
+          "Theme": "AAPI groups rising to challenge",
+          "Timestamp": "2020-09-25T22:35:44.000Z",
+          "Title": "YNMG & COVID: To Be Heard And Counted",
+          "URL": "https://www.kunm.org/post/ynmg-covid-be-heard-and-counted"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -71.41490507165145,
+            41.830549864139
+          ],
+          "type": "Point"
+        },
+        "id": "recsSQVTNEkiIeTPT",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Providence",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Protestors march to the Rhode Island State House, stage sit-in, demand school, statewide, national change",
+          "Latitude": 41.830549864139,
+          "Longitude": -71.41490507165145,
+          "Name": "Jared Jimenez",
+          "News Outlet": "The Brown Daily Herald",
+          "Record ID": "recsSQVTNEkiIeTPT",
+          "State": "Rhode Island",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-26T00:10:17.000Z",
+          "Title": "Providence youth lead Juneteenth rally, draw over 1,000 participants",
+          "URL": "https://www.browndailyherald.com/2020/06/20/providence-youth-lead-juneteenth-rally-draw-1000-participants/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -122.4161911,
             37.77339886
           ],
@@ -2242,6 +2630,34 @@
           "Timestamp": "2020-09-01T22:07:53.000Z",
           "Title": "‘I don’t have the virus’: Asian Americans in Minnesota confront a COVID-19 backlash",
           "URL": "https://www.mprnews.org/story/2020/03/25/asian-americans-in-minnesota-confront-a-covid19-backlash"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -71.41339874477126,
+            41.82719018478549
+          ],
+          "type": "Point"
+        },
+        "id": "rect36LT4UC7HtpOa",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Providence ",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Last week, the Providence External Review Authority (PERA) sent a letter to Providence Mayor Jorge Elorza and the Providence City Council “recommending the city reallocate funding from the Providence Police Department and reinvest the funds into PERA, in order to transition to a new, civilian lead model of oversight.”",
+          "Latitude": 41.82719018478549,
+          "Longitude": -71.41339874477126,
+          "Name": "Jared Jimenez",
+          "News Outlet": "Uprise RI",
+          "Record ID": "rect36LT4UC7HtpOa",
+          "State": "Rhode Island",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-09-26T00:52:20.000Z",
+          "Title": "Activists urge civilian oversight board to aid in defunding efforts",
+          "URL": "https://upriseri.com/2020-06-21-michael-blackmon/"
         },
         "type": "Feature"
       },
@@ -2359,6 +2775,34 @@
       {
         "geometry": {
           "coordinates": [
+            -77.04904175014237,
+            38.81064032094063
+          ],
+          "type": "Point"
+        },
+        "id": "recu8yNlVcpuRUnwl",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Alexandria",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Alexandria’s poorest areas have been hit hardest by the coronavirus, and local groups are demanding that Virginia Gov. Ralph Northam respond by supplying 10,000 testing kits over the next 10 days and providing housing for COVID-positive patients who currently live in jam-packed residences.",
+          "Latitude": 38.81064032094063,
+          "Longitude": -77.04904175014237,
+          "Name": "Jared Jimenez",
+          "News Outlet": "ALXnow",
+          "Record ID": "recu8yNlVcpuRUnwl",
+          "State": "Virginia",
+          "Story Type": "News story",
+          "Theme": "Exposing system inequalities",
+          "Timestamp": "2020-09-26T00:01:42.000Z",
+          "Title": "Advocates Demand 10K COVID-19 Tests in Arlandria, Housing Options for Positive Patients",
+          "URL": "https://www.alxnow.com/2020/05/08/groups-demand-10k-covid-19-tests-for-arlandria-housing-options-for-positive-patients/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -122.67805940595282,
             45.52493704338902
           ],
@@ -2408,6 +2852,34 @@
           "Timestamp": "2020-09-01T21:45:13.000Z",
           "Title": "George Floyd death sparks Asian American soul-searching",
           "URL": "https://www.japantimes.co.jp/news/2020/06/21/world/george-floyd-asian-americans/#.XwOokOdlBPY"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -77.43253326625563,
+            37.53698898161375
+          ],
+          "type": "Point"
+        },
+        "id": "recvgEmsxcU4qWJqC",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Richmond",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Residents of Richmond demand an extension of housing evictions following the coronavirus pandemic.",
+          "Latitude": 37.53698898161375,
+          "Longitude": -77.43253326625563,
+          "Name": "Jared Jimenez",
+          "News Outlet": "Richmond Free Press",
+          "Record ID": "recvgEmsxcU4qWJqC",
+          "State": "Virginia",
+          "Story Type": "News story",
+          "Theme": "AAPI groups rising to challenge",
+          "Timestamp": "2020-09-25T22:58:24.000Z",
+          "Title": " Advocates demand extension of eviction moratorium",
+          "URL": "http://richmondfreepress.com/news/2020/jul/02/advocates-demand-extension-eviction-moratorium/"
         },
         "type": "Feature"
       },
