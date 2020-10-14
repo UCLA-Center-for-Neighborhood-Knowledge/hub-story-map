@@ -87,8 +87,8 @@
       {
         "geometry": {
           "coordinates": [
-            -122.45361328125,
-            37.78672476186115
+            -122.491192,
+            37.77365
           ],
           "type": "Point"
         },
@@ -98,8 +98,8 @@
           "City": "San Francisco",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "San Francisco Mayor London Breed joined city officials, including District Attorney-elect Chesa Boudin, to condemn the violent attack on three seniors at a popular Chinatown gathering spot over the weekend.",
-          "Latitude": 37.78672476186115,
-          "Longitude": -122.45361328125,
+          "Latitude": 37.77365,
+          "Longitude": -122.491192,
           "Name": "Jared Jimenez",
           "News Outlet": "SFBay",
           "Record ID": "rec3PZqsA4UV8MSTW",
