@@ -526,8 +526,8 @@
       {
         "geometry": {
           "coordinates": [
-            -122.41516113281251,
-            37.78256995126978
+            -122.442764,
+            37.80075
           ],
           "type": "Point"
         },
@@ -537,8 +537,8 @@
           "City": "San Francisco",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "As the first reported cases of COVID-19 appeared in the Bay Area in March, AAPI groups were able to help spread awareness on the spread of the virus.",
-          "Latitude": 37.78256995126978,
-          "Longitude": -122.41516113281251,
+          "Latitude": 37.80075,
+          "Longitude": -122.442764,
           "Name": "Jared Jimenez",
           "News Outlet": "NBC News",
           "Record ID": "recFiAixZIrlTG2Vz",
