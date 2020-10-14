@@ -1275,8 +1275,8 @@
       {
         "geometry": {
           "coordinates": [
-            -75.16383826732637,
-            39.95247512307141
+            -75.144716,
+            39.96903
           ],
           "type": "Point"
         },
@@ -1286,8 +1286,8 @@
           "City": "Philadelphia",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "As the number of infected with COVID-19 rise in China, fear and racism has increased against Asian-Americans in the city of Philadelphia.",
-          "Latitude": 39.95247512307141,
-          "Longitude": -75.16383826732637,
+          "Latitude": 39.96903,
+          "Longitude": -75.144716,
           "Name": "Jared Jimenezz",
           "News Outlet": "The Philadelphia Inquirer",
           "Record ID": "recRc6nRLa6W5ZlgZ",
