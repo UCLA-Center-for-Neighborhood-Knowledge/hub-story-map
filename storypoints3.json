@@ -2388,6 +2388,33 @@
       {
         "geometry": {
           "coordinates": [
+            -84.70898464322092,
+            43.749670136309255
+          ],
+          "type": "Point"
+        },
+        "id": "recpUUTtAOT5L3jYg",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Anti-Asian American sentiment during the coronavirus disease 2019 pandemic is a growing concern among state leaders.",
+          "Latitude": 43.749670136309255,
+          "Longitude": -84.70898464322092,
+          "Name": "Jared Jimenez",
+          "News Outlet": "WWMT",
+          "Record ID": "recpUUTtAOT5L3jYg",
+          "State": "Michigan",
+          "Story Type": "News story",
+          "Theme": "Rise in anti-Asian violence",
+          "Timestamp": "2020-09-26T00:55:24.000Z",
+          "Title": "Michigan leaders encourage reporting of anti-Asian American hate crimes amid COVID-19",
+          "URL": "https://wwmt.com/news/local/michigan-leaders-encourage-reporting-of-anti-asian-american-hate-crimes-amid-covid-19"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -87.69876927137376,
             41.95960945945799
           ],
