@@ -2938,8 +2938,8 @@
       {
         "geometry": {
           "coordinates": [
-            -71.06575012207033,
-            42.36205592276628
+            -71.069221,
+            42.298311
           ],
           "type": "Point"
         },
@@ -2949,8 +2949,8 @@
           "City": "Boston",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "Asian American leaders in Massachusetts on Thursday condemned what they say is continued racism, fear-mongering and misinformation aimed at Asian communities amid the coronavirus pandemic that originated in China.",
-          "Latitude": 42.36205592276628,
-          "Longitude": -71.06575012207033,
+          "Latitude": 42.298311,
+          "Longitude": -71.069221,
           "Name": "Jared Jimenez",
           "News Outlet": "Boston",
           "Record ID": "rectBnzRca3WryS1y",
