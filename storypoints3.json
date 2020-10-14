@@ -1968,8 +1968,8 @@
       {
         "geometry": {
           "coordinates": [
-            -75.17116338014604,
-            39.953700881280696
+            -75.105672,
+            40.009819
           ],
           "type": "Point"
         },
@@ -1979,8 +1979,8 @@
           "City": "Philadelphia",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "Advocacy groups in Pennsylvania have joined to form the PA Immigrant Relief Fund and aim to provide undocumented immigrant families with supplies during the pandemic.",
-          "Latitude": 39.953700881280696,
-          "Longitude": -75.17116338014604,
+          "Latitude": 40.009819,
+          "Longitude": -75.105672,
           "Name": "Jared Jimenez",
           "News Outlet": "The Philadelphia Inquirer",
           "Record ID": "recenVzVKAFVqwdBg",
