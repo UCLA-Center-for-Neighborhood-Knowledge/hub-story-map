@@ -1525,8 +1525,8 @@
       {
         "geometry": {
           "coordinates": [
-            -94.19403076171876,
-            46.35800587672091
+            -94.175952,
+            45.540135
           ],
           "type": "Point"
         },
@@ -1535,8 +1535,8 @@
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "During this turbulent time, Asian-Americans in the state of Minnesota have been experiencing a wave of racism, but there are ways to help them combat racism through methods listed in the article by notable figures.",
-          "Latitude": 46.35800587672091,
-          "Longitude": -94.19403076171876,
+          "Latitude": 45.540135,
+          "Longitude": -94.175952,
           "Name": "Jared Jimenez",
           "News Outlet": "MPR News",
           "Record ID": "recTvm5sK24bBVN87",
