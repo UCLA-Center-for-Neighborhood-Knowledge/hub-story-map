@@ -1776,8 +1776,8 @@
       {
         "geometry": {
           "coordinates": [
-            -71.41496729844222,
-            41.83124276438199
+            -71.437115,
+            41.839921
           ],
           "type": "Point"
         },
@@ -1787,8 +1787,8 @@
           "City": "Providence ",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "Hundreds of protesters took to the streets and marched to the Rhode Island State House in honor of black lives and George Floyd.",
-          "Latitude": 41.83124276438199,
-          "Longitude": -71.41496729844222,
+          "Latitude": 41.839921,
+          "Longitude": -71.437115,
           "Name": "Jared Jimenez",
           "News Outlet": "Uprise RI",
           "Record ID": "recZD8jvW48DR11kH",
