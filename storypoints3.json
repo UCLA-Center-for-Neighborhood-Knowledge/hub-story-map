@@ -582,8 +582,8 @@
       {
         "geometry": {
           "coordinates": [
-            -81.69433593750001,
-            41.50002817530095
+            -81.59503,
+            41.461749
           ],
           "type": "Point"
         },
@@ -593,8 +593,8 @@
           "City": "Cleveland",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "As fear of the coronavirus grows, hate grows against Asian-Americans living in Cleveland, Ohio.",
-          "Latitude": 41.50002817530095,
-          "Longitude": -81.69433593750001,
+          "Latitude": 41.461749,
+          "Longitude": -81.59503,
           "Name": "Jared Jimenez",
           "News Outlet": "cleveland.com",
           "Record ID": "recGQwvv3Fd4MHYdE",
