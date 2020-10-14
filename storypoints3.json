@@ -1028,6 +1028,33 @@
       {
         "geometry": {
           "coordinates": [
+            -85.04296928644182,
+            43.98174883673524
+          ],
+          "type": "Point"
+        },
+        "id": "recNQuznduQqxOU0a",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Many Asian Americans are collectively being subjected to racism due to the novel coronavirus outbreak.",
+          "Latitude": 43.98174883673524,
+          "Longitude": -85.04296928644182,
+          "Name": "Jared Jimenez",
+          "News Outlet": "Model D Media",
+          "Record ID": "recNQuznduQqxOU0a",
+          "State": "Michigan",
+          "Story Type": "News story",
+          "Theme": "Rise in anti-Asian violence",
+          "Timestamp": "2020-09-26T00:58:15.000Z",
+          "Title": "Essay: Asian American is not a disease",
+          "URL": "https://www.modeldmedia.com/features/mahbuba-covid19-essay-042120.aspx"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -95.99338531494142,
             36.15169355487976
           ],
