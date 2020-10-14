@@ -2192,8 +2192,8 @@
       {
         "geometry": {
           "coordinates": [
-            -122.67525973176818,
-            45.52507733087022
+            -122.679105,
+            45.514977
           ],
           "type": "Point"
         },
@@ -2203,8 +2203,8 @@
           "City": "Portland",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "Mayor Ted Wheeler announced Prosper Portland, the city’s economic development agency, is making a $150,000 grant available to the Jade District neighborhood to help support one of the hardest financially impacted areas of Portland. The grant is specifically slated for Asian American-owned businesses throughout the city, but with a focus on businesses within the Jade District neighborhood proper.",
-          "Latitude": 45.52507733087022,
-          "Longitude": -122.67525973176818,
+          "Latitude": 45.514977,
+          "Longitude": -122.679105,
           "Name": "Jared Jimenez (double check)",
           "News Outlet": "Eater Portland",
           "Record ID": "recjztZJ2IM06D3n1",
