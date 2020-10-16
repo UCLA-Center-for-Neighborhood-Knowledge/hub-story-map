@@ -1303,6 +1303,34 @@
       {
         "geometry": {
           "coordinates": [
+            -75.20031738386024,
+            39.96069153026416
+          ],
+          "type": "Point"
+        },
+        "id": "recQSX6Zz71RdBY86",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Philadelphia ",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "I want Philadelphians to know that what is happening to me is an attempt to criminalize nonviolent peaceful protest. I believe this arrest was an attempt to silence and intimidate me, and my community, people of the Viet diaspora, Asian Americans, and immigrants broadly, from doing what we need to do as active citizens: speak truth to power.",
+          "Latitude": 39.96069153026416,
+          "Longitude": -75.20031738386024,
+          "Name": "Victor Tran",
+          "News Outlet": "The Philadelphia Inquirer",
+          "Record ID": "recQSX6Zz71RdBY86",
+          "State": "Pennsylvania ",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-10-16T23:33:54.000Z",
+          "Title": "My arrest after protesting ICE was an attempt to silence Asian Americans and immigrants | Opinion",
+          "URL": "https://www.inquirer.com/opinion/commentary/nancy-nguyen-arrest-ice-pham-protest-richmond-philadelphia-20201015.html"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.144716,
             39.96903
           ],
