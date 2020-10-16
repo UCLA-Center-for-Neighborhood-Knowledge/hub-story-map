@@ -1968,6 +1968,33 @@
       {
         "geometry": {
           "coordinates": [
+            -102.03222669661046,
+            40.9023033926856
+          ],
+          "type": "Point"
+        },
+        "id": "reccxahcUWZnmLzKg",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "The head of the Congressional Asian Pacific American Caucus said the research shows that anyone who fails to see the link between harmful rhetoric and bigotry is \"lying to themselves.\"",
+          "Latitude": 40.9023033926856,
+          "Longitude": -102.03222669661046,
+          "Name": "Victor Tran",
+          "News Outlet": "NBC News",
+          "Record ID": "reccxahcUWZnmLzKg",
+          "State": "Nationwide",
+          "Story Type": "News story",
+          "Theme": "Rise in anti-Asian violence",
+          "Timestamp": "2020-10-16T23:30:29.000Z",
+          "Title": "After Trump's Covid-19 diagnosis, anti-Asian tweets and conspiracies rose 85%: report",
+          "URL": "https://www.nbcnews.com/news/asian-america/after-trump-s-covid-19-diagnosis-anti-asian-tweets-conspiracies-n1243441"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -71.31520843715407,
             41.490147068822814
           ],
