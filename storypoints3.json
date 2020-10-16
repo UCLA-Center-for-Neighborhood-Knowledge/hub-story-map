@@ -1110,6 +1110,34 @@
       {
         "geometry": {
           "coordinates": [
+            -75.21336364850869,
+            39.88962997068366
+          ],
+          "type": "Point"
+        },
+        "id": "recMvGNX0tvcZJQsP",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Philadelphia",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "Right now, civic empowerment organizations like VietLead are in the homestretch to get as many new voters registered for the November election as possible. They have been diligently forging connections with the Vietnamese and Southeast Asian communities in Philly over the past five years.",
+          "Latitude": 39.88962997068366,
+          "Longitude": -75.21336364850869,
+          "Name": "Victor Tran",
+          "News Outlet": "Billy Penn",
+          "Record ID": "recMvGNX0tvcZJQsP",
+          "State": "Pennsylvania ",
+          "Story Type": "News story",
+          "Theme": "AAPI groups rising to challenge",
+          "Timestamp": "2020-10-16T23:26:49.000Z",
+          "Title": "VietLead and activating the Southeast Asian vote in Philadelphia",
+          "URL": "https://billypenn.com/2020/10/15/vietlead-and-activating-the-southeast-asian-vote-in-philadelphia/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -83.073086,
             42.36507
           ],
