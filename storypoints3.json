@@ -59,6 +59,34 @@
       {
         "geometry": {
           "coordinates": [
+            -73.91745757428,
+            40.86739896647659
+          ],
+          "type": "Point"
+        },
+        "id": "rec1nL1E33PNO2Ilu",
+        "properties": {
+          "Approved for Website": true,
+          "City": "New York City",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "The NYPD is forming an Asian Hate Crime Task Force, its first-ever force dedicated to investigating crimes targeting a single race. The city has seen a rise in hate crimes directed at Asian people since the coronavirus pandemic began",
+          "Latitude": 40.86739896647659,
+          "Longitude": -73.91745757428,
+          "Name": "Victor Tran",
+          "News Outlet": "Wall Street Journal",
+          "Record ID": "rec1nL1E33PNO2Ilu",
+          "State": "New York",
+          "Story Type": "News story",
+          "Theme": "Rise in anti-Asian violence",
+          "Timestamp": "2020-10-19T05:57:06.000Z",
+          "Title": "NYPD Forms Asian Hate Crime Task Force",
+          "URL": "https://www.wsj.com/articles/nypd-forms-asian-hate-crime-task-force-11603040400"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -87.69874298575817,
             41.95964696914843
           ],
