@@ -253,6 +253,33 @@
       {
         "geometry": {
           "coordinates": [
+            -84.49365237727761,
+            39.076029705814605
+          ],
+          "type": "Point"
+        },
+        "id": "rec6vpDQBImvNNghU",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "Most adults say tensions between black people and police and concerns about the treatment of black people in the U.S. – in addition to anger over Floyd’s death – have contributed a great deal to the protests, according to a new Pew Research Center survey.",
+          "Latitude": 39.076029705814605,
+          "Longitude": -84.49365237727761,
+          "Name": "Victor Tran",
+          "News Outlet": "Pew Research Center",
+          "Record ID": "rec6vpDQBImvNNghU",
+          "State": "Nationwide",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-10-20T01:14:16.000Z",
+          "Title": "Amid Protests, Majorities Across Racial and Ethnic Groups Express Support for the Black Lives Matter Movement",
+          "URL": "https://www.pewsocialtrends.org/2020/06/12/amid-protests-majorities-across-racial-and-ethnic-groups-express-support-for-the-black-lives-matter-movement/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -73.85984796797858,
             40.84899514136141
           ],
