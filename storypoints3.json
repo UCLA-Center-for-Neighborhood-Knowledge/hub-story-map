@@ -1720,6 +1720,33 @@
       {
         "geometry": {
           "coordinates": [
+            -115.03125026822092,
+            36.25579116693338
+          ],
+          "type": "Point"
+        },
+        "id": "recWN5238xoOyj3BA",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "About four-in-ten Black and Asian adults say people have acted as if they were uncomfortable around them because of their race or ethnicity since the beginning of the outbreak, and similar shares say they worry that other people might be suspicious of them if they wear a mask when out in public, according to a new Pew Research Center survey.",
+          "Latitude": 36.25579116693338,
+          "Longitude": -115.03125026822092,
+          "Name": "Victor Tran",
+          "News Outlet": "Pew Research Center",
+          "Record ID": "recWN5238xoOyj3BA",
+          "State": "Nationwide",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-10-20T01:07:32.000Z",
+          "Title": "Many Black and Asian Americans Say They Have Experienced Discrimination Amid the COVID-19 Outbreak ",
+          "URL": "https://www.pewsocialtrends.org/2020/07/01/many-black-and-asian-americans-say-they-have-experienced-discrimination-amid-the-covid-19-outbreak/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -81.69570922851564,
             41.50545185642846
           ],
