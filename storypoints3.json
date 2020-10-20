@@ -971,6 +971,33 @@
       {
         "geometry": {
           "coordinates": [
+            -117.84649659879507,
+            33.66521091371762
+          ],
+          "type": "Point"
+        },
+        "id": "recJA1WhpxTUYwtE7",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "Hate incidents directed at Asian Americans and Pacific Islanders are exploding this year, according to advocates pushing for California Gov. Gavin Newsom to boost funding for programs fighting bias and add a cultural representative to his new COVID-19 task force.",
+          "Latitude": 33.66521091371762,
+          "Longitude": -117.84649659879507,
+          "Name": "Victor Tran",
+          "News Outlet": "Los Angeles Times",
+          "Record ID": "recJA1WhpxTUYwtE7",
+          "State": "California",
+          "Story Type": "News story",
+          "Theme": "Rise in anti-Asian violence",
+          "Timestamp": "2020-10-20T01:18:09.000Z",
+          "Title": "'You started the corona!' As anti-Asian hate incidents explode, climbing past 800, activists push for aid",
+          "URL": "https://www.latimes.com/california/story/2020-07-05/anti-asian-hate-newsom-help"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -88.820127,
             43.109257
           ],
