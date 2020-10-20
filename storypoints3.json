@@ -2024,6 +2024,33 @@
       {
         "geometry": {
           "coordinates": [
+            -89.77148585021497,
+            35.29450390989274
+          ],
+          "type": "Point"
+        },
+        "id": "reccagwHob96wG09t",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "Across the country, Asian American health-care workers have reported a rise in bigoted incidents. The racial hostility has left Asian Americans, who represent 6 percent of the U.S. population but 18 percent of the country’s physicians and 10 percent of its nurse practitioners, in a painful position on the front lines of the response to the coronavirus pandemic. Some covid-19 patients refuse to be treated by them. And when doctors and nurses leave the hospital, they face increasing harassment in their daily lives, too.",
+          "Latitude": 35.29450390989274,
+          "Longitude": -89.77148585021497,
+          "Name": "Victor Tran",
+          "News Outlet": "The Washington Post",
+          "Record ID": "reccagwHob96wG09t",
+          "State": "Nationwide",
+          "Story Type": "News story",
+          "Theme": "Rise in anti-Asian violence",
+          "Timestamp": "2020-10-20T01:02:44.000Z",
+          "Title": "Asian American doctors and nurses are fighting racism and the coronavirus",
+          "URL": "https://www.washingtonpost.com/business/2020/05/19/asian-american-discrimination/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -102.03222669661046,
             40.9023033926856
           ],
