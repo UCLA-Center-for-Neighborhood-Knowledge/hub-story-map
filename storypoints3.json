@@ -3438,6 +3438,34 @@
       {
         "geometry": {
           "coordinates": [
+            -122.42250823765063,
+            37.75478945821775
+          ],
+          "type": "Point"
+        },
+        "id": "recyqcy8QwCDEwbPc",
+        "properties": {
+          "Approved for Website": true,
+          "City": "San Francisco ",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "COVID-19 is killing Asian Americans in the Bay Area. In this six-part series, USA TODAY investigates how systemic racism is driving high death rates.",
+          "Latitude": 37.75478945821775,
+          "Longitude": -122.42250823765063,
+          "Name": "Victor Tran",
+          "News Outlet": "USA Today",
+          "Record ID": "recyqcy8QwCDEwbPc",
+          "State": "California",
+          "Story Type": "News story",
+          "Theme": "Exposing system inequalities",
+          "Timestamp": "2020-10-20T00:45:22.000Z",
+          "Title": "Asian Americans in San Francisco are dying at alarming rates from COVID-19: Racism is to blame",
+          "URL": "https://www.usatoday.com/in-depth/news/nation/2020/10/18/coronavirus-asian-americans-racism-death-rates-san-francisco/5799617002/ "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.11831796172555,
             44.93102784671917
           ],
