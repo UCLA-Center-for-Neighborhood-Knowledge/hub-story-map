@@ -3465,6 +3465,33 @@
       {
         "geometry": {
           "coordinates": [
+            -87.9916996881366,
+            43.04902033747261
+          ],
+          "type": "Point"
+        },
+        "id": "recyGFRCHEzI1Gy5T",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "Latino and African-American residents of the United States have been three times as likely to become infected as their white neighbors, according to the new data, which provides detailed characteristics of 640,000 infections detected in nearly 1,000 U.S. counties. And Black and Latino people have been nearly twice as likely to die from the virus as white people, the data shows.",
+          "Latitude": 43.04902033747261,
+          "Longitude": -87.9916996881366,
+          "Name": "Victor Tran",
+          "News Outlet": "The New York Times",
+          "Record ID": "recyGFRCHEzI1Gy5T",
+          "State": "Nationwide",
+          "Story Type": "News story",
+          "Theme": "Exposing system inequalities",
+          "Timestamp": "2020-10-20T01:05:24.000Z",
+          "Title": "The Fullest Look Yet at the Racial Inequity of Coronavirus",
+          "URL": "https://www.nytimes.com/interactive/2020/07/05/us/coronavirus-latinos-african-americans-cdc-data.html"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -122.42250823765063,
             37.75478945821775
           ],
