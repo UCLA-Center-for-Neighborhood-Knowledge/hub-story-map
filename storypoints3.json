@@ -1746,6 +1746,34 @@
       {
         "geometry": {
           "coordinates": [
+            -87.82285309047438,
+            42.58320081308718
+          ],
+          "type": "Point"
+        },
+        "id": "recVm8fTC3AamDBnh",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Kenosha",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "Nothing has been left untouched by the outpouring of rage, despair and horror in the days after the shooting of Jacob Blake, a Black man, by police. Yet the messages left by residents offer words of hope for a city that’s still trying to heal after civil unrest erupted here, in nearby Milwaukee and across the country following the shooting.",
+          "Latitude": 42.58320081308718,
+          "Longitude": -87.82285309047438,
+          "Name": "Victor Tran",
+          "News Outlet": "Los Angeles Times",
+          "Record ID": "recVm8fTC3AamDBnh",
+          "State": "Wisconsin ",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2020-10-22T19:59:42.000Z",
+          "Title": "‘Examine your heart’: Healing from turmoil, Wisconsin voters have a message for America",
+          "URL": "https://www.latimes.com/politics/story/2020-10-04/battleground-state-wisconsin-voters-unity"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -121.4899749797769,
             38.57937263602794
           ],
