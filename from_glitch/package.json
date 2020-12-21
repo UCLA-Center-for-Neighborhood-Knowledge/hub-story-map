@@ -1,0 +1,37 @@
+{
+  "name": "airtable-github-export",
+  "version": "1.0.0",
+  "description": "Export airtable tables to json/geojson in Github",
+  "main": "airtable-export.js",
+  "bin": "airtable-export.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Gregor MacLennan - modified MAB",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "airtable": "^0.10.0",
+    "debug": "^4.2.0",
+    "deep-equal": "^2.0.3",
+    "geojson-rewind": "^0.3.1",
+    "json-stable-stringify": "^1.0.1",
+    "run-parallel": "^1.1.9",
+    "hubfs.js": "^1.0.0",
+    "@mapbox/geojsonhint": "^2.1.0",
+    "dotenv": "^8.2.0",
+    "cors": "^2.8.5",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
