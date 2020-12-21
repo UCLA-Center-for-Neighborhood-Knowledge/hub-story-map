@@ -1,0 +1,1259 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title></title>
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v1.9.1/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v1.9.1/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <script src="https://npmcdn.com/csv2geojson@latest/csv2geojson.js"></script>
+    <script src="https://npmcdn.com/@turf/turf/turf.min.js"></script>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        font: 400 13px/14px "Helvetica Neue", Arial, Helvetica, sans-serif;
+        overflow: hidden;
+      }
+
+      #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 100%;
+      }
+
+      .legend {
+        background: white;
+        opacity: 70%;
+        padding: 5px;
+        position: absolute;
+        bottom: 35px;
+        left: 15px;
+        z-index: 2000;
+        box-shadow: 0 15px 15px rgba(0, 0, 0, 0.08);
+      }
+
+      div#legend {
+        position: absolute;
+        z-index: 1;
+        width: auto;
+        height: auto;
+        bottom: 30px;
+        right: 10px;
+        background-color: rgba(0, 0, 0, 0.8);
+        padding: 15px;
+        color: White;
+        font-size: 14px;
+        font-family: "Open Sans", sans-serif;
+        display: none;
+      }
+
+      div#legendTitle {
+        text-transform: uppercase;
+        margin-bottom: 15px;
+      }
+
+      div#legendWrapper {
+        display: grid;
+        grid-template-columns: 30px auto;
+        grid-row-gap: 5px;
+      }
+
+      div#legend #legendWrapper div.color {
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        background-color: White;
+      }
+
+      div#legend #legendWrapper div.label {
+        display: inline-block;
+      }
+
+      div.instructions {
+        position: absolute;
+        text-align: right;
+        background-color: rgb(255 255 255 / 100%);
+        color: black;
+        z-index: 1;
+        font-family: "Open Sans", sans-serif;
+        font-size: 16px;
+        letter-spacing: -0.5px;
+        padding: 7px 8px 7px 10px;
+        border: 1px solid Gray;
+      }
+
+      a {
+      color: #a9e9ff;
+      }
+      
+      .howpop-wrapper {
+      position: relative;
+      }
+      
+      div#howpop {
+        background-color: rgba(0, 0, 0, 0.75);
+        position: fixed;
+        width: 75%;
+        height: auto;
+        left: 12.5%;
+        top: 60px;
+        z-index: 2;
+        padding: 40px;
+        box-sizing: border-box;
+        font-size: 18px;
+        overflow: auto;
+      }
+
+      div#popclose {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        cursor: pointer;
+        color: white;
+      }
+
+      div#restart {
+        position: absolute;
+        right: 10px;
+        top: 150px;
+        width: 30px;
+        background-color: White;
+        border: 2px solid LightGray;
+        padding: 3px;
+        box-sizing: border-box;
+        cursor: pointer;
+        text-align: center;
+      }
+
+      div#restart-title {
+        display: none;
+        font-size: 13px;
+        position: absolute;
+        top: 185px;
+        background-color: White;
+        right: 10px;
+      }
+
+      div#restart:hover {
+        border: 2px solid Black;
+      }
+
+      div#question img {
+        max-width: 100%;
+      }
+      
+      div#question {
+        position: absolute;
+        right: 10px;
+        top: 200px;
+        width: 30px;
+        background-color: orange;
+        border: 2px solid LightGray;
+        padding: 3px;
+        box-sizing: border-box;
+        cursor: pointer;
+        text-align: center;
+        border-radius: 25px;
+
+      }
+
+      div#question-title {
+        display: none;
+        font-size: 13px;
+        position: absolute;
+        top: 185px;
+        background-color: White;
+        right: 10px;
+      }
+
+      div#question:hover {
+        border: 2px solid Black;
+      }
+
+      div#question img {
+        max-width: 80%;
+      }
+
+      div#howsearch {
+        top: 10px;
+        left: 360px;
+        display: none;
+      }
+
+      .mapboxgl-ctrl-geocoder {
+        width: 300px !important;
+      }
+
+      div#howto {
+        top: 57px;
+        right: 50px;
+      }
+
+      div.instructions img {
+        width: 20px;
+        display: inline-block;
+        transform: rotate(35deg);
+        margin-left: 10px;
+        vertical-align: middle;
+      }
+
+      .mapboxgl-ctrl-bottom-left {
+        display: none !important;
+      }
+
+      /* Popup styling */
+
+      .mapboxgl-popup {
+        padding-bottom: 5px;
+      }
+
+      .mapboxgl-popup-close-button {
+        display: block;
+      }
+
+      .mapboxgl-popup-content {
+        font: 400 13px/14px "Helvetica Neue", Arial, Helvetica, sans-serif;
+        padding: 8px;
+        width: 400px;
+        background-color: White;
+        color: Black;
+      }
+
+      .mapboxgl-popup-content p {
+        margin-top: 3px;
+        margin-bottom: 5px;
+      }
+
+      .mapboxgl-popup-content p a {
+        color: #d86a00;
+      }
+
+      .mapboxgl-popup-content-wrapper {
+        padding: 1%;
+      }
+
+      .mapboxgl-popup-content h3 {
+        background: rgb(61, 59, 59);
+        text-align: center;
+        color: #fff;
+        margin: 0;
+        display: block;
+        padding: 15px;
+        font-weight: 700;
+        margin-top: -5px;
+      }
+
+      .mapboxgl-popup-content h4 {
+        margin: 0;
+        display: block;
+        padding: 10px 3px 10px 10px;
+        font-weight: 400;
+      }
+
+      .mapboxgl-container {
+        cursor: pointer;
+      }
+
+      .mapboxgl-popup-anchor-top > .mapboxgl-popup-content {
+        margin-top: 3px;
+      }
+
+      .mapboxgl-popup-anchor-top > .mapboxgl-popup-tip {
+        border-bottom-color: rgb(61, 59, 59);
+      }
+
+      #infowindow {
+        position: absolute;
+        top: 0px;
+        left: 15px;
+        width: 320px;
+        min-height: 550px;
+        height: 100vh;
+        padding: 8px;
+        background-color: rgba(0, 0, 0, 0.75);
+        border: 1px dotted Black;
+        color: White !important;
+        font-size: 13px !important;
+        overflow: scroll;
+        display: none;
+      }
+
+      #infowindow::-webkit-scrollbar {
+        width: 0.75em;
+      }
+
+      #infowindow::-webkit-scrollbar-track {
+        box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+      }
+
+      #infowindow::-webkit-scrollbar-thumb {
+        background-color: Black;
+        outline: 1px dotted Orange;
+      }
+      
+      p.binary {
+        display: none !important;
+      }
+
+      p.policy-category {
+        color: White;
+        font-weight: 700;
+        font-size: 14px;
+        text-decoration: underline;
+        margin-top: 25px;
+      }
+
+      p.policy-header {
+        margin-bottom: -10px;
+        color: White;
+        font-weight: 700;
+      }
+
+      p.policycode a {
+        color: #98a863;
+      }
+
+      p.nickname {
+        margin-top: -10px;
+      }
+
+
+      @media only screen and (max-width: 1000px) {
+        #howsearch,
+        #infowindow,
+        #legend,
+        #howpop {
+          display: none !important;
+        }
+        .mapboxgl-ctrl-geocoder {
+          width: 330px !important;
+          max-width: 100% !important;
+          font-size: 12px !important;
+          padding: 3px !important;
+        }
+        .mapboxgl-popup-content {
+          width: 200px;
+          max-width: 100%;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.5.1/mapbox-gl-geocoder.css"
+      type="text/css"
+    />
+    <!-- Promise polyfill script required to use Mapbox GL Geocoder in IE 11 -->
+    <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+
+    <div id="map"></div>
+
+    <div class="howpop-wrapper">
+
+        <div id="howpop">
+      
+            <p style="line-height: 20px; color: white"> <strong> About <a href = "https://movementhub.org/">Movement Hub's </a> StoryMap </strong></p>
+          
+            <p style="line-height: 18px; font-size:14px; color: white ">
+          This map highlights stories across the country in four themes 
+          (AAPI in action, rise in anti-Asian violence, systemic inequities, and racial justice) 
+          and offers information on federal and state statutes to facilitate connections between 
+          the lived experiences of AAPIs and possible protection policies* available to the community. 
+          You can zoom in to view the local statutes and stories of interests.</p>
+          <p> 
+            <img src="https://cdn.glitch.com/2b826943-3c83-4a09-85c4-cd2d12a6f759%2FMovementHubMapInstructionsV2_Resized-02_cropped.png?v=1603839135594" alt="instructions" width="100%" height="100%">
+          </p>
+          
+           <p style="line-height: 18px; font-size:14px; color: white ">
+            Questions or to submit stories, contact admin@movementhub.org. <a href="mailto:admin@movementhub.org ">admin@movementhub.org </a>
+            <br> <br> *Please look to the specific statutes for the most updated information regarding the law at issue. 
+            This should not be considered legal advice and you should contact an attorney or conduct independent research.
+          </p>
+              <div id="popclose">
+                x
+              </div>
+        </div>
+  </div>
+    
+    <div id="restart">
+      <img
+        src="https://cdn.glitch.com/553bd511-6329-4b89-94d0-bc7dcd0e067a%2Fmap-marked-alt-light.svg?v=1603319015742"
+      />
+    </div>
+    <div id="restart-title">
+      reset map
+    </div>
+    
+    <div id ="question">
+      <img src = "https://cdn.glitch.com/2b826943-3c83-4a09-85c4-cd2d12a6f759%2Fquestionmark.png?v=1603743751301"/>
+    </div>
+    
+    <div id="question-title">
+      show instructions
+    </div>
+
+    <div id="infowindow">
+      <div id="federalwindow">
+        <p style="font-size: 20px; margin-top: 10px;">
+          Policy Protections
+        </p>
+        <p style="font-size: 16px; margin-top: 10px;">
+          Federal Jurisdiction: United States
+        </p>
+        <div class="policy-collection">
+          <p class="policy-category">
+            Color of Law:
+          </p>
+          <p id="FED_COLOR_SUMMARY" class="policychange"></p>
+          <p class="policycode">
+            <a id="FED_COLOR_URL" href="/">
+              <span id="FED_COLOR_STATUTE">TEST</span>
+            </a>
+          </p>
+          <p id="FED_COLOR_NICKNAME" class="policychange nickname"></p>
+        </div>
+        <div class="policy-collection">
+          <p class="policy-category">
+            Employment:
+          </p>
+          <p id="FED_EMPLOYMENT_SUMMARY" class="policychange"></p>
+          <p class="policycode">
+            <a id="FED_EMPLOYMENT_URL" href="/">
+              <span id="FED_EMPLOYMENT_STATUTE">TEST</span>
+            </a>
+          </p>
+          <p id="FED_EMPLOYMENT_NICKNAME" class="policychange nickname"></p>
+        </div>
+        <div class="policy-collection">
+          <p class="policy-category">
+            Equal Rights:
+          </p>
+          <p id="FED_EQUAL_SUMMARY" class="policychange"></p>
+          <p class="policycode">
+            <a id="FED_EQUAL_URL" href="/">
+              <span id="FED_EQUAL_STATUTE">TEST</span>
+            </a>
+          </p>
+          <p id="FED_EQUAL_NICKNAME" class="policychange nickname"></p>
+        </div>
+        <div class="policy-collection">
+          <p class="policy-category">
+            Hate Crime:
+          </p>
+          <p id="FED_HATE_SUMMARY" class="policychange"></p>
+          <p class="policycode">
+            <a id="FED_HATE_URL" href="/">
+              <span id="FED_HATE_STATUTE">TEST</span>
+            </a>
+          </p>
+        </div>
+        <div class="policy-collection">
+          <p class="policy-category">
+            Housing:
+          </p>
+          <p id="FED_HOUSING_SUMMARY" class="policychange"></p>
+          <p class="policycode">
+            <a id="FED_HOUSING_URL" href="/">
+              <span id="FED_HOUSING_STATUTE">TEST</span>
+            </a>
+          </p>
+          <p id="FED_HOUSING_NICKNAME" class="policychange nickname"></p>
+        </div>
+        
+        <div class="policy-collection">
+          <p class="policy-category">
+            Public Accommodations:
+          </p>
+          <p id="FED_ACCOMMODATIONS_SUMMARY" class="policychange"></p>
+          <p class="policycode">
+            <a id="FED_ACCOMMODATIONS_URL" href="/">
+              <span id="FED_ACCOMMODATIONS_STATUTE">TEST</span>
+            </a>
+          </p>
+          <p id="FED_ACCOMMODATIONS_NICKNAME" class="policychange nickname"></p>
+        </div>
+        <div class="policy-collection">
+          <p class="policy-category">
+            Voting:
+          </p>
+          <p id="FED_VOTING_SUMMARY" class="policychange"></p>
+          <p class="policycode">
+            <a id="FED_VOTING_URL" href="/">
+              <span id="FED_VOTING_STATUTE">TEST</span>
+            </a>
+          </p>
+          <p id="FED_VOTING_NICKNAME" class="policychange nickname"></p>
+        </div>
+        
+        
+        <div class="policy-collection">
+          <p class="policy-category">
+          </p>
+        </div>
+        <p style="font-size: 12px;">
+          *Please look to the specific federal statute for the most updated
+          information regarding the law at issue. This should not be considered
+          legal advice and you should contact an attorney or conduct independent
+          research.
+        </p>
+      </div>
+      <!-- end federalwindow -->
+      <div id="statewindow">
+        <p style="font-size: 20px; margin-top: 10px;">
+          State Laws:
+        </p>
+        <p
+          id="NAME"
+          class="policychange"
+          style="font-size: 18px; font-weight: 500; margin-top: 5px;"
+        ></p>
+        <div class="policy-collection">
+          <p class="policy-category">
+            State Civil Rights Statutes
+          </p>
+          <p class="policy-header">
+            Employment:
+          </p>
+          <p id="EMPLOYMENT_SUMMARY" class="policychange"></p>
+          <p class="policy-header">
+          </p>
+          <p class="policycode">
+            <a id="EMPLOYMENT_URL" href="/">
+              <span id="EMPLOYMENT_CODE">TEST</span>
+            </a>
+          </p>
+        </div>
+        <div class="policy-collection">
+          <p class="policy-header">
+            Housing:
+          </p>
+          <p id="HOUSING_SUMMARY" class="policychange"></p>
+          <p class="policy-header">
+          </p>
+          <p class="policycode">
+            <a id="HOUSING_URL" href="/"><span id="HOUSING_CODE">TEST</span></a>
+          </p>
+         <p class="policy-header">
+          </p>
+        </div>
+        <div class="policy-collection">
+          <p class="policy-category">
+          </p>
+          <p id="ACCOMMODATIONS_PROTECTIONS" class="policychange binary"></p>
+          <p class="policy-header">
+            Public Accommodations:
+          </p>
+          <p id="ACCOMMODATIONS_SUMMARY" class="policychange"></p>
+          <p class="policy-header">
+          </p>
+          <p class="policycode">
+            <a id="ACCOMMODATIONS_URL" href="/"
+              ><span id="ACCOMMODATIONS_CODE">TEST</span></a
+            >
+          </p>
+        </div>
+        <div class="policy-collection">
+          <p class="policy-category">
+          State Hate Crime Statutes
+          </p>
+          <p id="HCPENALTY_PROTECTIONS" class="policychange binary"></p>
+          <p class="policy-header">
+            Hate Crime:
+          </p>
+          <p id="HCPENALTY_SUMMARY" class="policychange"></p>
+          <p class="policy-header">
+          </p>
+          <p class="policycode">
+            <a id="HCPENALTY_URL" href="/"
+              ><span id="HCPENALTY_CODE">TEST</span></a
+            >
+          </p>
+        </div>
+        <div class="policy-collection">
+          <p class="policy-category">
+           State Civil/Human Rights Commissions
+          </p>
+          <p class="policycode">
+            <a id="CR_URL" href="/"><span id="CR_COMMISSION">TEST</span></a>
+          </p>
+        </div>
+        <p style="font-size: 12px;">
+          *Note that state laws vary throughout the states and there are varied
+          exceptions and definitions; and changes are frequently made by
+          legislation, ballot initiatives, executive order, and court decisions.
+          Please look to the specific state statutes for the most updated
+          statutes and for more detailed information regarding the specific
+          state law at issue. This should not be considered legal advice and you
+          should contact an attorney or conduct independent research.
+        </p>
+      </div>
+      <!-- end of statewindow -->
+    </div>
+    <!-- end of infowindow -->
+
+    <div id="legend">
+      <div id="legendTitle">
+        <p style="margin-top: 2px;">
+          Story Type
+        </p>
+      </div>
+
+      <div id="legendWrapper">
+        <div
+          class="color"
+          style="background-color: #d86a00; border: 1px solid Black;"
+        ></div>
+        <div class="label">AAPIs in action</div>
+        <div
+          class="color"
+          style="background-color: #4444; border: 1px solid White;"
+        ></div>
+        <div class="label">Rise in anti-Asian violence</div>
+        <div
+          class="color"
+          style="background-color: #98a863; border: 1px solid Black;"
+        ></div>
+        <div class="label">Systemic inequities</div>
+        <div
+          class="color"
+          style="background-color: #ffd731; border: 1px solid Black;"
+        ></div>
+        <div class="label">Racial justice</div>
+      </div>
+    </div>
+
+    <div id="howsearch" class="instructions">
+      Click on a state to see state statute protections
+    </div>
+
+    <script>
+      var transformRequest = (url, resourceType) => {
+        var isMapboxRequest =
+          url.slice(8, 22) === "api.mapbox.com" ||
+          url.slice(10, 26) === "tiles.mapbox.com";
+        return {
+          url: isMapboxRequest
+            ? url.replace("?", "?pluginName=sheetMapper&")
+            : url
+        };
+      };
+
+      let mapCenter;
+      let mapZoom;
+
+      if ($(window).width() > 1000) {
+        mapCenter = { lat: 38.0902, lng: -130.7129 };
+        mapZoom = 3;
+      } else {
+        mapCenter = { lat: 28.0902, lng: -100.7129 };
+        mapZoom = 2.2;
+      }
+      mapboxgl.accessToken =
+        "pk.eyJ1IjoiYWFwaW1vdmVtZW50aHViIiwiYSI6ImNrZDh5dGl0MzAxZzYzMGxlc2swbXloNnMifQ.U0mY3a6LFLWzLVUcRP3kBg"; //Mapbox token
+      var map = new mapboxgl.Map({
+        container: "map", // container id
+        style: "mapbox://styles/aapimovementhub/ckfhupr7b2dnb19qy83zc697d", //stylesheet location
+        center: mapCenter, // { lat: 28.0902, lng: -130.7129 }, // starting position
+        zoom: mapZoom, // starting zoom
+        transformRequest: transformRequest
+      });
+
+      map.addControl(
+        new MapboxGeocoder({
+          accessToken: mapboxgl.accessToken,
+          marker: false,
+          flyTo: {
+            zoom: 8.5
+          },
+          mapboxgl: mapboxgl,
+          countries: "us"
+        })
+      );
+
+      var nav = new mapboxgl.NavigationControl();
+      map.addControl(nav, "top-right");
+
+      $(document).ready(function() {
+        $("#popclose").click(function() {
+          $("#howpop").fadeOut("slow");
+          $("#howsearch").fadeIn("fast");
+          $("#infowindow").fadeIn("slow");
+          $("#legend").fadeIn("slow");
+        });
+        
+          $("#question").hover(function() {
+          $("#question-title").toggle();
+            });
+        
+        $("#question").click(function() {
+          $("#howpop").fadeIn("fast");
+          $("#infowindow").fadeOut("fast");
+          $("#legend").fadeOut("fast");
+            });
+
+        $("#restart").hover(function() {
+          $("#restart-title").toggle();
+        });
+        
+
+        $("#restart").click(function() {
+          map.flyTo({
+            center: mapCenter,
+            zoom: mapZoom
+          });
+          $("#federalwindow").show();
+          $("#statewindow").hide();
+        });
+        
+
+        //geocoder adjustment
+        $("input.mapboxgl-ctrl-geocoder--input").attr(
+          "placeholder",
+          "Search for a city or address here"
+        );
+
+        let blankInfo = $("div#infowindow div#statewindow").html();
+        $("div#statewindow").hide();
+
+        let statepolicydata = [];
+        let federalpolicydata = [];
+
+        $.ajax({
+          type: "GET",
+          url: "https://hub-storymap-v8.glitch.me/federal-policy-data.json",
+          dataType: "json",
+          success: writeFedPolicy
+        });
+
+        $.ajax({
+          type: "GET",
+          url:
+            "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/master/storypoints3.json?v=2",
+          dataType: "json",
+          success: addtoMap
+        });
+
+        $.ajax({
+          type: "GET",
+          url: "https://hub-storymap-v8.glitch.me/state-policy-data.json",
+          dataType: "json",
+          success: writeStatePolicy
+        });
+
+        function writeFedPolicy(data) {
+          federalpolicydata = data;
+          console.log(federalpolicydata);
+
+          $("div#infowindow #federalwindow p.policychange").each(function() {
+            let whichPolicy = $(this).attr("id");
+            $(this).html(federalpolicydata[0][whichPolicy]);
+
+            $("div#infowindow #federalwindow p.policycode").each(function() {
+              let whatLink = $(this)
+                .children("a")
+                .attr("id");
+              let whatCode = $(this)
+                .find("span")
+                .attr("id");
+
+              let linkTest = federalpolicydata[0][whatLink];
+
+              if (typeof linkTest !== "undefined") {
+                if (linkTest.indexOf(", ") !== -1) {
+                  // if there are multiple statute links
+                  linkArray = linkTest.split(",");
+                  let codeTest = federalpolicydata[0][whatCode];
+                  if (typeof codeTest !== "undefined") {
+                    if (codeTest.indexOf(", ") !== -1) {
+                      codeArray = codeTest.split(",");
+                    }
+                  }
+                  for (i = 0; i < linkArray.length; i++) {
+                    multiLinks.push(
+                      "<a href='" +
+                        linkArray[i] +
+                        "'><span>" +
+                        codeArray[i] +
+                        "</span><br>"
+                    );
+                  }
+                  newLinks = multiLinks.join(" ").toString();
+                  $(this).html(newLinks);
+                } else {
+                  // if there is only 1 link
+                  $(this)
+                    .children("a")
+                    .attr("href", federalpolicydata[0][whatLink]);
+                  $(this)
+                    .find("span")
+                    .html(federalpolicydata[0][whatCode]);
+                }
+              } // end multi link testing
+
+            }); // end policycode function
+          });
+          // $("#infowindow").fadeIn("slow"); // only when data is loaded!
+        }
+
+        function writeStatePolicy(data) {
+          console.log("states data:");
+          statepolicydata = data;
+          console.log(statepolicydata);
+        }
+
+        function addtoMap(data) {
+          map.on("load", function() {
+            //Add the the layer to the map
+            map.addLayer(
+              {
+                id: "story-points",
+                type: "circle",
+                source: {
+                  type: "geojson",
+                  data: data.Stories
+                },
+                paint: {
+                  "circle-radius": {
+                    //base: 7,
+                    stops: [[3, 4],[6,5], [11, 7], [16, 20]]
+                  },
+                  "circle-stroke-color": "#D3D3D3",
+                  "circle-stroke-width": 1,
+                  "circle-color": [
+                    "match",
+                    ["get", "Theme"],
+                    "Rise in anti-Asian violence",
+                    "#444444",
+                    "AAPI groups rising to challenge",
+                    "#d86a00",
+                    "Exposing system inequalities",
+                    "#98a863",
+                    "Intersectional issues",
+                    "#ffd731",
+                    /* other */ "#ccc"
+                  ]
+                }
+              },
+              "settlement-major-label"
+            );
+
+            map.on("click", "story-points", function(e) {
+              var coordinates = e.features[0].geometry.coordinates.slice();
+
+              let city = e.features[0].properties.City;
+              if (typeof city === "undefined") {
+                city = "";
+              } else {
+                city = city.trim() + ",";
+              }
+
+              //set popup text
+              var description =
+                `<p><strong>` +
+                e.features[0].properties.Title +
+                `</strong></p>` +
+                `<p>` +
+                `<p>` +
+                city +
+                ` ` +
+                e.features[0].properties.State +
+                `<p>` +
+                e.features[0].properties.Description +
+                `</p><p><a href="` +
+                e.features[0].properties.URL +
+                `" target="blank">Source</a></p>`;
+
+              // Ensure that if the map is zoomed out such that multiple
+              // copies of the feature are visible, the popup appears
+              // over the copy being pointed to.
+              while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+              }
+
+              //add Popup to map
+
+              new mapboxgl.Popup()
+                .setLngLat(coordinates)
+                .setHTML(description)
+                .addTo(map);
+
+              var currentz = map.getZoom();
+              if (currentz <= 6) {
+                currentz = 12;
+              } else {
+                currentz = 12.5;
+              }
+
+              map.flyTo({
+                center: coordinates,
+                zoom: currentz
+              });
+
+              map.on("mousemove", "states-tiles", function(e) {
+                map.getCanvas().style.cursor = "pointer";
+
+                // var coordinates = e.lngLat;
+                hoveredStateId = e.features[0].id;
+
+                let thestate = statepolicydata.find(
+                  element => element.GEOID == hoveredStateId
+                );
+                let stateIndex = statepolicydata.findIndex(
+                  element => element.GEOID == hoveredStateId
+                );
+
+                // Single out the first found feature.
+                var feature = e.features[0];
+
+                var currentz = map.getZoom();
+
+                let linkArray = [];
+                let codeArray = [];
+                let multiLinks = [];
+                let newLinks = [];
+
+                if (currentz >= 12) {
+                  $("#federalwindow").hide();
+                  $("#statewindow").show();
+                  $("div#statewindow").html(blankInfo);
+
+                  $("div#infowindow #statewindow p.policychange").each(
+                    function() {
+                      let whichPolicy = $(this).attr("id");
+                      $(this).html(statepolicydata[stateIndex][whichPolicy]);
+                      if (statepolicydata[stateIndex][whichPolicy]) {
+                        $(this)
+                          .prev("p")
+                          .show();
+                      } else {
+                        $(this)
+                          .prev("p")
+                          .hide();
+                      }
+                      if ($(this).hasClass("binary")) {
+                        if (
+                          statepolicydata[stateIndex][whichPolicy] === "FALSE"
+                        ) {
+                          $(this).hide();
+                          $(this)
+                            .prev("p.policy-category")
+                            .hide();
+                          $(this)
+                        } else if (
+                          statepolicydata[stateIndex][whichPolicy] === "TRUE"
+                        ) {
+                          $(this).hide();
+                        } else {
+                          $(this).hide();
+                          $(this)
+                            .prev("p.policy-category")
+                            .hide();
+                        }
+                      }
+                    }
+                  );
+
+                  $("div#infowindow #statewindow p.policycode").each(
+                    function() {
+                      let whatLink = $(this)
+                        .children("a")
+                        .attr("id");
+                      let whatCode = $(this)
+                        .find("span")
+                        .attr("id");
+
+                      let linkTest = statepolicydata[stateIndex][whatLink];
+
+                      if (typeof linkTest !== "undefined") {
+                        if (linkTest.indexOf(", ") !== -1) {
+                          // if there are multiple statute links
+                          linkArray = linkTest.split(", ");
+                          let codeTest = statepolicydata[stateIndex][whatCode];
+                          if (typeof codeTest !== "undefined") {
+                            if (codeTest.indexOf(", ") !== -1) {
+                              codeArray = codeTest.split(", ");
+                            }
+                          }
+                          for (i = 0; i < linkArray.length; i++) {
+                            multiLinks.push(
+                              "<a href='" +
+                                linkArray[i] +
+                                "'><span>" +
+                                codeArray[i] +
+                                "</span><br>"
+                            );
+                          }
+                          newLinks = multiLinks.join(" ").toString();
+                          $(this).html(newLinks);
+                        } else {
+                          // if there is only 1 link
+                          $(this)
+                            .children("a")
+                            .attr(
+                              "href",
+                              statepolicydata[stateIndex][whatLink]
+                            );
+                          $(this)
+                            .find("span")
+                            .html(statepolicydata[stateIndex][whatCode]);
+                        }
+                        $("p.policycode a").attr("target", "_blank");
+                      } // end multi link testing
+
+                      if (
+                        $(this)
+                          .html()
+                          .indexOf("TEST") != -1
+                      ) {
+                        // checking if link is blank
+                        $(this).hide();
+                        $(this)
+                          .prev("p")
+                          .hide();
+                      }
+                    }
+                  ); // end policycode function
+                } // end if zoomed in, state level
+              }); // end mousemove states tiles
+            }); // end story points click function
+
+            // Change the cursor to a pointer when the mouse is over the story points layer.
+            map.on("mouseenter", "story-points", function() {
+              map.getCanvas().style.cursor = "pointer";
+            });
+
+            // Change it back to a cursor when it leaves.
+            map.on("mouseleave", "story-points", function() {
+              map.getCanvas().style.cursor = "";
+            });
+
+            // Add source for state polygons hosted on Mapbox, based on US Census Data:
+            // https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html
+            map.addSource("states", {
+              type: "vector",
+              url: "mapbox://mapbox.us_census_states_2015"
+            });
+
+            // Add layer from the vector tile source with data-driven style
+            map.addLayer(
+              {
+                id: "states-tiles",
+                //minzoom: 4,
+                type: "fill",
+                source: "states",
+                "source-layer": "states",
+                paint: {
+                  "fill-color": "transparent"
+                }
+              },
+              "waterway-label"
+            );
+
+            map.addLayer(
+              {
+                id: "states-highlighted",
+                //minzoom: 4,
+                maxzoom: 10,
+                type: "fill", // could also be fill
+                source: "states",
+                "source-layer": "states",
+                paint: {
+                  "fill-color": "#d86a00",
+                  "fill-opacity": 0.3
+                },
+                filter: ["in", "GEOID", ""]
+              },
+              "story-points"
+            );
+
+            map.on("click", "states-tiles", function(e) {
+              $("#howsearch").hide();
+              $("#federalwindow").hide();
+              $("#statewindow").show();
+
+              $("div#statewindow").html(blankInfo);
+
+              map.getCanvas().style.cursor = "pointer";
+
+              // var coordinates = e.lngLat;
+              hoveredStateId = e.features[0].id;
+
+              let thestate = statepolicydata.find(
+                element => element.GEOID == hoveredStateId
+              );
+              let stateIndex = statepolicydata.findIndex(
+                element => element.GEOID == hoveredStateId
+              );
+
+              // Single out the first found feature.
+              var feature = e.features[0];
+
+              var currentz = map.getZoom();
+
+              let linkArray = [];
+              let codeArray = [];
+              let multiLinks = [];
+              let newLinks = [];
+
+              // if (currentz >= 4) {
+              $("div#infowindow #statewindow p.policychange").each(function() {
+                let whichPolicy = $(this).attr("id");
+                $(this).html(statepolicydata[stateIndex][whichPolicy]);
+                if (statepolicydata[stateIndex][whichPolicy]) {
+                  $(this)
+                    .prev("p")
+                    .show();
+                } else {
+                  $(this)
+                    .prev("p")
+                    .hide();
+                }
+                if ($(this).hasClass("binary")) {
+                  if (statepolicydata[stateIndex][whichPolicy] === "FALSE") {
+                    $(this).hide();
+                    $(this)
+                      .prev("p.policy-category")
+                      .hide();
+                  } else if (
+                    statepolicydata[stateIndex][whichPolicy] === "TRUE"
+                  ) {
+                    $(this).hide();
+                  } else {
+                    $(this).hide();
+                    $(this)
+                      .prev("p.policy-category")
+                      .hide();
+                  }
+                }
+              });
+
+              $("div#infowindow #statewindow p.policycode").each(function() {
+                let whatLink = $(this)
+                  .children("a")
+                  .attr("id");
+                let whatCode = $(this)
+                  .find("span")
+                  .attr("id");
+
+                let linkTest = statepolicydata[stateIndex][whatLink];
+
+                if (typeof linkTest !== "undefined") {
+                  if (linkTest.indexOf(", ") !== -1) {
+                    // if there are multiple statute links
+                    linkArray = linkTest.split(", ");
+                    let codeTest = statepolicydata[stateIndex][whatCode];
+                    if (typeof codeTest !== "undefined") {
+                      if (codeTest.indexOf(", ") !== -1) {
+                        codeArray = codeTest.split(", ");
+                      }
+                    }
+                    for (i = 0; i < linkArray.length; i++) {
+                      multiLinks.push(
+                        "<a href='" +
+                          linkArray[i] +
+                          "'><span>" +
+                          codeArray[i] +
+                          "</span><br>"
+                      );
+                    }
+                    newLinks = multiLinks.join(" ").toString();
+                    $(this).html(newLinks);
+                  } else {
+                    // if there is only 1 link
+                    $(this)
+                      .children("a")
+                      .attr("href", statepolicydata[stateIndex][whatLink]);
+                    $(this)
+                      .find("span")
+                      .html(statepolicydata[stateIndex][whatCode]);
+                  }
+                  $("p.policycode a").attr("target", "_blank");
+                } // end multi link testing
+
+                if (
+                  $(this)
+                    .html()
+                    .indexOf("TEST") != -1
+                ) {
+                  // checking if link is blank
+                  $(this).hide();
+                  $(this)
+                    .prev("p")
+                    .hide();
+                }
+              }); // end policycode function
+              // } // end if zoomed in, state level
+            });
+
+            map.on("mousemove", "states-tiles", function(e) {
+              map.getCanvas().style.cursor = "pointer";
+
+              hoveredStateId = e.features[0].id;
+
+              let thestate = statepolicydata.find(
+                element => element.GEOID == hoveredStateId
+              );
+              let stateIndex = statepolicydata.findIndex(
+                element => element.GEOID == hoveredStateId
+              );
+
+              // Single out the first found feature.
+              var feature = e.features[0];
+
+              // hover effect
+              var relatedFeatures = map.querySourceFeatures("states-tiles", {
+                sourceLayer: "states",
+                filter: ["in", "STATE_ID", feature.properties.STATE_ID]
+              });
+
+              // hover effect
+              map.setFilter("states-highlighted", [
+                "in",
+                "STATE_ID",
+                feature.properties.STATE_ID
+              ]);
+            }); // end states layer hover
+
+            map.on("mouseenter", "states-tiles", function(e) {
+
+              map.setLayoutProperty(
+                "states-highlighted",
+                "visibility",
+                "visible"
+              );
+            });
+
+            map.on("mouseleave", "states-tiles", function(e) {
+
+              map.setLayoutProperty("states-highlighted", "visibility", "none");
+            });
+
+          }); // end on map load
+        } // end addtoMap function
+
+        map.on("zoom", function() {
+          let currentz = map.getZoom();
+          if (currentz <= 5) {
+            $("#federalwindow").show();
+            $("#statewindow").hide();
+          } 
+        });
+
+        $("p.policycode a").attr("target", "_blank");
+      }); // end document ready
+    </script>
+  </body>
+</html>
