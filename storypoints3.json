@@ -1330,6 +1330,33 @@
       {
         "geometry": {
           "coordinates": [
+            -123.048722,
+            43.987294
+          ],
+          "type": "Point"
+        },
+        "id": "recPPNlUjHqLzoTVS",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Demographic information in that data shows that people of color make up 40% of the confirmed coronavirus cases in Multnomah County. For the entire Portland region, including those four counties, people of color make up about 43% of confirmed cases.",
+          "Latitude": 43.987294,
+          "Longitude": -123.048722,
+          "Name": "Jared Jimenez (double check)",
+          "News Outlet": "Oregon Public Brodcasting",
+          "Record ID": "recPPNlUjHqLzoTVS",
+          "State": "Oregon",
+          "Story Type": "News story",
+          "Theme": "Exposing system inequalities",
+          "Timestamp": "2020-08-28T21:11:12.000Z",
+          "Title": "People Of Color Disproportionately Represented In Coronavirus Caseload",
+          "URL": "https://www.opb.org/news/article/live-updates-oregon-washington-coronavirus-covid-19-april-30/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -99.169903,
             31.329373
           ],
