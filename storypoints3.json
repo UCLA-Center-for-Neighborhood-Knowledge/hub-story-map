@@ -528,32 +528,6 @@
       {
         "geometry": {
           "coordinates": [
-            -90.0604248,
-            29.88299732
-          ],
-          "type": "Point"
-        },
-        "id": "recEs65nmDjy5CBwm",
-        "properties": {
-          "Approved for Website": true,
-          "City": "New Orleans",
-          "Description": "A group of Louisiana advocacy organizations is looking to the future, to when the state will be recovering from the coronavirus COVID-19 pandemic. Louisiana isn't a stranger to disaster recovery, but efforts in the past have often left out the state's most vulnerable populations or ultimately exacerbated problems that squeeze working communities and people of color.",
-          "Latitude": 29.88299732,
-          "Longitude": -90.0604248,
-          "News Outlet": "Gambit",
-          "Record ID": "recEs65nmDjy5CBwm",
-          "State": "Louisiana",
-          "Story Type": "News story",
-          "Theme": "Exposing system inequalities",
-          "Timestamp": "2020-07-31T20:31:05.000Z",
-          "Title": "Louisiana advocacy organizations have a roadmap for an equitable COVID-19 recovery",
-          "URL": "https://www.nola.com/gambit/news/the_latest/article_c492bf78-818f-11ea-869e-975a5bc62501.html"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -79.48828138411045,
             35.55591526966738
           ],
