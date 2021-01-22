@@ -2744,31 +2744,6 @@
       {
         "geometry": {
           "coordinates": [
-            -122,
-            45
-          ],
-          "type": "Point"
-        },
-        "id": "recona4NZWuvPQMBb",
-        "properties": {
-          "Approved for Website": true,
-          "City": "Portland",
-          "Description": "Pangurbot",
-          "Latitude": 45,
-          "Longitude": -122,
-          "News Outlet": "Oregonion",
-          "Record ID": "recona4NZWuvPQMBb",
-          "State": "Oregon",
-          "Story Type": "News story",
-          "Theme": "AAPI groups rising to challenge",
-          "Timestamp": "2020-12-21T19:07:51.000Z",
-          "Title": "Story"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -71.062996,
             42.347816
           ],
