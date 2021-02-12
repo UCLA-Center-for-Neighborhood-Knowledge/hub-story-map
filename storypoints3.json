@@ -280,30 +280,6 @@
       {
         "geometry": {
           "coordinates": [
-            -102.93118715286256,
-            40.088229753359585
-          ],
-          "type": "Point"
-        },
-        "id": "rec7XD4rVPvG7DwG3",
-        "properties": {
-          "Approved for Website": true,
-          "Description": "This is a video test",
-          "Latitude": 40.088229753359585,
-          "Longitude": -102.93118715286256,
-          "Media Embed": "https://youtu.be/2J1ISEV4Rn0",
-          "Record ID": "rec7XD4rVPvG7DwG3",
-          "State": "Nationwide",
-          "Story Type": "Another form of media",
-          "Theme": "AAPI groups rising to challenge",
-          "Timestamp": "2021-02-12T17:59:08.000Z",
-          "Title": "The Sikh Vote"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -73.85984796797858,
             40.84899514136141
           ],
