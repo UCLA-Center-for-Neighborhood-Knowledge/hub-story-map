@@ -290,12 +290,12 @@
           "Approved for Website": true,
           "Latitude": 40.088229753359585,
           "Longitude": -102.93118715286256,
+          "Media Embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2J1ISEV4Rn0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
           "Record ID": "rec7XD4rVPvG7DwG3",
           "Story Type": "Another form of media",
           "Theme": "AAPI groups rising to challenge",
           "Timestamp": "2021-02-12T17:59:08.000Z",
-          "Title": "The Sikh Vote",
-          "URL": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2J1ISEV4Rn0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+          "Title": "The Sikh Vote"
         },
         "type": "Feature"
       },
