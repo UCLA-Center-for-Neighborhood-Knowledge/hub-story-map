@@ -733,7 +733,7 @@
 
         $.ajax({
           type: "GET",
-          url: "https://hub-storymap-live.glitch.me/federal-policy-data.json",
+          url: "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/federal-policy-data.json",
           dataType: "json",
           success: writeFedPolicy
         });
@@ -741,14 +741,14 @@
         $.ajax({
           type: "GET",
           url:
-            "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/master/storypoints3.json",
+            "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/storypoints.json",
           dataType: "json",
           success: addtoMap
         });
 
         $.ajax({
           type: "GET",
-          url: "https://hub-storymap-live.glitch.me/state-policy-data.json",
+          url: "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/state-policy-data.json",
           dataType: "json",
           success: writeStatePolicy
         });
