@@ -223,7 +223,7 @@
       .mapboxgl-popup-content {
         font: 400 13px/14px "Helvetica Neue", Arial, Helvetica, sans-serif;
         padding: 8px;
-        width: 400px;
+        width: 420px;
         background-color: White;
         color: Black;
       }
@@ -257,6 +257,11 @@
         display: block;
         padding: 10px 3px 10px 10px;
         font-weight: 400;
+      }
+      
+      iframe.pop-video {
+        width: 100%;
+        height: 300px;
       }
 
       .mapboxgl-container {
@@ -851,6 +856,7 @@
             );
 
             map.on("click", "story-points", function(e) {
+              let description;
               var coordinates = e.features[0].geometry.coordinates.slice();
 
               let city = e.features[0].properties.City;
@@ -859,9 +865,24 @@
               } else {
                 city = city.trim() + ",";
               }
-
-              //set popup text
-              var description =
+              
+              let media = e.features[0].properties["Media Embed"];
+              
+              if (media) {
+                let media_embed = media.split("/").pop();
+                description = `<p><strong>` +
+                e.features[0].properties.Title +
+                `</strong></p>` +
+                `<p>` +
+                `<p>` +
+                city +
+                ` ` +
+                e.features[0].properties.State +
+                `<p>` +
+                e.features[0].properties.Description +
+                `</p><iframe class='pop-video' src='https://www.youtube.com/embed/` + media_embed + `' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>`;
+              } else {
+                description =
                 `<p><strong>` +
                 e.features[0].properties.Title +
                 `</strong></p>` +
@@ -875,6 +896,9 @@
                 `</p><p><a href="` +
                 e.features[0].properties.URL +
                 `" target="blank">Source</a></p>`;
+              }
+
+              
 
               // Ensure that if the map is zoomed out such that multiple
               // copies of the feature are visible, the popup appears
