@@ -92,13 +92,13 @@
       }
 
       a {
-      color: #a9e9ff;
+        color: #a9e9ff;
       }
-      
+
       .howpop-wrapper {
-      position: relative;
+        position: relative;
       }
-      
+
       div#howpop {
         background-color: rgba(0, 0, 0, 0.75);
         position: fixed;
@@ -150,7 +150,7 @@
       div#question img {
         max-width: 100%;
       }
-      
+
       div#question {
         position: absolute;
         right: 10px;
@@ -163,7 +163,6 @@
         cursor: pointer;
         text-align: center;
         border-radius: 25px;
-
       }
 
       div#question-title {
@@ -258,7 +257,7 @@
         padding: 10px 3px 10px 10px;
         font-weight: 400;
       }
-      
+
       iframe.pop-video {
         width: 100%;
         height: 300px;
@@ -304,7 +303,7 @@
         background-color: Black;
         outline: 1px dotted Orange;
       }
-      
+
       p.binary {
         display: none !important;
       }
@@ -330,7 +329,6 @@
       p.nickname {
         margin-top: -10px;
       }
-
 
       @media only screen and (max-width: 1000px) {
         #howsearch,
@@ -367,32 +365,46 @@
     <div id="map"></div>
 
     <div class="howpop-wrapper">
+      <div id="howpop">
+        <p style="line-height: 20px; color: white">
+          <strong>
+            About
+            <a href="https://movementhub.org/">Movement Hub's </a> StoryMap
+          </strong>
+        </p>
 
-        <div id="howpop">
-      
-            <p style="line-height: 20px; color: white"> <strong> About <a href = "https://movementhub.org/">Movement Hub's </a> StoryMap </strong></p>
-          
-            <p style="line-height: 18px; font-size:14px; color: white ">
-          This map highlights stories across the country in four themes 
-          (AAPI in action, rise in anti-Asian violence, systemic inequities, and racial justice) 
-          and offers information on federal and state statutes to facilitate connections between 
-          the lived experiences of AAPIs and possible protection policies* available to the community. 
-          You can zoom in to view the local statutes and stories of interests.</p>
-          <p> 
-            <img src="https://cdn.glitch.com/2b826943-3c83-4a09-85c4-cd2d12a6f759%2FMovementHubMapInstructionsV2_Resized-02_cropped.png?v=1603839135594" alt="instructions" width="100%" height="100%">
-          </p>
-          
-           <p style="line-height: 18px; font-size:14px; color: white ">
-            Questions or to submit stories, contact admin@movementhub.org. <a href="mailto:admin@movementhub.org ">admin@movementhub.org </a>
-            <br> <br> *Please look to the specific statutes for the most updated information regarding the law at issue. 
-            This should not be considered legal advice and you should contact an attorney or conduct independent research.
-          </p>
-              <div id="popclose">
-                x
-              </div>
+        <p style="line-height: 18px; font-size:14px; color: white ">
+          This map highlights stories across the country in four themes (AAPI in
+          action, rise in anti-Asian violence, systemic inequities, and racial
+          justice) and offers information on federal and state statutes to
+          facilitate connections between the lived experiences of AAPIs and
+          possible protection policies* available to the community. You can zoom
+          in to view the local statutes and stories of interests.
+        </p>
+        <p>
+          <img
+            src="https://cdn.glitch.com/2b826943-3c83-4a09-85c4-cd2d12a6f759%2FMovementHubMapInstructionsV2_Resized-02_cropped.png?v=1603839135594"
+            alt="instructions"
+            width="100%"
+            height="100%"
+          />
+        </p>
+
+        <p style="line-height: 18px; font-size:14px; color: white ">
+          Questions or to submit stories, contact admin@movementhub.org.
+          <a href="mailto:admin@movementhub.org ">admin@movementhub.org </a>
+          <br />
+          <br />
+          *Please look to the specific statutes for the most updated information
+          regarding the law at issue. This should not be considered legal advice
+          and you should contact an attorney or conduct independent research.
+        </p>
+        <div id="popclose">
+          x
         </div>
-  </div>
-    
+      </div>
+    </div>
+
     <div id="restart">
       <img
         src="https://cdn.glitch.com/553bd511-6329-4b89-94d0-bc7dcd0e067a%2Fmap-marked-alt-light.svg?v=1603319015742"
@@ -401,11 +413,13 @@
     <div id="restart-title">
       reset map
     </div>
-    
-    <div id ="question">
-      <img src = "https://cdn.glitch.com/2b826943-3c83-4a09-85c4-cd2d12a6f759%2Fquestionmark.png?v=1603743751301"/>
+
+    <div id="question">
+      <img
+        src="https://cdn.glitch.com/2b826943-3c83-4a09-85c4-cd2d12a6f759%2Fquestionmark.png?v=1603743751301"
+      />
     </div>
-    
+
     <div id="question-title">
       show instructions
     </div>
@@ -477,7 +491,7 @@
           </p>
           <p id="FED_HOUSING_NICKNAME" class="policychange nickname"></p>
         </div>
-        
+
         <div class="policy-collection">
           <p class="policy-category">
             Public Accommodations:
@@ -502,11 +516,9 @@
           </p>
           <p id="FED_VOTING_NICKNAME" class="policychange nickname"></p>
         </div>
-        
-        
+
         <div class="policy-collection">
-          <p class="policy-category">
-          </p>
+          <p class="policy-category"></p>
         </div>
         <p style="font-size: 12px;">
           *Please look to the specific federal statute for the most updated
@@ -533,8 +545,7 @@
             Employment:
           </p>
           <p id="EMPLOYMENT_SUMMARY" class="policychange"></p>
-          <p class="policy-header">
-          </p>
+          <p class="policy-header"></p>
           <p class="policycode">
             <a id="EMPLOYMENT_URL" href="/">
               <span id="EMPLOYMENT_CODE"></span>
@@ -546,50 +557,43 @@
             Housing:
           </p>
           <p id="HOUSING_SUMMARY" class="policychange"></p>
-          <p class="policy-header">
-          </p>
+          <p class="policy-header"></p>
           <p class="policycode">
             <a id="HOUSING_URL" href="/"><span id="HOUSING_CODE"></span></a>
           </p>
-         <p class="policy-header">
-          </p>
+          <p class="policy-header"></p>
         </div>
         <div class="policy-collection">
-          <p class="policy-category">
-          </p>
+          <p class="policy-category"></p>
           <p id="ACCOMMODATIONS_PROTECTIONS" class="policychange binary"></p>
           <p class="policy-header">
             Public Accommodations:
           </p>
           <p id="ACCOMMODATIONS_SUMMARY" class="policychange"></p>
-          <p class="policy-header">
-          </p>
+          <p class="policy-header"></p>
           <p class="policycode">
             <a id="ACCOMMODATIONS_URL" href="/"
-              ><span id="ACCOMMODATIONS_CODE"></span></a
-            >
+              ><span id="ACCOMMODATIONS_CODE"></span
+            ></a>
           </p>
         </div>
         <div class="policy-collection">
           <p class="policy-category">
-          State Hate Crime Statutes
+            State Hate Crime Statutes
           </p>
           <p id="HCPENALTY_PROTECTIONS" class="policychange binary"></p>
           <p class="policy-header">
             Hate Crime:
           </p>
           <p id="HCPENALTY_SUMMARY" class="policychange"></p>
-          <p class="policy-header">
-          </p>
+          <p class="policy-header"></p>
           <p class="policycode">
-            <a id="HCPENALTY_URL" href="/"
-              ><span id="HCPENALTY_CODE"></span></a
-            >
+            <a id="HCPENALTY_URL" href="/"><span id="HCPENALTY_CODE"></span></a>
           </p>
         </div>
         <div class="policy-collection">
           <p class="policy-category">
-           State Civil/Human Rights Commissions
+            State Civil/Human Rights Commissions
           </p>
           <p class="policycode">
             <a id="CR_URL" href="/"><span id="CR_COMMISSION"></span></a>
@@ -624,9 +628,14 @@
         <div class="label">AAPIs in action</div>
         <div
           class="color"
+          style="background-color: #eb2828; border: 1px solid Black;"
+        ></div>
+        <div class="label">Hate crimes again AAPIs</div>
+        <div
+          class="color"
           style="background-color: #4444; border: 1px solid White;"
         ></div>
-        <div class="label">Rise in anti-Asian violence</div>
+        <div class="label">Rise in systemic violence</div>
         <div
           class="color"
           style="background-color: #98a863; border: 1px solid Black;"
@@ -637,6 +646,11 @@
           style="background-color: #ffd731; border: 1px solid Black;"
         ></div>
         <div class="label">Racial justice</div>
+        <div
+          class="color"
+          style="background-color: #a9a9a9; border: 1px solid Black;"
+        ></div>
+        <div class="label">AAPI history</div>
       </div>
     </div>
 
@@ -698,21 +712,20 @@
           $("#infowindow").fadeIn("slow");
           $("#legend").fadeIn("slow");
         });
-        
-          $("#question").hover(function() {
+
+        $("#question").hover(function() {
           $("#question-title").toggle();
-            });
-        
+        });
+
         $("#question").click(function() {
           $("#howpop").fadeIn("fast");
           $("#infowindow").fadeOut("fast");
           $("#legend").fadeOut("fast");
-            });
+        });
 
         $("#restart").hover(function() {
           $("#restart-title").toggle();
         });
-        
 
         $("#restart").click(function() {
           map.flyTo({
@@ -722,7 +735,6 @@
           $("#federalwindow").show();
           $("#statewindow").hide();
         });
-        
 
         //geocoder adjustment
         $("input.mapboxgl-ctrl-geocoder--input").attr(
@@ -738,7 +750,8 @@
 
         $.ajax({
           type: "GET",
-          url: "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/federal-policy-data.json",
+          url:
+            "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/federal-policy-data.json",
           dataType: "json",
           success: writeFedPolicy
         });
@@ -753,7 +766,8 @@
 
         $.ajax({
           type: "GET",
-          url: "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/state-policy-data.json",
+          url:
+            "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/state-policy-data.json",
           dataType: "json",
           success: writeStatePolicy
         });
@@ -807,7 +821,6 @@
                     .html(federalpolicydata[0][whatCode]);
                 }
               } // end multi link testing
-
             }); // end policycode function
           });
           // $("#infowindow").fadeIn("slow"); // only when data is loaded!
@@ -831,16 +844,27 @@
                   data: data.Stories
                 },
                 paint: {
-                  "circle-radius": {
+                  /*{
                     //base: 7,
-                    stops: [[3, 4],[6,5], [11, 7], [16, 20]]
-                  },
+                    //stops: [[3, 4],[6,5], [11, 7], [16, 20]]
+                  },*/
+                  "circle-radius": [
+                    "match",
+                    ["get", "Theme"], 
+                    "Hate against AAPIs",
+                    6,
+                    4.5
+                  ],
                   "circle-stroke-color": "#D3D3D3",
                   "circle-stroke-width": 1,
                   "circle-color": [
                     "match",
                     ["get", "Theme"],
-                    "Rise in anti-Asian violence",
+                    "Hate against AAPIs",
+                    "#EB2828",
+                    "AAPI History",
+                    "#A9A9A9",
+                    "Rise in systemic violence",
                     "#444444",
                     "AAPI groups rising to challenge",
                     "#d86a00",
@@ -865,40 +889,41 @@
               } else {
                 city = city.trim() + ",";
               }
-              
+
               let media = e.features[0].properties["Media Embed"];
-              
+
               if (media) {
                 let media_embed = media.split("/").pop();
-                description = `<p><strong>` +
-                e.features[0].properties.Title +
-                `</strong></p>` +
-                `<p>` +
-                `<p>` +
-                city +
-                ` ` +
-                e.features[0].properties.State +
-                `<p>` +
-                e.features[0].properties.Description +
-                `</p><iframe class='pop-video' src='https://www.youtube.com/embed/` + media_embed + `' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>`;
+                description =
+                  `<p><strong>` +
+                  e.features[0].properties.Title +
+                  `</strong></p>` +
+                  `<p>` +
+                  `<p>` +
+                  city +
+                  ` ` +
+                  e.features[0].properties.State +
+                  `<p>` +
+                  e.features[0].properties.Description +
+                  `</p><iframe class='pop-video' src='https://www.youtube.com/embed/` +
+                  media_embed +
+                  `' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>`;
               } else {
                 description =
-                `<p><strong>` +
-                e.features[0].properties.Title +
-                `</strong></p>` +
-                `<p>` +
-                `<p>` +
-                city +
-                ` ` +
-                e.features[0].properties.State +
-                `<p>` +
-                e.features[0].properties.Description +
-                `</p><p><a href="` +
-                e.features[0].properties.URL +
-                `" target="blank">Source</a></p>`;
+                  `<p><strong>` +
+                  e.features[0].properties.Title +
+                  `</strong></p>` +
+                  `<p>` +
+                  `<p>` +
+                  city +
+                  ` ` +
+                  e.features[0].properties.State +
+                  `<p>` +
+                  e.features[0].properties.Description +
+                  `</p><p><a href="` +
+                  e.features[0].properties.URL +
+                  `" target="blank">Source</a></p>`;
               }
-
-              
 
               // Ensure that if the map is zoomed out such that multiple
               // copies of the feature are visible, the popup appears
@@ -975,7 +1000,7 @@
                           $(this)
                             .prev("p.policy-category")
                             .hide();
-                          $(this)
+                          $(this);
                         } else if (
                           statepolicydata[stateIndex][whichPolicy] === "TRUE"
                         ) {
@@ -1252,7 +1277,6 @@
             }); // end states layer hover
 
             map.on("mouseenter", "states-tiles", function(e) {
-
               map.setLayoutProperty(
                 "states-highlighted",
                 "visibility",
@@ -1261,10 +1285,8 @@
             });
 
             map.on("mouseleave", "states-tiles", function(e) {
-
               map.setLayoutProperty("states-highlighted", "visibility", "none");
             });
-
           }); // end on map load
         } // end addtoMap function
 
@@ -1273,7 +1295,7 @@
           if (currentz <= 5) {
             $("#federalwindow").show();
             $("#statewindow").hide();
-          } 
+          }
         });
 
         $("p.policycode a").attr("target", "_blank");
