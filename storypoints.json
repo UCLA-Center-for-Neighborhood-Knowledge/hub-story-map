@@ -31,6 +31,33 @@
       {
         "geometry": {
           "coordinates": [
+            -98.61328125,
+            48.278623413079096
+          ],
+          "type": "Point"
+        },
+        "id": "rec0qBoe77Q4kMiP6",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "mab@mab.space",
+          "Description": "test test test",
+          "Latitude": 48.278623413079096,
+          "Longitude": -98.61328125,
+          "Name": "MAB",
+          "News Outlet": "nytimes",
+          "Record ID": "rec0qBoe77Q4kMiP6",
+          "State": "North Dakota",
+          "Story Type": "News story",
+          "Theme": "Anti-Asian incidents of violence",
+          "Timestamp": "2021-03-18T23:51:09.000Z",
+          "Title": "TEST4",
+          "URL": "nytimes.com"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -82.552485,
             35.594418
           ],
@@ -2405,6 +2432,33 @@
           "Timestamp": "2020-09-18T22:51:21.000Z",
           "Title": "Asian American community speaking out against racism during coronavirus pandemic",
           "URL": "https://www.krqe.com/health/coronavirus-new-mexico/asian-american-community-speaking-out-against-racism-during-coronavirus-pandemic/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -106.43554687500001,
+            45.33187500352944
+          ],
+          "type": "Point"
+        },
+        "id": "recjj1sQGhwG5zwEl",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "mab@mab.space",
+          "Description": "TESt test test test",
+          "Latitude": 45.33187500352944,
+          "Longitude": -106.43554687500001,
+          "Name": "MAB",
+          "News Outlet": "nytimes",
+          "Record ID": "recjj1sQGhwG5zwEl",
+          "State": "Montana",
+          "Story Type": "News story",
+          "Theme": "Anti-Asian hate crimes",
+          "Timestamp": "2021-03-18T23:50:27.000Z",
+          "Title": "TEST3",
+          "URL": "nytimes.com"
         },
         "type": "Feature"
       },
