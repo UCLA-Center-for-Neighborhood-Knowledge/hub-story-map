@@ -362,33 +362,6 @@
       {
         "geometry": {
           "coordinates": [
-            -107.49023437500001,
-            42.99962549506941
-          ],
-          "type": "Point"
-        },
-        "id": "recB3pN9A0GfowfdP",
-        "properties": {
-          "Approved for Website": true,
-          "Contact Info": "mab@mab.space",
-          "Description": "test test test",
-          "Latitude": 42.99962549506941,
-          "Longitude": -107.49023437500001,
-          "Name": "MAB TEST",
-          "News Outlet": "www.nytimes.com",
-          "Record ID": "recB3pN9A0GfowfdP",
-          "State": "Wyoming",
-          "Story Type": "News story",
-          "Theme": "Hate against AAPIs",
-          "Timestamp": "2021-03-18T22:58:27.000Z",
-          "Title": "TEST",
-          "URL": "www.nytimes.com"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
             -71.096449,
             42.338483
           ],
@@ -2181,34 +2154,6 @@
           "Timestamp": "2020-10-20T01:02:44.000Z",
           "Title": "Asian American doctors and nurses are fighting racism and the coronavirus",
           "URL": "https://www.washingtonpost.com/business/2020/05/19/asian-american-discrimination/"
-        },
-        "type": "Feature"
-      },
-      {
-        "geometry": {
-          "coordinates": [
-            -103.53515625,
-            44.83542161363759
-          ],
-          "type": "Point"
-        },
-        "id": "reccqywBaYh054x1v",
-        "properties": {
-          "Approved for Website": true,
-          "Contact Info": "mab@mab.space",
-          "Description": "test test 2",
-          "Did you report?": "Yes",
-          "Latitude": 44.83542161363759,
-          "Longitude": -103.53515625,
-          "Name": "MAB",
-          "News Outlet": "nytimes",
-          "Record ID": "reccqywBaYh054x1v",
-          "State": "South Dakota",
-          "Story Type": "News story",
-          "Theme": "AAPI History",
-          "Timestamp": "2021-03-18T22:59:19.000Z",
-          "Title": "TEST2",
-          "URL": "www.nytimes.com"
         },
         "type": "Feature"
       },
