@@ -390,6 +390,35 @@
       {
         "geometry": {
           "coordinates": [
+            -93.26549720593904,
+            44.977244832313346
+          ],
+          "type": "Point"
+        },
+        "id": "recArXWCOAVtHDoyU",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Minneapolis ",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "During the Summer of 2019, my family took a trip to China and Hong Kong. It was the first time for many of us. For dad, it was his first time back after 37 years. One of the most impactful experiences during the trip was when we visited Choi Hung, Hong Kong. Choi Hung translates to rainbow, which I still laugh about sometimes, because now my father has a gay son – me!",
+          "Did you report?": "No",
+          "Latitude": 44.977244832313346,
+          "Longitude": -93.26549720593904,
+          "Name": "Jared Jimenez",
+          "News Outlet": "CAAL #MinneAsianStories​​",
+          "Record ID": "recArXWCOAVtHDoyU",
+          "State": "Minnesota",
+          "Story Type": "Another form of media",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2021-03-19T22:06:06.000Z",
+          "Title": "“Stepping into Choi Hung” by Tyler Sit",
+          "URL": "https://www.youtube.com/watch?v=YPB-WEPhAlU&list=PLRfZSCUPr4NpXZnT8PokIQYegHyBBb-UC&index=3"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -71.096449,
             42.338483
           ],
@@ -908,6 +937,35 @@
           "Timestamp": "2020-09-25T23:57:28.000Z",
           "Title": "Alexandria’s Income Gaps",
           "URL": "http://www.alexandriagazette.com/news/2020/jun/17/alexandrias-income-gaps/"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -93.40786457127253,
+            44.92721161580861
+          ],
+          "type": "Point"
+        },
+        "id": "recIE1me8Z5CqXFuR",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Hopkins",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "Every year, I stared at one page in the Girl Scouts summer activities brochure: “Horseback Riding Camps.” I feared asking my parents if I could go, assuming it would be too expensive. My perpetual silence landed me at Sup Sogui Hosu instead—a Korean language immersion program near Hackensack, Minnesota. Sup Sogui Hosu was my mom’s idea. She wanted me to explore the pieces of our heritage that her mother never let her explore.",
+          "Did you report?": "No",
+          "Latitude": 44.92721161580861,
+          "Longitude": -93.40786457127253,
+          "Name": "Jared Jimenez",
+          "News Outlet": "CAAL #MinneAsianStories​",
+          "Record ID": "recIE1me8Z5CqXFuR",
+          "State": "Minnesota",
+          "Story Type": "Another form of media",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2021-03-19T21:51:39.000Z",
+          "Title": "\"Just Wait Until My Mom Gets Here!\" by Madison Johnston",
+          "URL": "https://www.youtube.com/watch?v=bgj0rdPFxXk&list=PLRfZSCUPr4NpXZnT8PokIQYegHyBBb-UC&index=4"
         },
         "type": "Feature"
       },
@@ -1441,6 +1499,35 @@
       {
         "geometry": {
           "coordinates": [
+            -93.09556102782155,
+            44.949125972226334
+          ],
+          "type": "Point"
+        },
+        "id": "recQdRYWCBqowyEAp",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Saint Paul",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": "It’s June 15, 2014. Father’s Day barbecue in our backyard. My older sister sits my mom down at the head of our dinner table. I sit beside her and my sister settles across from me. Mom anchors her eyebrows and asks why the sudden formality. With my previous consent, my sister suddenly blurted out, “PajYeeb likes girls.”",
+          "Did you report?": "No",
+          "Latitude": 44.949125972226334,
+          "Longitude": -93.09556102782155,
+          "Name": "Jared Jimenez",
+          "News Outlet": "CAAL #MinneAsianStories​",
+          "Record ID": "recQdRYWCBqowyEAp",
+          "State": "Minnesota",
+          "Story Type": "Another form of media",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2021-03-19T21:58:56.000Z",
+          "Title": "\"Family Ties\" by Cameron PajYeeb Yang",
+          "URL": "https://www.youtube.com/watch?v=FNp54zp-KtA&list=PLRfZSCUPr4NpXZnT8PokIQYegHyBBb-UC&index=1"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.144716,
             39.96903
           ],
@@ -1879,6 +1966,35 @@
           "Timestamp": "2020-08-28T22:52:50.000Z",
           "Title": "Two COVID-19 Disparities in Summit County: Death Rate High, Asian Residents Disproportionately Affected",
           "URL": "https://spectrumnews1.com/oh/columbus/news/2020/07/01/two-covid-19-disparities-in-summit-county--death-rate-high--asian-residents-disproportionately-affected"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -93.27433777274565,
+            44.76678531971872
+          ],
+          "type": "Point"
+        },
+        "id": "recYBn4F98rLcmGnL",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Burnsville",
+          "Contact Info": "jared.jimenezg@gmail.com",
+          "Description": " As a young person who grew up in a predominantly white community, I felt that to relate to white Americans I had to hide who I was. I was ashamed of being Asian. My family was different from our white neighbors, and I was embarrassed by our difference. I was made to feel like I needed to be like the white people around us or I wouldn’t be accepted. It seemed like there was so much I needed to change.",
+          "Did you report?": "No",
+          "Latitude": 44.76678531971872,
+          "Longitude": -93.27433777274565,
+          "Name": "Jared Jimenez",
+          "News Outlet": "CAAL #MinneAsianStories​​",
+          "Record ID": "recYBn4F98rLcmGnL",
+          "State": "Minnesota",
+          "Story Type": "Another form of media",
+          "Theme": "Intersectional issues",
+          "Timestamp": "2021-03-19T22:03:05.000Z",
+          "Title": "“I am Enough” by Brianna To",
+          "URL": "https://www.youtube.com/watch?v=OrjKF4S4CzU&list=PLRfZSCUPr4NpXZnT8PokIQYegHyBBb-UC&index=2"
         },
         "type": "Feature"
       },
