@@ -428,7 +428,7 @@
           "Timestamp": "2021-03-19T22:06:06.000Z",
           "Title": "“Stepping into Choi Hung” by Tyler Sit",
           "URL": "https://www.youtube.com/watch?v=YPB-WEPhAlU&list=PLRfZSCUPr4NpXZnT8PokIQYegHyBBb-UC&index=3",
-          "youtube_var": "=YPB-WEPhAl"
+          "youtube_var": "YPB-WEPhAlU"
         },
         "type": "Feature"
       },
@@ -1002,7 +1002,7 @@
           "Timestamp": "2021-03-19T21:51:39.000Z",
           "Title": "\"Just Wait Until My Mom Gets Here!\" by Madison Johnston",
           "URL": "https://www.youtube.com/watch?v=bgj0rdPFxXk&list=PLRfZSCUPr4NpXZnT8PokIQYegHyBBb-UC&index=4",
-          "youtube_var": "=bgj0rdPFxX"
+          "youtube_var": "bgj0rdPFxXk"
         },
         "type": "Feature"
       },
@@ -1579,7 +1579,7 @@
           "Timestamp": "2021-03-19T21:58:56.000Z",
           "Title": "\"Family Ties\" by Cameron PajYeeb Yang",
           "URL": "https://www.youtube.com/watch?v=FNp54zp-KtA&list=PLRfZSCUPr4NpXZnT8PokIQYegHyBBb-UC&index=1",
-          "youtube_var": "=FNp54zp-Kt"
+          "youtube_var": "FNp54zp-KtA"
         },
         "type": "Feature"
       },
@@ -2070,7 +2070,7 @@
           "Timestamp": "2021-03-19T22:03:05.000Z",
           "Title": "“I am Enough” by Brianna To",
           "URL": "https://www.youtube.com/watch?v=OrjKF4S4CzU&list=PLRfZSCUPr4NpXZnT8PokIQYegHyBBb-UC&index=2",
-          "youtube_var": "=OrjKF4S4Cz"
+          "youtube_var": "OrjKF4S4CzU"
         },
         "type": "Feature"
       },
