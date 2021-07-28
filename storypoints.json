@@ -1355,6 +1355,36 @@
       {
         "geometry": {
           "coordinates": [
+            -117.95924376812765,
+            33.80788593407578
+          ],
+          "type": "Point"
+        },
+        "id": "recN1zw8nOs0JavpW",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "Cambodians’ Struggle for Refuge - Chapter 1: Genocide and Displacement",
+          "Latitude": 33.80788593407578,
+          "Longitude": -117.95924376812765,
+          "Media Embed": "https://youtu.be/30zK3xODDtw",
+          "Name": "Victor Tran",
+          "News Outlet": "UCLA Center for Neighborhood Knowledge",
+          "Record ID": "recN1zw8nOs0JavpW",
+          "State": "California",
+          "Story Type": "Another form of media",
+          "Theme": "AAPI History",
+          "Timestamp": "2021-07-28T06:07:37.000Z",
+          "Title": "Struggle for Refuge - Part 1",
+          "URL": "https://www.youtube.com/watch?v=30zK3xODDtw",
+          "youtube_var": "30zK3xODDtw"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -83.073086,
             42.36507
           ],
