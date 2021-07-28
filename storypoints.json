@@ -2050,6 +2050,36 @@
       {
         "geometry": {
           "coordinates": [
+            -118.16915130562849,
+            33.78293725785627
+          ],
+          "type": "Point"
+        },
+        "id": "recW8F2dDvTyrCoLj",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Long Beach",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "Cambodians’ Struggle for Refuge - Chapter 2: Resettlement and Culture",
+          "Latitude": 33.78293725785627,
+          "Longitude": -118.16915130562849,
+          "Media Embed": "https://youtu.be/ocJLr5kQB0I",
+          "Name": "Victor Tran",
+          "News Outlet": "UCLA Center for Neighborhood Knowledge",
+          "Record ID": "recW8F2dDvTyrCoLj",
+          "State": "California",
+          "Story Type": "Another form of media",
+          "Theme": "AAPI History",
+          "Timestamp": "2021-07-28T06:10:04.000Z",
+          "Title": "Struggle for Refuge - Part 2",
+          "URL": "https://www.youtube.com/watch?v=ocJLr5kQB0I",
+          "youtube_var": "ocJLr5kQB0I"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -121.4899749797769,
             38.57937263602794
           ],
