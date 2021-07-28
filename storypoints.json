@@ -2856,6 +2856,36 @@
       {
         "geometry": {
           "coordinates": [
+            -118.24578095111066,
+            33.814903279857774
+          ],
+          "type": "Point"
+        },
+        "id": "reckrT4XYwPFc93AA",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "This film details the daily lives of Cambodian-owned donut shop workers, owners, and family members while highlighting both the success and struggles.",
+          "Latitude": 33.814903279857774,
+          "Longitude": -118.24578095111066,
+          "Media Embed": "https://youtu.be/S026zbpq1No",
+          "Name": "Victor Tran",
+          "News Outlet": "UCLA Center for Neighborhood Knowledge",
+          "Record ID": "reckrT4XYwPFc93AA",
+          "State": "California",
+          "Story Type": "Another form of media",
+          "Theme": "AAPI History",
+          "Timestamp": "2021-07-28T05:53:55.000Z",
+          "Title": "Donuts for Dollars",
+          "URL": "https://www.youtube.com/watch?v=S026zbpq1No",
+          "youtube_var": "S026zbpq1No"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.168540716204,
             39.92863346285269
           ],
