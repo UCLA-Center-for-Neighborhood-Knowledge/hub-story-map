@@ -1961,6 +1961,36 @@
       {
         "geometry": {
           "coordinates": [
+            -118.24735164773303,
+            34.047835173550716
+          ],
+          "type": "Point"
+        },
+        "id": "recVUiMFs0PVCZqIv",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "A photograph slide show of the past and present locations within Little Tokyo.",
+          "Latitude": 34.047835173550716,
+          "Longitude": -118.24735164773303,
+          "Media Embed": "https://youtu.be/2rjTQ9MpNOA",
+          "Name": "Victor Tran",
+          "News Outlet": " UCLA Center for Neighborhood Knowledge",
+          "Record ID": "recVUiMFs0PVCZqIv",
+          "State": "California",
+          "Story Type": "Another form of media",
+          "Theme": "AAPI History",
+          "Timestamp": "2021-07-28T05:49:47.000Z",
+          "Title": "Little Tokyo Then and Now",
+          "URL": "https://www.youtube.com/watch?v=2rjTQ9MpNOA",
+          "youtube_var": "2rjTQ9MpNOA"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -87.82285309047438,
             42.58320081308718
           ],
