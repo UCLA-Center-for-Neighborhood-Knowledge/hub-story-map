@@ -2916,6 +2916,36 @@
       {
         "geometry": {
           "coordinates": [
+            -118.21807480591816,
+            33.786983820693294
+          ],
+          "type": "Point"
+        },
+        "id": "reckdiU6aIFWfundo",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Long Beach",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "Cambodians’ Struggle for Refuge - Chapter 3: Gentrification",
+          "Latitude": 33.786983820693294,
+          "Longitude": -118.21807480591816,
+          "Media Embed": "https://youtu.be/tJvE-BuYCDo",
+          "Name": "Victor Tran",
+          "News Outlet": "UCLA Center for Neighborhood Knowledge",
+          "Record ID": "reckdiU6aIFWfundo",
+          "State": "California",
+          "Story Type": "Another form of media",
+          "Theme": "AAPI History",
+          "Timestamp": "2021-07-28T06:12:08.000Z",
+          "Title": "Struggle for Refuge - Part 3",
+          "URL": "https://www.youtube.com/watch?v=tJvE-BuYCDo",
+          "youtube_var": "tJvE-BuYCDo"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -118.24578095111066,
             33.814903279857774
           ],
