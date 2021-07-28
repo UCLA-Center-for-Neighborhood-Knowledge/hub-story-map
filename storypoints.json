@@ -1873,6 +1873,36 @@
       {
         "geometry": {
           "coordinates": [
+            -118.43914032015165,
+            34.07477370382002
+          ],
+          "type": "Point"
+        },
+        "id": "recUDxCTgSuluSHPI",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "victortran3052@gmail.com",
+          "Description": "Voices from Asian American business owners on the impact of the COVID-19 pandemic, and their responses.",
+          "Latitude": 34.07477370382002,
+          "Longitude": -118.43914032015165,
+          "Media Embed": "https://youtu.be/nqo0to563hA",
+          "Name": "Victor Tran",
+          "News Outlet": "UCLA Center for Neighborhood Knowledge",
+          "Record ID": "recUDxCTgSuluSHPI",
+          "State": "California",
+          "Story Type": "Another form of media",
+          "Theme": "Exposing system inequalities",
+          "Timestamp": "2021-07-28T05:46:42.000Z",
+          "Title": "Asian American Businesses and the COVID-19 Pandemic: Looking into Life Before and After",
+          "URL": "https://www.youtube.com/watch?v=nqo0to563hA",
+          "youtube_var": "nqo0to563hA"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.29150397330524,
             44.99374589568285
           ],
