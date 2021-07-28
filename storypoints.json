@@ -3918,21 +3918,13 @@
         "type": "Feature"
       },
       {
-        "geometry": {
-          "coordinates": [
-            -118.23266600724313,
-            34.05189140569203
-          ],
-          "type": "Point"
-        },
+        "geometry": null,
         "id": "recw8bIIukwib5i9b",
         "properties": {
           "Approved for Website": true,
           "City": "Los Angeles",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Description": "Isabel Kang Speaks Up About Anti-Blackness Within the Korean Community at a Black Lives Matter Protest",
-          "Latitude": 34.05189140569203,
-          "Longitude": -118.23266600724313,
           "Name": "Jared Jimenez",
           "News Outlet": "Faithfully Magazine",
           "Record ID": "recw8bIIukwib5i9b",
