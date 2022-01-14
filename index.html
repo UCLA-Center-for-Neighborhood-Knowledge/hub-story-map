@@ -46,14 +46,13 @@
         z-index: 1;
         width: auto;
         height: auto;
-        bottom: 30px;
-        right: 10px;
+        top: 10px;
+        left: 10px;
         background-color: rgba(0, 0, 0, 0.8);
         padding: 15px;
         color: White;
         font-size: 14px;
         font-family: "Open Sans", sans-serif;
-        display: none;
       }
 
       div#legendTitle {
@@ -95,7 +94,7 @@
         color: #a9e9ff;
       }
 
-      .howpop-wrapper {
+      /*.howpop-wrapper {
         position: relative;
       }
 
@@ -111,6 +110,7 @@
         box-sizing: border-box;
         font-size: 18px;
         overflow: auto;
+        display: none;
       }
 
       div#popclose {
@@ -119,7 +119,7 @@
         right: 20px;
         cursor: pointer;
         color: white;
-      }
+      }*/
 
       div#restart {
         position: absolute;
@@ -364,7 +364,7 @@
 
     <div id="map"></div>
 
-    <div class="howpop-wrapper">
+    <!--<div class="howpop-wrapper">
       <div id="howpop">
         <p style="line-height: 20px; color: white">
           <strong>
@@ -403,7 +403,7 @@
           x
         </div>
       </div>
-    </div>
+    </div>-->
 
     <div id="restart">
       <img
@@ -414,7 +414,7 @@
       reset map
     </div>
 
-    <div id="question">
+    <!--<div id="question">
       <img
         src="https://cdn.glitch.com/2b826943-3c83-4a09-85c4-cd2d12a6f759%2Fquestionmark.png?v=1603743751301"
       />
@@ -422,9 +422,9 @@
 
     <div id="question-title">
       show instructions
-    </div>
+    </div>-->
 
-    <div id="infowindow">
+    <!--<div id="infowindow">
       <div id="federalwindow">
         <p style="font-size: 20px; margin-top: 10px;">
           Policy Protections
@@ -527,7 +527,6 @@
           research.
         </p>
       </div>
-      <!-- end federalwindow -->
       <div id="statewindow">
         <p style="font-size: 20px; margin-top: 10px;">
           State Laws:
@@ -609,9 +608,7 @@
           should contact an attorney or conduct independent research.
         </p>
       </div>
-      <!-- end of statewindow -->
-    </div>
-    <!-- end of infowindow -->
+    </div>-->
 
     <div id="legend">
       <div id="legendTitle">
@@ -625,32 +622,32 @@
           class="color"
           style="background-color: #d86a00; border: 1px solid Black;"
         ></div>
-        <div class="label">AAPIs in action</div>
-        <div
+        <div class="label">Together, We Have the Power</div>
+        <!--<div
           class="color"
           style="background-color: #eb2828; border: 1px solid Black;"
         ></div>
-        <div class="label">Anti-Asian hate crimes</div>
+        <div class="label">Anti-Asian hate crimes</div>-->
         <div
           class="color"
           style="background-color: #4444; border: 1px solid White;"
         ></div>
-        <div class="label">Anti-Asian incidents of violence</div>
+        <div class="label">Anti-Asian Incidents of Violence</div>
         <div
           class="color"
           style="background-color: #98a863; border: 1px solid Black;"
         ></div>
-        <div class="label">Systemic inequities</div>
+        <div class="label">We All Belong, Our Narrative Stories</div>
         <div
           class="color"
           style="background-color: #ffd731; border: 1px solid Black;"
         ></div>
-        <div class="label">Racial justice</div>
+        <div class="label">Our Beloved Community is Abundant, Caring, and Joyful</div>
         <div
           class="color"
           style="background-color: #a9a9a9; border: 1px solid Black;"
         ></div>
-        <div class="label">AAPI history</div>
+        <div class="label">Curiosity is the Path to Our Best Future</div>
       </div>
     </div>
 
@@ -674,8 +671,8 @@
       let mapZoom;
 
       if ($(window).width() > 1000) {
-        mapCenter = { lat: 38.0902, lng: -130.7129 };
-        mapZoom = 3;
+        mapCenter = { lat: 38.6902, lng: -110.7129 };
+        mapZoom = 3.3;
       } else {
         mapCenter = { lat: 28.0902, lng: -100.7129 };
         mapZoom = 2.2;
@@ -684,7 +681,7 @@
         "pk.eyJ1IjoiYWFwaW1vdmVtZW50aHViIiwiYSI6ImNrZDh5dGl0MzAxZzYzMGxlc2swbXloNnMifQ.U0mY3a6LFLWzLVUcRP3kBg"; //Mapbox token
       var map = new mapboxgl.Map({
         container: "map", // container id
-        style: "mapbox://styles/aapimovementhub/ckfhupr7b2dnb19qy83zc697d", //stylesheet location
+        style: "mapbox://styles/aapimovementhub/ckvl9qj5k082s15qorixfzud5", //updated, dark stylesheet
         center: mapCenter, // { lat: 28.0902, lng: -130.7129 }, // starting position
         zoom: mapZoom, // starting zoom
         transformRequest: transformRequest
@@ -706,7 +703,7 @@
       map.addControl(nav, "top-right");
 
       $(document).ready(function() {
-        $("#popclose").click(function() {
+        /*$("#popclose").click(function() {
           $("#howpop").fadeOut("slow");
           $("#howsearch").fadeIn("fast");
           $("#infowindow").fadeIn("slow");
@@ -721,7 +718,7 @@
           $("#howpop").fadeIn("fast");
           $("#infowindow").fadeOut("fast");
           $("#legend").fadeOut("fast");
-        });
+        });*/
 
         $("#restart").hover(function() {
           $("#restart-title").toggle();
@@ -746,15 +743,7 @@
         $("div#statewindow").hide();
 
         let statepolicydata = [];
-        let federalpolicydata = [];
-
-        $.ajax({
-          type: "GET",
-          url:
-            "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/federal-policy-data.json",
-          dataType: "json",
-          success: writeFedPolicy
-        });
+        let federalpolicydata = [];     
 
         $.ajax({
           type: "GET",
@@ -763,16 +752,24 @@
           dataType: "json",
           success: addtoMap
         });
+        
+        /*$.ajax({
+          type: "GET",
+          url:
+            "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/federal-policy-data.json",
+          dataType: "json",
+          success: writeFedPolicy
+        });*/
 
-        $.ajax({
+        /*$.ajax({
           type: "GET",
           url:
             "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/state-policy-data.json",
           dataType: "json",
           success: writeStatePolicy
-        });
+        });*/
 
-        function writeFedPolicy(data) {
+        /*function writeFedPolicy(data) {
           federalpolicydata = data;
           console.log(federalpolicydata);
 
@@ -824,13 +821,13 @@
             }); // end policycode function
           });
           // $("#infowindow").fadeIn("slow"); // only when data is loaded!
-        }
+        }*/
 
-        function writeStatePolicy(data) {
+        /*function writeStatePolicy(data) {
           console.log("states data:");
           statepolicydata = data;
           console.log(statepolicydata);
-        }
+        }*/
 
         function addtoMap(data) {
           map.on("load", function() {
@@ -844,39 +841,39 @@
                   data: data.Stories
                 },
                 paint: {
-                  "circle-radius": {
-                    base: 7,
-                    stops: [[3, 4],[6,5], [11, 7], [16, 20]]
-                  },
-                  /*"circle-radius": [
+                  /*{
+                    //base: 7,
+                    //stops: [[3, 4],[6,5], [11, 7], [16, 20]]
+                  },*/
+                  "circle-radius": [
                     "match",
-                    ["get", "Theme"], 
-                    "Anti-Asian hate crimes",
-                    6,
-                    4.5
-                  ],*/
-                  "circle-stroke-color": "#D3D3D3",
-                  "circle-stroke-width": 1,
+                    ["get", "Theme v2"], 
+                    "Anti-Asian Incidents of Violence",
+                    8,
+                    6.5
+                  ],
+                  //"circle-stroke-color": "#D3D3D3",
+                  //"circle-stroke-width": 1,
                   "circle-color": [
                     "match",
-                    ["get", "Theme"],
-                    "Anti-Asian hate crimes",
+                    ["get", "Theme v2"],
+                    "Together, We Have the Power",
                     "#EB2828",
-                    "AAPI History",
+                    "Curiosity Is the Path to Our Best Future",
                     "#A9A9A9",
-                    "Anti-Asian incidents of violence",
+                    "Anti-Asian Incidents of Violence",
                     "#444444",
                     "AAPI groups rising to challenge",
                     "#d86a00",
-                    "Exposing system inequalities",
+                    "We All Belong, Our Narrative Stories",
                     "#98a863",
-                    "Intersectional issues",
+                    "Our Beloved Community Is Abundant, Caring and Joyful",
                     "#ffd731",
                     /* other */ "#ccc"
                   ]
                 }
-              },
-              "settlement-major-label"
+              }
+              /*add layer to fit under here, if necessary*/
             );
 
             map.on("click", "story-points", function(e) {
@@ -969,7 +966,7 @@
 
                 var currentz = map.getZoom();
 
-                let linkArray = [];
+                /*let linkArray = [];
                 let codeArray = [];
                 let multiLinks = [];
                 let newLinks = [];
@@ -1075,7 +1072,7 @@
                       }
                     }
                   ); // end policycode function
-                } // end if zoomed in, state level
+                } // end if zoomed in, state level*/
               }); // end mousemove states tiles
             }); // end story points click function
 
@@ -1108,7 +1105,7 @@
                   "fill-color": "transparent"
                 }
               },
-              "waterway-label"
+              "state-label"
             );
 
             map.addLayer(
@@ -1128,7 +1125,7 @@
               "story-points"
             );
 
-            map.on("click", "states-tiles", function(e) {
+            /*map.on("click", "states-tiles", function(e) {
               $("#howsearch").hide();
               $("#federalwindow").hide();
               $("#statewindow").show();
@@ -1245,10 +1242,10 @@
                 }
               }); // end policycode function
               // } // end if zoomed in, state level
-            });
+            });*/
 
             map.on("mousemove", "states-tiles", function(e) {
-              map.getCanvas().style.cursor = "pointer";
+              //map.getCanvas().style.cursor = "pointer";
 
               hoveredStateId = e.features[0].id;
 
