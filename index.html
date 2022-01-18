@@ -887,6 +887,11 @@
                 city = city.trim() + ",";
               }
 
+              let org = e.features[0].properties["Grantee Org"];
+              if (typeof org === "undefined") {
+                org = "";
+              } 
+
               let media = e.features[0].properties["Media Embed"];
 
               if (media) {
@@ -917,7 +922,11 @@
                   e.features[0].properties.State +
                   `<p>` +
                   e.features[0].properties.Description +
-                  `</p><p><a href="` +
+                  `</p><p style='margin-top:13px;'>` +
+                  e.features[0].properties["Date String"] +
+                  `</p><p>` +
+                  org +
+                  `<p><a href="` +
                   e.features[0].properties.URL +
                   `" target="blank">Source</a></p>`;
               }
