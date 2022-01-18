@@ -89,37 +89,9 @@
         padding: 7px 8px 7px 10px;
         border: 1px solid Gray;
       }
-
       a {
         color: #a9e9ff;
       }
-
-      /*.howpop-wrapper {
-        position: relative;
-      }
-
-      div#howpop {
-        background-color: rgba(0, 0, 0, 0.75);
-        position: fixed;
-        width: 75%;
-        height: auto;
-        left: 12.5%;
-        top: 60px;
-        z-index: 2;
-        padding: 40px;
-        box-sizing: border-box;
-        font-size: 18px;
-        overflow: auto;
-        display: none;
-      }
-
-      div#popclose {
-        position: absolute;
-        top: 20px;
-        right: 20px;
-        cursor: pointer;
-        color: white;
-      }*/
 
       div#restart {
         position: absolute;
@@ -147,62 +119,8 @@
         border: 2px solid Black;
       }
 
-      div#question img {
-        max-width: 100%;
-      }
-
-      div#question {
-        position: absolute;
-        right: 10px;
-        top: 200px;
-        width: 30px;
-        background-color: orange;
-        border: 2px solid LightGray;
-        padding: 3px;
-        box-sizing: border-box;
-        cursor: pointer;
-        text-align: center;
-        border-radius: 25px;
-      }
-
-      div#question-title {
-        display: none;
-        font-size: 13px;
-        position: absolute;
-        top: 185px;
-        background-color: White;
-        right: 10px;
-      }
-
-      div#question:hover {
-        border: 2px solid Black;
-      }
-
-      div#question img {
-        max-width: 80%;
-      }
-
-      div#howsearch {
-        top: 10px;
-        left: 360px;
-        display: none;
-      }
-
       .mapboxgl-ctrl-geocoder {
         width: 300px !important;
-      }
-
-      div#howto {
-        top: 57px;
-        right: 50px;
-      }
-
-      div.instructions img {
-        width: 20px;
-        display: inline-block;
-        transform: rotate(35deg);
-        margin-left: 10px;
-        vertical-align: middle;
       }
 
       .mapboxgl-ctrl-bottom-left {
@@ -275,61 +193,6 @@
         border-bottom-color: rgb(61, 59, 59);
       }
 
-      #infowindow {
-        position: absolute;
-        top: 0px;
-        left: 15px;
-        width: 320px;
-        min-height: 550px;
-        height: 100vh;
-        padding: 8px;
-        background-color: rgba(0, 0, 0, 0.75);
-        border: 1px dotted Black;
-        color: White !important;
-        font-size: 13px !important;
-        overflow: scroll;
-        display: none;
-      }
-
-      #infowindow::-webkit-scrollbar {
-        width: 0.75em;
-      }
-
-      #infowindow::-webkit-scrollbar-track {
-        box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-      }
-
-      #infowindow::-webkit-scrollbar-thumb {
-        background-color: Black;
-        outline: 1px dotted Orange;
-      }
-
-      p.binary {
-        display: none !important;
-      }
-
-      p.policy-category {
-        color: White;
-        font-weight: 700;
-        font-size: 14px;
-        text-decoration: underline;
-        margin-top: 25px;
-      }
-
-      p.policy-header {
-        margin-bottom: -10px;
-        color: White;
-        font-weight: 700;
-      }
-
-      p.policycode a {
-        color: #98a863;
-      }
-
-      p.nickname {
-        margin-top: -10px;
-      }
-
       @media only screen and (max-width: 1000px) {
         #howsearch,
         #infowindow,
@@ -364,296 +227,49 @@
 
     <div id="map"></div>
 
-    <!--<div class="howpop-wrapper">
-      <div id="howpop">
-        <p style="line-height: 20px; color: white">
-          <strong>
-            About
-            <a href="https://movementhub.org/">Movement Hub's </a> StoryMap
-          </strong>
-        </p>
-
-        <p style="line-height: 18px; font-size:14px; color: white ">
-          This map highlights stories across the country in four themes (AAPI in
-          action, rise in anti-Asian violence, systemic inequities, and racial
-          justice) and offers information on federal and state statutes to
-          facilitate connections between the lived experiences of AAPIs and
-          possible protection policies* available to the community. You can zoom
-          in to view the local statutes and stories of interests.
-        </p>
-        <p>
-          <img
-            src="https://cdn.glitch.com/2b826943-3c83-4a09-85c4-cd2d12a6f759%2FMovementHubMapInstructionsV2_Resized-02_cropped.png?v=1603839135594"
-            alt="instructions"
-            width="100%"
-            height="100%"
-          />
-        </p>
-
-        <p style="line-height: 18px; font-size:14px; color: white ">
-          Questions or to submit stories, contact admin@movementhub.org.
-          <a href="mailto:admin@movementhub.org ">admin@movementhub.org </a>
-          <br />
-          <br />
-          *Please look to the specific statutes for the most updated information
-          regarding the law at issue. This should not be considered legal advice
-          and you should contact an attorney or conduct independent research.
-        </p>
-        <div id="popclose">
-          x
-        </div>
-      </div>
-    </div>-->
-
     <div id="restart">
       <img
         src="https://cdn.glitch.com/553bd511-6329-4b89-94d0-bc7dcd0e067a%2Fmap-marked-alt-light.svg?v=1603319015742"
       />
     </div>
-    <div id="restart-title">
-      reset map
-    </div>
-
-    <!--<div id="question">
-      <img
-        src="https://cdn.glitch.com/2b826943-3c83-4a09-85c4-cd2d12a6f759%2Fquestionmark.png?v=1603743751301"
-      />
-    </div>
-
-    <div id="question-title">
-      show instructions
-    </div>-->
-
-    <!--<div id="infowindow">
-      <div id="federalwindow">
-        <p style="font-size: 20px; margin-top: 10px;">
-          Policy Protections
-        </p>
-        <p style="font-size: 16px; margin-top: 10px;">
-          Federal Jurisdiction: United States
-        </p>
-        <div class="policy-collection">
-          <p class="policy-category">
-            Color of Law:
-          </p>
-          <p id="FED_COLOR_SUMMARY" class="policychange"></p>
-          <p class="policycode">
-            <a id="FED_COLOR_URL" href="/">
-              <span id="FED_COLOR_STATUTE"></span>
-            </a>
-          </p>
-          <p id="FED_COLOR_NICKNAME" class="policychange nickname"></p>
-        </div>
-        <div class="policy-collection">
-          <p class="policy-category">
-            Employment:
-          </p>
-          <p id="FED_EMPLOYMENT_SUMMARY" class="policychange"></p>
-          <p class="policycode">
-            <a id="FED_EMPLOYMENT_URL" href="/">
-              <span id="FED_EMPLOYMENT_STATUTE"></span>
-            </a>
-          </p>
-          <p id="FED_EMPLOYMENT_NICKNAME" class="policychange nickname"></p>
-        </div>
-        <div class="policy-collection">
-          <p class="policy-category">
-            Equal Rights:
-          </p>
-          <p id="FED_EQUAL_SUMMARY" class="policychange"></p>
-          <p class="policycode">
-            <a id="FED_EQUAL_URL" href="/">
-              <span id="FED_EQUAL_STATUTE"></span>
-            </a>
-          </p>
-          <p id="FED_EQUAL_NICKNAME" class="policychange nickname"></p>
-        </div>
-        <div class="policy-collection">
-          <p class="policy-category">
-            Hate Crime:
-          </p>
-          <p id="FED_HATE_SUMMARY" class="policychange"></p>
-          <p class="policycode">
-            <a id="FED_HATE_URL" href="/">
-              <span id="FED_HATE_STATUTE"></span>
-            </a>
-          </p>
-        </div>
-        <div class="policy-collection">
-          <p class="policy-category">
-            Housing:
-          </p>
-          <p id="FED_HOUSING_SUMMARY" class="policychange"></p>
-          <p class="policycode">
-            <a id="FED_HOUSING_URL" href="/">
-              <span id="FED_HOUSING_STATUTE"></span>
-            </a>
-          </p>
-          <p id="FED_HOUSING_NICKNAME" class="policychange nickname"></p>
-        </div>
-
-        <div class="policy-collection">
-          <p class="policy-category">
-            Public Accommodations:
-          </p>
-          <p id="FED_ACCOMMODATIONS_SUMMARY" class="policychange"></p>
-          <p class="policycode">
-            <a id="FED_ACCOMMODATIONS_URL" href="/">
-              <span id="FED_ACCOMMODATIONS_STATUTE"></span>
-            </a>
-          </p>
-          <p id="FED_ACCOMMODATIONS_NICKNAME" class="policychange nickname"></p>
-        </div>
-        <div class="policy-collection">
-          <p class="policy-category">
-            Voting:
-          </p>
-          <p id="FED_VOTING_SUMMARY" class="policychange"></p>
-          <p class="policycode">
-            <a id="FED_VOTING_URL" href="/">
-              <span id="FED_VOTING_STATUTE"></span>
-            </a>
-          </p>
-          <p id="FED_VOTING_NICKNAME" class="policychange nickname"></p>
-        </div>
-
-        <div class="policy-collection">
-          <p class="policy-category"></p>
-        </div>
-        <p style="font-size: 12px;">
-          *Please look to the specific federal statute for the most updated
-          information regarding the law at issue. This should not be considered
-          legal advice and you should contact an attorney or conduct independent
-          research.
-        </p>
-      </div>
-      <div id="statewindow">
-        <p style="font-size: 20px; margin-top: 10px;">
-          State Laws:
-        </p>
-        <p
-          id="NAME"
-          class="policychange"
-          style="font-size: 18px; font-weight: 500; margin-top: 5px;"
-        ></p>
-        <div class="policy-collection">
-          <p class="policy-category">
-            State Civil Rights Statutes
-          </p>
-          <p class="policy-header">
-            Employment:
-          </p>
-          <p id="EMPLOYMENT_SUMMARY" class="policychange"></p>
-          <p class="policy-header"></p>
-          <p class="policycode">
-            <a id="EMPLOYMENT_URL" href="/">
-              <span id="EMPLOYMENT_CODE"></span>
-            </a>
-          </p>
-        </div>
-        <div class="policy-collection">
-          <p class="policy-header">
-            Housing:
-          </p>
-          <p id="HOUSING_SUMMARY" class="policychange"></p>
-          <p class="policy-header"></p>
-          <p class="policycode">
-            <a id="HOUSING_URL" href="/"><span id="HOUSING_CODE"></span></a>
-          </p>
-          <p class="policy-header"></p>
-        </div>
-        <div class="policy-collection">
-          <p class="policy-category"></p>
-          <p id="ACCOMMODATIONS_PROTECTIONS" class="policychange binary"></p>
-          <p class="policy-header">
-            Public Accommodations:
-          </p>
-          <p id="ACCOMMODATIONS_SUMMARY" class="policychange"></p>
-          <p class="policy-header"></p>
-          <p class="policycode">
-            <a id="ACCOMMODATIONS_URL" href="/"
-              ><span id="ACCOMMODATIONS_CODE"></span
-            ></a>
-          </p>
-        </div>
-        <div class="policy-collection">
-          <p class="policy-category">
-            State Hate Crime Statutes
-          </p>
-          <p id="HCPENALTY_PROTECTIONS" class="policychange binary"></p>
-          <p class="policy-header">
-            Hate Crime:
-          </p>
-          <p id="HCPENALTY_SUMMARY" class="policychange"></p>
-          <p class="policy-header"></p>
-          <p class="policycode">
-            <a id="HCPENALTY_URL" href="/"><span id="HCPENALTY_CODE"></span></a>
-          </p>
-        </div>
-        <div class="policy-collection">
-          <p class="policy-category">
-            State Civil/Human Rights Commissions
-          </p>
-          <p class="policycode">
-            <a id="CR_URL" href="/"><span id="CR_COMMISSION"></span></a>
-          </p>
-        </div>
-        <p style="font-size: 12px;">
-          *Note that state laws vary throughout the states and there are varied
-          exceptions and definitions; and changes are frequently made by
-          legislation, ballot initiatives, executive order, and court decisions.
-          Please look to the specific state statutes for the most updated
-          statutes and for more detailed information regarding the specific
-          state law at issue. This should not be considered legal advice and you
-          should contact an attorney or conduct independent research.
-        </p>
-      </div>
-    </div>-->
+    <div id="restart-title">reset map</div>
 
     <div id="legend">
       <div id="legendTitle">
-        <p style="margin-top: 2px;">
-          Story Type
-        </p>
+        <p style="margin-top: 2px">Story Type</p>
       </div>
 
       <div id="legendWrapper">
         <div
           class="color"
-          style="background-color: #EB2828; border: 1px solid Black;"
+          style="background-color: #982199; border: 1px solid Black"
         ></div>
         <div class="label">Together, We Have the Power</div>
-        <!--<div
-          class="color"
-          style="background-color: #eb2828; border: 1px solid Black;"
-        ></div>
-        <div class="label">Anti-Asian hate crimes</div>-->
         <div
           class="color"
-          style="background-color: #4444; border: 1px solid White;"
+          style="background-color: #b12935; border: 1px solid Black"
         ></div>
         <div class="label">Anti-Asian Incidents of Violence</div>
         <div
           class="color"
-          style="background-color: #98a863; border: 1px solid Black;"
+          style="background-color: #1c48d5; border: 1px solid Black"
         ></div>
         <div class="label">We All Belong, Our Narrative Stories</div>
         <div
           class="color"
-          style="background-color: #ffd731; border: 1px solid Black;"
+          style="background-color: #f6bc44; border: 1px solid Black"
         ></div>
-        <div class="label">Our Beloved Community is Abundant, Caring, and Joyful</div>
+        <div class="label">
+          Our Beloved Community is Abundant, Caring, and Joyful
+        </div>
         <div
           class="color"
-          style="background-color: #a9a9a9; border: 1px solid Black;"
+          style="background-color: #3d6e52; border: 1px solid Black"
         ></div>
         <div class="label">Curiosity is the Path to Our Best Future</div>
       </div>
     </div>
 
-    <div id="howsearch" class="instructions">
-      Click on a state to see state statute protections
-    </div>
 
     <script>
       var transformRequest = (url, resourceType) => {
@@ -663,7 +279,7 @@
         return {
           url: isMapboxRequest
             ? url.replace("?", "?pluginName=sheetMapper&")
-            : url
+            : url,
         };
       };
 
@@ -684,7 +300,7 @@
         style: "mapbox://styles/aapimovementhub/ckvl9qj5k082s15qorixfzud5", //updated, dark stylesheet
         center: mapCenter, // { lat: 28.0902, lng: -130.7129 }, // starting position
         zoom: mapZoom, // starting zoom
-        transformRequest: transformRequest
+        transformRequest: transformRequest,
       });
 
       map.addControl(
@@ -692,45 +308,26 @@
           accessToken: mapboxgl.accessToken,
           marker: false,
           flyTo: {
-            zoom: 8.5
+            zoom: 8.5,
           },
           mapboxgl: mapboxgl,
-          countries: "us"
+          countries: "us",
         })
       );
 
       var nav = new mapboxgl.NavigationControl();
       map.addControl(nav, "top-right");
 
-      $(document).ready(function() {
-        /*$("#popclose").click(function() {
-          $("#howpop").fadeOut("slow");
-          $("#howsearch").fadeIn("fast");
-          $("#infowindow").fadeIn("slow");
-          $("#legend").fadeIn("slow");
-        });
-
-        $("#question").hover(function() {
-          $("#question-title").toggle();
-        });
-
-        $("#question").click(function() {
-          $("#howpop").fadeIn("fast");
-          $("#infowindow").fadeOut("fast");
-          $("#legend").fadeOut("fast");
-        });*/
-
-        $("#restart").hover(function() {
+      $(document).ready(function () {
+        $("#restart").hover(function () {
           $("#restart-title").toggle();
         });
 
-        $("#restart").click(function() {
+        $("#restart").click(function () {
           map.flyTo({
             center: mapCenter,
-            zoom: mapZoom
+            zoom: mapZoom,
           });
-          $("#federalwindow").show();
-          $("#statewindow").hide();
         });
 
         //geocoder adjustment
@@ -739,98 +336,18 @@
           "Search for a city or address here"
         );
 
-        let blankInfo = $("div#infowindow div#statewindow").html();
-        $("div#statewindow").hide();
-
         let statepolicydata = [];
-        let federalpolicydata = [];     
+        let federalpolicydata = [];
 
         $.ajax({
           type: "GET",
-          url:
-            "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/storypoints.json",
+          url: "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/storypoints.json",
           dataType: "json",
-          success: addtoMap
+          success: addtoMap,
         });
-        
-        /*$.ajax({
-          type: "GET",
-          url:
-            "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/federal-policy-data.json",
-          dataType: "json",
-          success: writeFedPolicy
-        });*/
-
-        /*$.ajax({
-          type: "GET",
-          url:
-            "https://raw.githubusercontent.com/UCLA-Center-for-Neighborhood-Knowledge/hub-story-map/main/state-policy-data.json",
-          dataType: "json",
-          success: writeStatePolicy
-        });*/
-
-        /*function writeFedPolicy(data) {
-          federalpolicydata = data;
-          console.log(federalpolicydata);
-
-          $("div#infowindow #federalwindow p.policychange").each(function() {
-            let whichPolicy = $(this).attr("id");
-            $(this).html(federalpolicydata[0][whichPolicy]);
-
-            $("div#infowindow #federalwindow p.policycode").each(function() {
-              let whatLink = $(this)
-                .children("a")
-                .attr("id");
-              let whatCode = $(this)
-                .find("span")
-                .attr("id");
-
-              let linkTest = federalpolicydata[0][whatLink];
-
-              if (typeof linkTest !== "undefined") {
-                if (linkTest.indexOf(", ") !== -1) {
-                  // if there are multiple statute links
-                  linkArray = linkTest.split(",");
-                  let codeTest = federalpolicydata[0][whatCode];
-                  if (typeof codeTest !== "undefined") {
-                    if (codeTest.indexOf(", ") !== -1) {
-                      codeArray = codeTest.split(",");
-                    }
-                  }
-                  for (i = 0; i < linkArray.length; i++) {
-                    multiLinks.push(
-                      "<a href='" +
-                        linkArray[i] +
-                        "'><span>" +
-                        codeArray[i] +
-                        "</span><br>"
-                    );
-                  }
-                  newLinks = multiLinks.join(" ").toString();
-                  $(this).html(newLinks);
-                } else {
-                  // if there is only 1 link
-                  $(this)
-                    .children("a")
-                    .attr("href", federalpolicydata[0][whatLink]);
-                  $(this)
-                    .find("span")
-                    .html(federalpolicydata[0][whatCode]);
-                }
-              } // end multi link testing
-            }); // end policycode function
-          });
-          // $("#infowindow").fadeIn("slow"); // only when data is loaded!
-        }*/
-
-        /*function writeStatePolicy(data) {
-          console.log("states data:");
-          statepolicydata = data;
-          console.log(statepolicydata);
-        }*/
 
         function addtoMap(data) {
-          map.on("load", function() {
+          map.on("load", function () {
             //Add the the layer to the map
             map.addLayer(
               {
@@ -838,7 +355,7 @@
                 type: "circle",
                 source: {
                   type: "geojson",
-                  data: data.Stories
+                  data: data.Stories,
                 },
                 paint: {
                   /*{
@@ -847,34 +364,34 @@
                   },*/
                   "circle-radius": [
                     "match",
-                    ["get", "Theme v2"], 
+                    ["get", "Theme v2"],
                     "Anti-Asian Incidents of Violence",
                     8,
-                    6.5
+                    6.5,
                   ],
-                  //"circle-stroke-color": "#D3D3D3",
-                  //"circle-stroke-width": 1,
+                  "circle-stroke-color": "#000",
+                  "circle-stroke-width": 1,
                   "circle-color": [
                     "match",
                     ["get", "Theme v2"],
                     "Together, We Have the Power",
-                    "#EB2828",
+                    "#982199",
                     "Curiosity Is the Path to Our Best Future",
-                    "#A9A9A9",
+                    "#3d6e52",
                     "Anti-Asian Incidents of Violence",
-                    "#444444",
+                    "#b12935",
                     "We All Belong, Our Narrative Stories",
-                    "#98a863",
+                    "#1c48d5",
                     "Our Beloved Community Is Abundant, Caring and Joyful",
-                    "#ffd731",
-                    /* other */ "#ccc"
-                  ]
-                }
+                    "#f6bc44",
+                    /* other */ "#ccc",
+                  ],
+                },
               }
               /*add layer to fit under here, if necessary*/
             );
 
-            map.on("click", "story-points", function(e) {
+            map.on("click", "story-points", function (e) {
               let description;
               var coordinates = e.features[0].geometry.coordinates.slice();
 
@@ -888,7 +405,7 @@
               let org = e.features[0].properties["Grantee Org"];
               if (typeof org === "undefined") {
                 org = "";
-              } 
+              }
 
               let media = e.features[0].properties["Media Embed"];
 
@@ -952,144 +469,18 @@
 
               map.flyTo({
                 center: coordinates,
-                zoom: currentz
+                zoom: currentz,
               });
 
-              map.on("mousemove", "states-tiles", function(e) {
-                map.getCanvas().style.cursor = "pointer";
-
-                // var coordinates = e.lngLat;
-                hoveredStateId = e.features[0].id;
-
-                let thestate = statepolicydata.find(
-                  element => element.GEOID == hoveredStateId
-                );
-                let stateIndex = statepolicydata.findIndex(
-                  element => element.GEOID == hoveredStateId
-                );
-
-                // Single out the first found feature.
-                var feature = e.features[0];
-
-                var currentz = map.getZoom();
-
-                /*let linkArray = [];
-                let codeArray = [];
-                let multiLinks = [];
-                let newLinks = [];
-
-                if (currentz >= 12) {
-                  $("#federalwindow").hide();
-                  $("#statewindow").show();
-                  $("div#statewindow").html(blankInfo);
-
-                  $("div#infowindow #statewindow p.policychange").each(
-                    function() {
-                      let whichPolicy = $(this).attr("id");
-                      $(this).html(statepolicydata[stateIndex][whichPolicy]);
-                      if (statepolicydata[stateIndex][whichPolicy]) {
-                        $(this)
-                          .prev("p")
-                          .show();
-                      } else {
-                        $(this)
-                          .prev("p")
-                          .hide();
-                      }
-                      if ($(this).hasClass("binary")) {
-                        if (
-                          statepolicydata[stateIndex][whichPolicy] === "FALSE"
-                        ) {
-                          $(this).hide();
-                          $(this)
-                            .prev("p.policy-category")
-                            .hide();
-                          $(this);
-                        } else if (
-                          statepolicydata[stateIndex][whichPolicy] === "TRUE"
-                        ) {
-                          $(this).hide();
-                        } else {
-                          $(this).hide();
-                          $(this)
-                            .prev("p.policy-category")
-                            .hide();
-                        }
-                      }
-                    }
-                  );
-
-                  $("div#infowindow #statewindow p.policycode").each(
-                    function() {
-                      let whatLink = $(this)
-                        .children("a")
-                        .attr("id");
-                      let whatCode = $(this)
-                        .find("span")
-                        .attr("id");
-
-                      let linkTest = statepolicydata[stateIndex][whatLink];
-
-                      if (typeof linkTest !== "undefined") {
-                        if (linkTest.indexOf(", ") !== -1) {
-                          // if there are multiple statute links
-                          linkArray = linkTest.split(", ");
-                          let codeTest = statepolicydata[stateIndex][whatCode];
-                          if (typeof codeTest !== "undefined") {
-                            if (codeTest.indexOf(", ") !== -1) {
-                              codeArray = codeTest.split(", ");
-                            }
-                          }
-                          for (i = 0; i < linkArray.length; i++) {
-                            multiLinks.push(
-                              "<a href='" +
-                                linkArray[i] +
-                                "'><span>" +
-                                codeArray[i] +
-                                "</span><br>"
-                            );
-                          }
-                          newLinks = multiLinks.join(" ").toString();
-                          $(this).html(newLinks);
-                        } else {
-                          // if there is only 1 link
-                          $(this)
-                            .children("a")
-                            .attr(
-                              "href",
-                              statepolicydata[stateIndex][whatLink]
-                            );
-                          $(this)
-                            .find("span")
-                            .html(statepolicydata[stateIndex][whatCode]);
-                        }
-                        $("p.policycode a").attr("target", "_blank");
-                      } // end multi link testing
-
-                      if (
-                        $(this)
-                          .html()
-                          .indexOf("TEST") != -1
-                      ) {
-                        // checking if link is blank
-                        $(this).hide();
-                        $(this)
-                          .prev("p")
-                          .hide();
-                      }
-                    }
-                  ); // end policycode function
-                } // end if zoomed in, state level*/
-              }); // end mousemove states tiles
             }); // end story points click function
 
             // Change the cursor to a pointer when the mouse is over the story points layer.
-            map.on("mouseenter", "story-points", function() {
+            map.on("mouseenter", "story-points", function () {
               map.getCanvas().style.cursor = "pointer";
             });
 
             // Change it back to a cursor when it leaves.
-            map.on("mouseleave", "story-points", function() {
+            map.on("mouseleave", "story-points", function () {
               map.getCanvas().style.cursor = "";
             });
 
@@ -1097,7 +488,7 @@
             // https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html
             map.addSource("states", {
               type: "vector",
-              url: "mapbox://mapbox.us_census_states_2015"
+              url: "mapbox://mapbox.us_census_states_2015",
             });
 
             // Add layer from the vector tile source with data-driven style
@@ -1109,8 +500,8 @@
                 source: "states",
                 "source-layer": "states",
                 paint: {
-                  "fill-color": "transparent"
-                }
+                  "fill-color": "transparent",
+                },
               },
               "state-label"
             );
@@ -1125,142 +516,24 @@
                 "source-layer": "states",
                 paint: {
                   "fill-color": "#d86a00",
-                  "fill-opacity": 0.3
+                  "fill-opacity": 0.3,
                 },
-                filter: ["in", "GEOID", ""]
+                filter: ["in", "GEOID", ""],
               },
               "story-points"
             );
 
-            /*map.on("click", "states-tiles", function(e) {
-              $("#howsearch").hide();
-              $("#federalwindow").hide();
-              $("#statewindow").show();
 
-              $("div#statewindow").html(blankInfo);
-
-              map.getCanvas().style.cursor = "pointer";
-
-              // var coordinates = e.lngLat;
-              hoveredStateId = e.features[0].id;
-
-              let thestate = statepolicydata.find(
-                element => element.GEOID == hoveredStateId
-              );
-              let stateIndex = statepolicydata.findIndex(
-                element => element.GEOID == hoveredStateId
-              );
-
-              // Single out the first found feature.
-              var feature = e.features[0];
-
-              var currentz = map.getZoom();
-
-              let linkArray = [];
-              let codeArray = [];
-              let multiLinks = [];
-              let newLinks = [];
-
-              // if (currentz >= 4) {
-              $("div#infowindow #statewindow p.policychange").each(function() {
-                let whichPolicy = $(this).attr("id");
-                $(this).html(statepolicydata[stateIndex][whichPolicy]);
-                if (statepolicydata[stateIndex][whichPolicy]) {
-                  $(this)
-                    .prev("p")
-                    .show();
-                } else {
-                  $(this)
-                    .prev("p")
-                    .hide();
-                }
-                if ($(this).hasClass("binary")) {
-                  if (statepolicydata[stateIndex][whichPolicy] === "FALSE") {
-                    $(this).hide();
-                    $(this)
-                      .prev("p.policy-category")
-                      .hide();
-                  } else if (
-                    statepolicydata[stateIndex][whichPolicy] === "TRUE"
-                  ) {
-                    $(this).hide();
-                  } else {
-                    $(this).hide();
-                    $(this)
-                      .prev("p.policy-category")
-                      .hide();
-                  }
-                }
-              });
-
-              $("div#infowindow #statewindow p.policycode").each(function() {
-                let whatLink = $(this)
-                  .children("a")
-                  .attr("id");
-                let whatCode = $(this)
-                  .find("span")
-                  .attr("id");
-
-                let linkTest = statepolicydata[stateIndex][whatLink];
-
-                if (typeof linkTest !== "undefined") {
-                  if (linkTest.indexOf(", ") !== -1) {
-                    // if there are multiple statute links
-                    linkArray = linkTest.split(", ");
-                    let codeTest = statepolicydata[stateIndex][whatCode];
-                    if (typeof codeTest !== "undefined") {
-                      if (codeTest.indexOf(", ") !== -1) {
-                        codeArray = codeTest.split(", ");
-                      }
-                    }
-                    for (i = 0; i < linkArray.length; i++) {
-                      multiLinks.push(
-                        "<a href='" +
-                          linkArray[i] +
-                          "'><span>" +
-                          codeArray[i] +
-                          "</span><br>"
-                      );
-                    }
-                    newLinks = multiLinks.join(" ").toString();
-                    $(this).html(newLinks);
-                  } else {
-                    // if there is only 1 link
-                    $(this)
-                      .children("a")
-                      .attr("href", statepolicydata[stateIndex][whatLink]);
-                    $(this)
-                      .find("span")
-                      .html(statepolicydata[stateIndex][whatCode]);
-                  }
-                  $("p.policycode a").attr("target", "_blank");
-                } // end multi link testing
-
-                if (
-                  $(this)
-                    .html()
-                    .indexOf("TEST") != -1
-                ) {
-                  // checking if link is blank
-                  $(this).hide();
-                  $(this)
-                    .prev("p")
-                    .hide();
-                }
-              }); // end policycode function
-              // } // end if zoomed in, state level
-            });*/
-
-            map.on("mousemove", "states-tiles", function(e) {
+            map.on("mousemove", "states-tiles", function (e) {
               //map.getCanvas().style.cursor = "pointer";
 
               hoveredStateId = e.features[0].id;
 
               let thestate = statepolicydata.find(
-                element => element.GEOID == hoveredStateId
+                (element) => element.GEOID == hoveredStateId
               );
               let stateIndex = statepolicydata.findIndex(
-                element => element.GEOID == hoveredStateId
+                (element) => element.GEOID == hoveredStateId
               );
 
               // Single out the first found feature.
@@ -1269,18 +542,18 @@
               // hover effect
               var relatedFeatures = map.querySourceFeatures("states-tiles", {
                 sourceLayer: "states",
-                filter: ["in", "STATE_ID", feature.properties.STATE_ID]
+                filter: ["in", "STATE_ID", feature.properties.STATE_ID],
               });
 
               // hover effect
               map.setFilter("states-highlighted", [
                 "in",
                 "STATE_ID",
-                feature.properties.STATE_ID
+                feature.properties.STATE_ID,
               ]);
             }); // end states layer hover
 
-            map.on("mouseenter", "states-tiles", function(e) {
+            map.on("mouseenter", "states-tiles", function (e) {
               map.setLayoutProperty(
                 "states-highlighted",
                 "visibility",
@@ -1288,21 +561,12 @@
               );
             });
 
-            map.on("mouseleave", "states-tiles", function(e) {
+            map.on("mouseleave", "states-tiles", function (e) {
               map.setLayoutProperty("states-highlighted", "visibility", "none");
             });
           }); // end on map load
         } // end addtoMap function
 
-        map.on("zoom", function() {
-          let currentz = map.getZoom();
-          if (currentz <= 5) {
-            $("#federalwindow").show();
-            $("#statewindow").hide();
-          }
-        });
-
-        $("p.policycode a").attr("target", "_blank");
       }); // end document ready
     </script>
   </body>
