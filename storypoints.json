@@ -3445,9 +3445,7 @@
           "Approved for Website": true,
           "City": "Atlanta ",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-02-26T00:00:00+00:00",
           "Description": "Asian communities in Atlanta, Georgia are encouraging Asian-Americans to partake in the 2020 census. Recent studies show that Asians are the fastest growing group but are least likely to not fill the 2020 Census report.",
           "Grantee Org": "Asian Americans Advancing Justice-Atlanta",
           "Latitude": 33.916644556386224,
@@ -3480,9 +3478,7 @@
           "Approved for Website": true,
           "City": "Oakland",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-06-25T00:00:00+00:00",
           "Description": "IN partnership with community groups, organizations and foundations, as well as more than sixty individual donors, Filipino Advocates for Justice has raised awareness and funds for the Bayanihan COVID-19 Relief Fund.",
           "Grantee Org": "Filipino Advocates for Justice",
           "Latitude": 37.79902214883163,
@@ -3515,9 +3511,7 @@
           "Approved for Website": true,
           "City": "Long Beach",
           "Contact Info": "victortran3052@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2018-02-26T00:00:00+00:00",
           "Description": "Cambodians’ Struggle for Refuge - Chapter 3: Gentrification",
           "Grantee Org": "Center for Neighborhood Knowledge",
           "Latitude": 33.786983820693294,
@@ -3551,9 +3545,7 @@
           "Approved for Website": true,
           "City": "Los Angeles",
           "Contact Info": "victortran3052@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2019-02-13T00:00:00+00:00",
           "Description": "This film details the daily lives of Cambodian-owned donut shop workers, owners, and family members while highlighting both the success and struggles.",
           "Grantee Org": "Center for Neighborhood Knowledge",
           "Latitude": 33.814903279857774,
@@ -3587,9 +3579,7 @@
           "Approved for Website": true,
           "City": "Philadelphia ",
           "Contact Info": "victortran3052@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-09-02T00:00:00+00:00",
           "Description": "South Philly’s SEAMAAC has fed thousands of people since March, while continuing to push the vote and the census—missions more aligned than you might think. It’s all part of SEAMAAC’s larger mission, to better serve its constituents by helping them better engage with their city. Civics and food naturally overlap and food insecurity is a social justice issue. Voting and the census is part of that.",
           "Grantee Org": "SEAMAAC, Philly FIGHT",
           "Latitude": 39.92863346285269,
@@ -3622,9 +3612,7 @@
           "Approved for Website": true,
           "City": "Madison ",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-06-26T00:00:00+00:00",
           "Description": "After four years of demanding police-free schools, Freedom, Inc. said the Madison School Board could be days away from ending its contract with police.",
           "Grantee Org": "Freedom, Inc.",
           "Latitude": 43.03317054711134,
@@ -3656,9 +3644,7 @@
         "properties": {
           "Approved for Website": true,
           "City": "Bainbridge Island",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-07-07T00:00:00+00:00",
           "Description": "Since well before the Vietnam War, Southeast Asian migrants have faced racism, targeted immigration enforcement, and denial of their basic human rights.",
           "Grantee Org": "Southeast Asian Freedom Network",
           "Latitude": 47.62535938,
@@ -3689,9 +3675,7 @@
         "properties": {
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-06-12T00:00:00+00:00",
           "Description": "As COVID-19 hit the United States, many small business were forced to close their doors. This article provides ways to help keep small businesses stay afloat, such as purchasing gift cards or advocating for policies that will put less strain on small businesses. ",
           "Latitude": 38.622367,
           "Longitude": -90.244895,
@@ -3723,9 +3707,7 @@
           "Approved for Website": true,
           "City": "Houston",
           "Contact Info": "victortran3052@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-06-12T00:00:00+00:00",
           "Description": "In the midst of this economic devastation, Houston’s Asian community rallied, and Asian-American organizations became some of the most generous donors to frontline workers and individuals in need. The collaboration also has an advocacy arm to address the ignorance and anti-Asian sentiment that shut Chinatown down in the first place.",
           "Latitude": 29.74044275838067,
           "Longitude": -95.36270145792517,
@@ -3757,9 +3739,7 @@
           "Approved for Website": true,
           "City": "Los Angeles",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-03-11T00:00:00+00:00",
           "Description": "Communities raise concerns about the coronavirus and its impact on the 2020 Census.",
           "Grantee Org": "Korean Resource Center",
           "Latitude": 34.05612665117182,
@@ -3792,9 +3772,7 @@
           "Approved for Website": true,
           "City": "Minneapolis",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-05-01T00:00:00+00:00",
           "Description": "A Minneapolis nonprofit makes sure immigrant communities can access culturally specific food like basmati rice, vermicelli noodles and fish sauce during the pandemic.",
           "Latitude": 44.96838081402331,
           "Longitude": -93.26568603515625,
@@ -3826,9 +3804,7 @@
           "Approved for Website": true,
           "City": "Boston",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-03-04T00:00:00+00:00",
           "Description": "Boston's Chinatown will now have it's own public library after the Chinese Progressive Association Chinese Youth Initiative pressured the city of Boston to build one.",
           "Grantee Org": "Chinese Progressive Association - Boston",
           "Latitude": 42.347816,
@@ -3862,7 +3838,7 @@
           "City": "Philadelphia",
           "Contact Info": "jared.jimenezg@gmail.com",
           "Date String": {
-            "specialValue": "NaN"
+            "error": "#ERROR!"
           },
           "Description": "Organizations that serve Asian-Americans and Pacific Islanders are taking efforts to notify the populace of Philadelphia, especially non-English speaking residents to areas where services can be provided amid COVID-19 shutdowns.",
           "Latitude": 39.956074,
@@ -3893,9 +3869,7 @@
         "properties": {
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-03-26T00:00:00+00:00",
           "Description": "Anti-Asian American sentiment during the coronavirus disease 2019 pandemic is a growing concern among state leaders.",
           "Grantee Org": "Association of Chinese Americans, the Michigan Asian Pacific American Affairs Commission; Chinese Association of Greater Detroit; Eastern Michigan University - Healthy Asian Americans Project; Michigan Chinese American Coalition; Michigan Chinese Conservatives Alliance; National Association of Asian American Professionals; and Rising Voices of Asian American Families",
           "Latitude": 42.276012,
@@ -3928,9 +3902,7 @@
           "Approved for Website": true,
           "City": "Chicago",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-05-02T00:00:00+00:00",
           "Description": "Asian-American communities in Chicago are helping non-English speakers during the pandemic by keeping them informed about COVID-19 and providing them resources to help them protect themselves from the virus.",
           "Grantee Org": "Asian Americans Advancing Justice-Chicago",
           "Latitude": 41.95960945945799,
@@ -3963,9 +3935,7 @@
           "Approved for Website": true,
           "City": "San Francisco",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-03-27T00:00:00+00:00",
           "Description": "Multiple incidents of hate crimes against Asian-Americans have gained attention across the state of California in response to the growing spread of COVID-19. Racial comments made by children and adults alike all contributed to the sudden rise of hate crimes against Asian-Americans in California.",
           "Grantee Org": "Chinese for Affirmative Action",
           "Latitude": 37.788325,
@@ -3997,9 +3967,7 @@
         "properties": {
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-06-18T00:00:00+00:00",
           "Description": "Amid the ongoing threat of the coronavirus, there are surging reports of xenophobic and racist incidents targeting members of the Asian American and Pacific Islander (AAPI) community in the U.S. Visit the website to see a representative list of coronavirus-related anti-Asian incidents reported in the media or by the victims. The description of the victims is based on media reporting.",
           "Grantee Org": "Asian Pacific Policy and Planning Council (A3PCON) or Chinese for Affirmative Action (CAA)",
           "Latitude": 25.937969,
@@ -4031,9 +3999,7 @@
         "properties": {
           "Approved for Website": true,
           "City": "New York",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-05-29T00:00:00+00:00",
           "Description": "Private donors and independent organizations have connected to move millions of dollars in aid across a gaping hole left in the government’s COVID-19 response",
           "Grantee Org": "Mekong NYC, Adhikaar",
           "Latitude": 40.614436,
@@ -4064,9 +4030,7 @@
         "properties": {
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-06-23T00:00:00+00:00",
           "Description": "Coronavirus, Black Lives Matter and a Chevron slip-up highlight how environmentalism has failed black communities – calling for new models of activism",
           "Grantee Org": "Asian Pacific Environmental Network (Apen)",
           "Latitude": 41.256716,
@@ -4099,9 +4063,7 @@
           "Approved for Website": true,
           "City": "Raleigh",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-04-23T00:00:00+00:00",
           "Description": "The FBI sent a letter to law enforcement agencies across the country this week raising concerns about potential hate crimes during the coronavirus pandemic",
           "Latitude": 35.837852,
           "Longitude": -78.592953,
@@ -4133,9 +4095,7 @@
           "Approved for Website": true,
           "City": "Raleigh",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-05-05T00:00:00+00:00",
           "Description": "To monitor and document incidents of anti-Asian discrimination in North Carolina stemming from racialization of the COVID-19 outbreak, North Carolina Asian Americans Together (NCAAT) has launched a statewide bias reporting portal. This initiative will provide NCAAT with insight to help advocate on behalf of our community members throughout North Carolina.",
           "Grantee Org": "North Carolina Asian Americans Together",
           "Latitude": 35.780592376200346,
@@ -4167,9 +4127,7 @@
         "properties": {
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-04-23T00:00:00+00:00",
           "Description": "Residents of New Mexico are hard to count because it's big, area-wise, and because plenty of communities are intentionally discouraged from filling the 2020 Census out through fear tactics.",
           "Grantee Org": "New Mexico Asian Family Center",
           "Latitude": 35.67505,
@@ -4202,9 +4160,7 @@
           "Approved for Website": true,
           "City": "Providence",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-06-20T00:00:00+00:00",
           "Description": "Protestors march to the Rhode Island State House, stage sit-in, demand school, statewide, national change",
           "Grantee Org": "Alliance of Rhode Island Southeast Asians for Education, Providence Student Union, Providence Youth Student Movement, Leadership Journey and Direct Action for Rights and Equality",
           "Latitude": 41.830549864139,
@@ -4237,9 +4193,7 @@
           "Approved for Website": true,
           "City": "San Francisco",
           "Contact Info": "victortran3052@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-03-19T00:00:00+00:00",
           "Description": "Distressed by the rise in xenophobia and racism during the coronavirus pandemic, a coalition of Asian American groups based in California have created a reporting webpage for victims of virus-related hate crimes. The Asian Pacific Planning and Policy Council, Chinese for Affirmative Action and San Francisco State University Asian American Studies Department are asking anyone who’s been harassed, intimidated or otherwise discriminated against for their race to share their stories on the website.",
           "Grantee Org": "Chinese for Affirmative Action",
           "Latitude": 37.723844,
@@ -4271,9 +4225,7 @@
         "properties": {
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-03-25T00:00:00+00:00",
           "Description": "Asian-Americans in Minnesota have been experiencing a wave of discrimination after the spread of COVID-19 increased.",
           "Grantee Org": "Coalition of Asian American Leaders",
           "Latitude": 46.405196622368194,
@@ -4306,9 +4258,7 @@
           "Approved for Website": true,
           "City": "Providence ",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-06-21T00:00:00+00:00",
           "Description": "Last week, the Providence External Review Authority (PERA) sent a letter to Providence Mayor Jorge Elorza and the Providence City Council “recommending the city reallocate funding from the Providence Police Department and reinvest the funds into PERA, in order to transition to a new, civilian lead model of oversight.”",
           "Grantee Org": "Providence Youth Student Movement (PrYSM), DARE",
           "Latitude": 41.821391,
@@ -4341,9 +4291,7 @@
           "Approved for Website": true,
           "City": "Boston",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-03-26T00:00:00+00:00",
           "Description": "The streets of Chinatown bear the scars of highway construction, institutional expansion, and urban renewal efforts. Today, a lack of affordable housing and the emergence of Airbnbs and short-term rentals drive up prices for the residents who have built the community from the ground up. Chinatown’s right to take up space continues to be challenged.",
           "Grantee Org": "Chinese Progressive Association (CPA), Asian American Resource Workshop (AARW), Asian Community Development Corporation (ACDC)",
           "Latitude": 42.32870216575532,
@@ -4376,9 +4324,7 @@
           "Approved for Website": true,
           "City": "Boston",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-03-12T00:00:00+00:00",
           "Description": "Asian American leaders in Massachusetts on Thursday condemned what they say is continued racism, fear-mongering and misinformation aimed at Asian communities amid the coronavirus pandemic that originated in China.",
           "Grantee Org": "Chinese Progressive Association - Boston",
           "Latitude": 42.298311,
@@ -4411,9 +4357,7 @@
           "Approved for Website": true,
           "City": "Minneapolis ",
           "Contact Info": "victortran3052@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-04-24T00:00:00+00:00",
           "Description": "Muslims in Minnesota and across the globe are reworking ancient traditions as the coronavirus upends society. That’s especially evident during Ramadan, Islam’s most sacred month, which began Thursday night with a historic first in Minneapolis.",
           "Latitude": 44.999146158592666,
           "Longitude": -93.29332137111123,
@@ -4445,9 +4389,7 @@
           "Approved for Website": true,
           "City": "Queens",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-04-23T00:00:00+00:00",
           "Description": "As COVID-19 sweeps through Queens, many immigrant neighborhoods haven't been filling out the census form because there are more important issues consider. Many immigrant groups are now relying on phone banking to reach out to their community. Staff at Adhikaar — a non-profit in Elmhurst that works with South Asian immigrants — have placed over 1,000 calls to members of their community in just three weeks.",
           "Grantee Org": "Adhikaar",
           "Latitude": 40.75101814664832,
@@ -4479,9 +4421,7 @@
         "properties": {
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-03-30T00:00:00+00:00",
           "Description": "Every 10 years, the federal government spends three months counting everyone living in America, and uses the data to calculate political representation and allocate federal money. This time, there’s a new wrinkle: How do you conduct the Census when everybody is socially distancing? Some strategies may work for some communities, but possibly not for the ones that the Census deems  “hard-to-count.” That includes renters, older residents, and those with limited English proficiency. ",
           "Grantee Org": "Asian Americans Advancing Justice Los Angeles, Empowering Pacific Islander Communities ",
           "Latitude": 36.709738,
@@ -4513,9 +4453,7 @@
         "properties": {
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-06-09T00:00:00+00:00",
           "Description": "In cities like Akron and Cleveland, contract tracing is being used by to manage COVID-19 and is being used by centers such as the Asian Services In Action.",
           "Grantee Org": "Asian Services in Action (ASIA)",
           "Latitude": 40.44228611902232,
@@ -4548,9 +4486,7 @@
           "Approved for Website": true,
           "City": "Alexandria",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2022-06-01T00:00:00+00:00",
           "Description": "Alexandria’s poorest areas have been hit hardest by the coronavirus, and local groups are demanding that Virginia Gov. Ralph Northam respond by supplying 10,000 testing kits over the next 10 days and providing housing for COVID-positive patients who currently live in jam-packed residences.",
           "Latitude": 38.81064032094063,
           "Longitude": -77.04904175014237,
@@ -4582,9 +4518,7 @@
           "Approved for Website": true,
           "City": "Portland",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-02-21T00:00:00+00:00",
           "Description": "As the fear of the virus spreads, Asian owned small businesses in the Jade District of Portland have been hurting said businesses.",
           "Grantee Org": "Asian Pacific American Network of Oregon",
           "Latitude": 45.52493704338902,
@@ -4617,7 +4551,7 @@
           "Approved for Website": true,
           "Contact Info": "jared.jimenezg@gmail.com",
           "Date String": {
-            "specialValue": "NaN"
+            "error": "#ERROR!"
           },
           "Description": "Asian Americans show their support for black power and justice for the murder of George Floyd. The death of George Floyd, a Black man, in Minneapolis police custody sparked nationwide protests — and a sense of reckoning in the Asian American community, which has historically fraught, even violent, ties with African Americans. In particular, the revelation that one of the officers charged over Floyd’s death, Tou Thao, is Hmong has caused many Asian Americans to grapple with their community’s complicity.",
           "Latitude": 37.691015,
@@ -4649,9 +4583,7 @@
           "Approved for Website": true,
           "City": "Richmond",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-05-08T00:00:00+00:00",
           "Description": "Residents of Richmond demand an extension of housing evictions following the coronavirus pandemic.",
           "Latitude": 37.53698898161375,
           "Longitude": -77.43253326625563,
@@ -4683,9 +4615,7 @@
           "Approved for Website": true,
           "City": "La Crosse",
           "Contact Info": "victortran3052@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-04-26T00:00:00+00:00",
           "Description": "We are witnessing insensitivity, fear, panic and yes, expressions of racial and ethnic hate and discrimination directed toward those in our midst who are of Asian descent. Members of La Crosse’s Asian population have not been exempt from these attacks. The #Stop AAPI Hate Reporting Center indicates that more than 100 incidents of harassment per day against people of varying Asian backgrounds have been reported in the U.S. since mid-March. Providing support for people of Asian descent, Cia Siab is calling on communities to report incidents.",
           "Latitude": 43.83436155089898,
           "Longitude": -91.23766994489417,
@@ -4717,9 +4647,7 @@
           "Approved for Website": true,
           "City": "Los Angeles",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-03-14T00:00:00+00:00",
           "Description": "Isabel Kang Speaks Up About Anti-Blackness Within the Korean Community at a Black Lives Matter Protest",
           "Grantee Org": "Korean Resource Center",
           "Latitude": 34.063141,
@@ -4752,9 +4680,7 @@
           "Approved for Website": true,
           "City": "Philadelphia",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-03-12T00:00:00+00:00",
           "Description": "In the city of Philadelphia, 18 citizens help raise $150,000 for the Brad and Roses Community Fund for the purpose of providing funding towards public areas. The 20 grants will go toward supporting equitable space projects in the city, such as a garden used for Asian-American cultural events, park and library programs for African and Caribbean immigrants, and a neighborhood marketplace in North Philadelphia.",
           "Grantee Org": "Asian Americans United",
           "Latitude": 39.943291,
@@ -4787,9 +4713,7 @@
           "Approved for Website": true,
           "City": "Madison ",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-06-29T00:00:00+00:00",
           "Description": "Local activism and a national movement reshaped policy with board members taking a major step toward in removing officers from schools in Madison.",
           "Grantee Org": "Freedom, Inc.",
           "Latitude": 43.07723913073348,
@@ -4822,9 +4746,7 @@
           "Approved for Website": true,
           "City": "Madison ",
           "Contact Info": "jared.jimenezg@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-06-25T00:00:00+00:00",
           "Description": "A rally supporting the removal of School Resource Officers (SROs) from the Madison Metropolitan School District (MMSD) turned into a march Thursday evening.",
           "Grantee Org": "Freedom, Inc.",
           "Latitude": 43.076574580081704,
@@ -4856,9 +4778,7 @@
         "properties": {
           "Approved for Website": true,
           "Contact Info": "victortran3052@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-07-05T00:00:00+00:00",
           "Description": "Latino and African-American residents of the United States have been three times as likely to become infected as their white neighbors, according to the new data, which provides detailed characteristics of 640,000 infections detected in nearly 1,000 U.S. counties. And Black and Latino people have been nearly twice as likely to die from the virus as white people, the data shows.",
           "Latitude": 43.04902033747261,
           "Longitude": -87.9916996881366,
@@ -4890,9 +4810,7 @@
           "Approved for Website": true,
           "City": "San Francisco ",
           "Contact Info": "victortran3052@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-10-21T00:00:00+00:00",
           "Description": "COVID-19 is killing Asian Americans in the Bay Area. In this six-part series, USA TODAY investigates how systemic racism is driving high death rates.",
           "Grantee Org": "Association of Asian Pacific Community Health Organizations, NICOS Chinese Health Coalition, Asian Pacific Islander Health Parity Coalition",
           "Latitude": 37.75478945821775,
@@ -4925,9 +4843,7 @@
           "Approved for Website": true,
           "City": "St. Paul",
           "Contact Info": "victortran3052@gmail.com",
-          "Date String": {
-            "specialValue": "NaN"
-          },
+          "Date String": "2020-06-23T00:00:00+00:00",
           "Description": "The school district will allow the contract with police to expire, meaning school resource officers won't be in the high school buildings next year. The move follows a similar decision by the school board in Minneapolis, which terminated a partnership with Minneapolis police just days after the killing of George Floyd.",
           "Latitude": 44.93102784671917,
           "Longitude": -93.11831796172555,
