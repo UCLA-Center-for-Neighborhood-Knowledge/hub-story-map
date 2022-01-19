@@ -15,11 +15,18 @@
     />
     <script src="https://npmcdn.com/csv2geojson@latest/csv2geojson.js"></script>
     <script src="https://npmcdn.com/@turf/turf/turf.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap"
+      rel="stylesheet"
+    />
     <style>
       body {
         margin: 0;
         padding: 0;
-        font: 400 13px/14px "Helvetica Neue", Arial, Helvetica, sans-serif;
+        font: 300 13px/14px "Work Sans", "Helvetica Neue", Arial, Helvetica,
+          sans-serif;
         overflow: hidden;
       }
 
@@ -52,7 +59,7 @@
         padding: 15px;
         color: White;
         font-size: 14px;
-        font-family: "Open Sans", sans-serif;
+        font-family: "Work Sans", "Open Sans", sans-serif;
       }
 
       div#legendTitle {
@@ -83,7 +90,7 @@
         background-color: rgb(255 255 255 / 100%);
         color: black;
         z-index: 1;
-        font-family: "Open Sans", sans-serif;
+        font-family: "Work Sans", "Open Sans", sans-serif;
         font-size: 16px;
         letter-spacing: -0.5px;
         padding: 7px 8px 7px 10px;
@@ -135,11 +142,15 @@
 
       .mapboxgl-popup-close-button {
         display: block;
+        font-weight: 100;
+        font-size: 30px;
+        right: 12px;
       }
 
       .mapboxgl-popup-content {
-        font: 400 13px/14px "Helvetica Neue", Arial, Helvetica, sans-serif;
-        padding: 8px;
+        font: 300 13px/14px "Work Sans", "Helvetica Neue", Arial, Helvetica,
+          sans-serif;
+        padding: 40px;
         width: 420px;
         background-color: White;
         color: Black;
@@ -148,35 +159,41 @@
       .mapboxgl-popup-content p {
         margin-top: 3px;
         margin-bottom: 5px;
+        line-height: 1.3em;
       }
 
-      .mapboxgl-popup-content p a {
-        color: #d86a00;
+      .mapboxgl-popup-content p.title {
+        font-size: 20px;
+        margin-bottom: 20px;
+      }
+
+      .mapboxgl-popup-content p.description {
+        margin-bottom: 20px;
+      }
+
+      .mapboxgl-popup-content p.date {
+        font-style: italic;
+        margin-bottom: 0px;
+      }
+
+      .mapboxgl-popup-content p a.source {
+        width: 100%;
+        background-color: rgb(153, 38, 153);
+        padding: 14px 40px;
+        display: block;
+        box-sizing: border-box;
+        color: white;
+        margin-top: 15px;
+        text-transform: uppercase;
+        text-align: center;
+        text-decoration: none;
       }
 
       .mapboxgl-popup-content-wrapper {
         padding: 1%;
       }
 
-      .mapboxgl-popup-content h3 {
-        background: rgb(61, 59, 59);
-        text-align: center;
-        color: #fff;
-        margin: 0;
-        display: block;
-        padding: 15px;
-        font-weight: 700;
-        margin-top: -5px;
-      }
-
-      .mapboxgl-popup-content h4 {
-        margin: 0;
-        display: block;
-        padding: 10px 3px 10px 10px;
-        font-weight: 400;
-      }
-
-      iframe.pop-video {
+      .mapboxgl-popup-content iframe {
         width: 100%;
         height: 300px;
       }
@@ -191,6 +208,10 @@
 
       .mapboxgl-popup-anchor-top > .mapboxgl-popup-tip {
         border-bottom-color: rgb(61, 59, 59);
+      }
+
+      .mapboxgl-ctrl-geocoder--input {
+        font-family: "Work Sans", sans-serif !important;
       }
 
       @media only screen and (max-width: 1000px) {
@@ -270,7 +291,6 @@
       </div>
     </div>
 
-
     <script>
       var transformRequest = (url, resourceType) => {
         var isMapboxRequest =
@@ -348,28 +368,36 @@
 
         function addtoMap(data) {
           map.on("load", function () {
+            map.addSource("story-data", {
+              type: "geojson",
+              data: data.Stories,
+              cluster: true,
+              clusterMaxZoom: 7, // Max zoom to cluster points on
+              clusterRadius: 50, // Radius of each cluster when clustering points (defaults to 50)
+            });
             //Add the the layer to the map
             map.addLayer(
               {
                 id: "story-points",
                 type: "circle",
-                source: {
-                  type: "geojson",
-                  data: data.Stories,
-                },
+                source: "story-data",
                 paint: {
-                  /*{
-                    //base: 7,
-                    //stops: [[3, 4],[6,5], [11, 7], [16, 20]]
-                  },*/
-                  "circle-radius": [
+                  "circle-radius": 3,
+                  "circle-stroke-color": [
                     "match",
                     ["get", "Theme v2"],
+                    "Together, We Have the Power",
+                    "#982199",
+                    "Curiosity Is the Path to Our Best Future",
+                    "#3d6e52",
                     "Anti-Asian Incidents of Violence",
-                    8,
-                    6.5,
+                    "#b12935",
+                    "We All Belong, Our Narrative Stories",
+                    "#1c48d5",
+                    "Our Beloved Community Is Abundant, Caring and Joyful",
+                    "#f6bc44",
+                    /* other */ "#ccc",
                   ],
-                  "circle-stroke-color": "#000",
                   "circle-stroke-width": 1,
                   "circle-color": [
                     "match",
@@ -391,7 +419,96 @@
               /*add layer to fit under here, if necessary*/
             );
 
-            map.on("click", "story-points", function (e) {
+            map.addLayer(
+              {
+                id: "story-blur",
+                type: "circle",
+                source: {
+                  type: "geojson",
+                  data: data.Stories,
+                },
+                paint: {
+                  "circle-radius": 10,
+                  "circle-blur": 1,
+                  "circle-opacity": 0.9,
+                  "circle-color": [
+                    "match",
+                    ["get", "Theme v2"],
+                    "Together, We Have the Power",
+                    "#982199",
+                    "Curiosity Is the Path to Our Best Future",
+                    "#3d6e52",
+                    "Anti-Asian Incidents of Violence",
+                    "#b12935",
+                    "We All Belong, Our Narrative Stories",
+                    "#1c48d5",
+                    "Our Beloved Community Is Abundant, Caring and Joyful",
+                    "#f6bc44",
+                    /* other */ "#ccc",
+                  ],
+                },
+              },
+              "story-points"
+              /*add layer to fit under here, if necessary*/
+            );
+
+            map.addLayer({
+              id: "clusters",
+              type: "circle",
+              source: "story-data",
+              filter: ["has", "point_count"],
+              paint: {
+                // Use step expressions (https://docs.mapbox.com/mapbox-gl-js/style-spec/#expressions-step)
+                // with three steps to implement three types of circles:
+                "circle-color": "#691564",
+                "circle-stroke-color": "#fff",
+                "circle-stroke-width": 1,
+                "circle-radius": [
+                  "step",
+                  ["get", "point_count"],
+                  8,
+                  5,
+                  12,
+                  10,
+                  18,
+                ],
+              },
+            });
+
+            map.addLayer({
+              id: "cluster-count",
+              type: "symbol",
+              source: "story-data",
+              filter: ["has", "point_count"],
+              layout: {
+                "text-field": "{point_count_abbreviated}",
+                "text-font": ["DIN Offc Pro Medium", "Arial Unicode MS Bold"],
+                "text-size": 12,
+              },
+              paint: {
+                "text-color": "#fff",
+              },
+            });
+
+            // Zoom in with clusters
+            map.on("click", "clusters", (e) => {
+              const features = map.queryRenderedFeatures(e.point, {
+                layers: ["clusters"],
+              });
+              const clusterId = features[0].properties.cluster_id;
+              map
+                .getSource("story-data")
+                .getClusterExpansionZoom(clusterId, (err, zoom) => {
+                  if (err) return;
+
+                  map.flyTo({
+                    center: features[0].geometry.coordinates,
+                    zoom: 8,
+                  });
+                });
+            });
+
+            map.on("click", "story-blur", function (e) {
               let description;
               var coordinates = e.features[0].geometry.coordinates.slice();
 
@@ -411,39 +528,14 @@
 
               if (media) {
                 let media_embed = media.split("/").pop();
-                description =
-                  `<p><strong>` +
-                  e.features[0].properties.Title +
-                  `</strong></p>` +
-                  `<p>` +
-                  `<p>` +
-                  city +
-                  ` ` +
-                  e.features[0].properties.State +
-                  `<p>` +
-                  e.features[0].properties.Description +
-                  `</p><iframe class='pop-video' src='https://www.youtube.com/embed/` +
-                  media_embed +
-                  `' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>`;
+                description = `<p class="title"><strong>${e.features[0].properties.Title}</strong></p><p class="date">${e.features[0].properties["Date String"]}</p>
+                <p class="description">${e.features[0].properties.Description}</p><p><iframe class="pop=video" src="https://www.youtube.com/embed/${media_embed}" 
+                frameborder="0" allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>
+                <p class="date">${city} ${e.features[0].properties.State}</p><p class="date">${org}</p>`;
               } else {
-                description =
-                  `<p><strong>` +
-                  e.features[0].properties.Title +
-                  `</strong></p>` +
-                  `<p>` +
-                  `<p>` +
-                  city +
-                  ` ` +
-                  e.features[0].properties.State +
-                  `<p>` +
-                  e.features[0].properties.Description +
-                  `</p><p style='margin-top:13px;'>` +
-                  e.features[0].properties["Date String"] +
-                  `</p><p>` +
-                  org +
-                  `<p><a href="` +
-                  e.features[0].properties.URL +
-                  `" target="blank">Source</a></p>`;
+                description = `<p class="title"><strong>${e.features[0].properties.Title}</strong></p><p class="date">${e.features[0].properties["Date String"]}</p>
+                <p class="description">${e.features[0].properties.Description}</p><p class="date">${city} ${e.features[0].properties.State}</p><p class="date">${org}</p>
+                <p><a class="source" href="${e.features[0].properties.URL}" target="_blank">Source</a></p>`;
               }
 
               // Ensure that if the map is zoomed out such that multiple
@@ -471,16 +563,15 @@
                 center: coordinates,
                 zoom: currentz,
               });
-
             }); // end story points click function
 
             // Change the cursor to a pointer when the mouse is over the story points layer.
-            map.on("mouseenter", "story-points", function () {
+            map.on("mouseenter", "story-blur", function () {
               map.getCanvas().style.cursor = "pointer";
             });
 
             // Change it back to a cursor when it leaves.
-            map.on("mouseleave", "story-points", function () {
+            map.on("mouseleave", "story-blur", function () {
               map.getCanvas().style.cursor = "";
             });
 
@@ -515,14 +606,13 @@
                 source: "states",
                 "source-layer": "states",
                 paint: {
-                  "fill-color": "#d86a00",
-                  "fill-opacity": 0.3,
+                  "fill-color": "#b12935",
+                  "fill-opacity": 0.4,
                 },
                 filter: ["in", "GEOID", ""],
               },
-              "story-points"
+              "state-label"
             );
-
 
             map.on("mousemove", "states-tiles", function (e) {
               //map.getCanvas().style.cursor = "pointer";
@@ -566,7 +656,6 @@
             });
           }); // end on map load
         } // end addtoMap function
-
       }); // end document ready
     </script>
   </body>
