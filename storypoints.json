@@ -2747,13 +2747,7 @@
         "type": "Feature"
       },
       {
-        "geometry": {
-          "coordinates": [
-            -116.62969589,
-            40.10668698
-          ],
-          "type": "Point"
-        },
+        "geometry": null,
         "id": "recb0gheMKqHxfl4d",
         "properties": {
           "Approved for Website": true,
@@ -2761,8 +2755,6 @@
           "Contact Info": "Test email",
           "Date String": "October 4th, 2021",
           "Description": "Test description",
-          "Latitude": 40.10668698,
-          "Longitude": -116.62969589,
           "Name": "Test Name ABC",
           "News/Media Outlet": "Test",
           "Record ID": "recb0gheMKqHxfl4d",
