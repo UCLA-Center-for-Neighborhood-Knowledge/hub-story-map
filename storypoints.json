@@ -2749,6 +2749,37 @@
       {
         "geometry": {
           "coordinates": [
+            -116.62969589,
+            40.10668698
+          ],
+          "type": "Point"
+        },
+        "id": "recb0gheMKqHxfl4d",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Boise",
+          "Contact Info": "Test email",
+          "Date String": "October 4th, 2021",
+          "Description": "Test description",
+          "Latitude": 40.10668698,
+          "Longitude": -116.62969589,
+          "Name": "Test Name ABC",
+          "News/Media Outlet": "Test",
+          "Record ID": "recb0gheMKqHxfl4d",
+          "State": "Idaho",
+          "Story Date": "2021-10-04",
+          "Story Type": "News story",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2022-04-28T22:13:37.000Z",
+          "Title": "Uncle New Year's Premium Whiskey ",
+          "URL": "https://www.npr.org/2021/10/01/1042481944/uncle-nearest-premium-whiskey-fawn-weaver",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -80.83808899,
             35.21414834
           ],
