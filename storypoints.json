@@ -4622,7 +4622,7 @@
       {
         "geometry": {
           "coordinates": [
-            -170.702,
+            170.702,
             14.2756
           ],
           "type": "Point"
@@ -4635,7 +4635,7 @@
           "Date String": "March 30th, 2022",
           "Description": "In a historic and overdue first, this year, New Zealand’s pavilion will be taken over by a South Pacific islander who identifies as Fa’afafine, which is Sāmoa’s third gender. Sāmoan-Japanese artist Yuki Kihara is renowned for exploring postcolonial history, and for her ambitious project in Venice, she will dive into the singular lens of the Fa’afafine—which means “in the manner of a woman”—with a campy reading of the notion of paradise, bringing Indigenous perspectives to drag culture via the new term In-drag-enous.",
           "Latitude": 14.2756,
-          "Longitude": -170.702,
+          "Longitude": 170.702,
           "Name": "Mia Forsline",
           "News/Media Outlet": "Artnet News",
           "Record ID": "recw7jQLWsAStGOkE",
