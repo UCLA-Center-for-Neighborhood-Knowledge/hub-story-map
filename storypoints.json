@@ -2287,18 +2287,18 @@
         "geometry": {
           "coordinates": [
             -93.0616,
-            44.9964
+            44.9537
           ],
           "type": "Point"
         },
         "id": "recV5DIrneXuR9DUd",
         "properties": {
           "Approved for Website": true,
-          "City": "Ramsey County",
+          "City": "Saint Paul",
           "Contact Info": "mia@aapifund.org",
           "Date String": "April 22nd, 2022",
           "Description": "Population growth in the Hmong community means Ramsey County must provide Hmong-speaking election judges in order to comply with federal voting-rights laws. The county will also train judges who can help voters who speak Spanish, Somali, Oromo, and Karen.",
-          "Latitude": 44.9964,
+          "Latitude": 44.9537,
           "Longitude": -93.0616,
           "Name": "Mia Forsline",
           "News/Media Outlet": "Sahan Journal",
