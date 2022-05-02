@@ -1663,6 +1663,36 @@
       {
         "geometry": {
           "coordinates": [
+            -118.30002,
+            34.06865
+          ],
+          "type": "Point"
+        },
+        "id": "recNYpVNLH6Hu40Hl",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "mia@aapifund.org",
+          "Date String": "April 8th, 2022",
+          "Latitude": 34.06865,
+          "Longitude": -118.30002,
+          "Name": "Mia Forsline",
+          "News/Media Outlet": "The Los Angeles Times",
+          "Record ID": "recNYpVNLH6Hu40Hl",
+          "State": "CA",
+          "Story Date": "2022-04-08",
+          "Story Type": "News story",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2022-05-02T03:35:13.000Z",
+          "Title": "How did a Thai restaurant chain become so beloved by immigrants from Mexico and Central America?",
+          "URL": "https://www.latimes.com/california/story/2022-04-08/ocha-thai-ktown",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.242828,
             45.031882
           ],
