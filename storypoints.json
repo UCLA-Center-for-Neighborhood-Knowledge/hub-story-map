@@ -2874,6 +2874,37 @@
       {
         "geometry": {
           "coordinates": [
+            -82.9071,
+            40.4173
+          ],
+          "type": "Point"
+        },
+        "id": "reccuxfd0ms6wju7d",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "mia@aapifund.org",
+          "Date String": "April 1st, 2022",
+          "Description": "Asian American organizers and officials are criticizing Rep. Tim Ryan, D-Ohio, over a campaign ad they say inflames Sinophobia and anti-Asian hate.",
+          "Grantee Org": "RUN AAPI ",
+          "Latitude": 40.4173,
+          "Longitude": -82.9071,
+          "Name": "Mia Forsline",
+          "News/Media Outlet": "NBC News",
+          "Record ID": "reccuxfd0ms6wju7d",
+          "State": "OH",
+          "Story Date": "2022-04-01",
+          "Story Type": "News story",
+          "Theme v2": "Anti-Asian Incidents of Violence",
+          "Timestamp": "2022-05-02T03:05:20.000Z",
+          "Title": "Asian Americans call out Rep. Tim Ryan for airing ad that's 'rife with Sinophobia'",
+          "URL": "https://www.nbcnews.com/news/asian-america/asian-americans-call-rep-tim-ryan-airing-ad-rife-sinophobia-rcna22637",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -102.03222669661046,
             40.9023033926856
           ],
