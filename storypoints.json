@@ -3465,6 +3465,36 @@
       {
         "geometry": {
           "coordinates": [
+            -72.9223,
+            41.3163
+          ],
+          "type": "Point"
+        },
+        "id": "recksQwoPIguSC3Qh",
+        "properties": {
+          "Approved for Website": true,
+          "City": "New Haven",
+          "Contact Info": "mia@aapifund.org",
+          "Date String": "April 1st, 2022",
+          "Latitude": 41.3163,
+          "Longitude": -72.9223,
+          "Name": "Mia Forsline",
+          "News/Media Outlet": "NPR",
+          "Record ID": "recksQwoPIguSC3Qh",
+          "State": "CT",
+          "Story Date": "2022-04-01",
+          "Story Type": "News story",
+          "Theme v2": "Anti-Asian Incidents of Violence",
+          "Timestamp": "2022-05-02T03:22:31.000Z",
+          "Title": "The far-right and environmentalism overlap is bigger than you think — and growing",
+          "URL": "https://www.npr.org/2022/04/01/1089990539/climate-change-politics",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.168540716204,
             39.92863346285269
           ],
