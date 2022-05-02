@@ -4622,6 +4622,37 @@
       {
         "geometry": {
           "coordinates": [
+            -170.702,
+            -14.2756
+          ],
+          "type": "Point"
+        },
+        "id": "recw7jQLWsAStGOkE",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Torrance",
+          "Contact Info": "mia@aapifund.org",
+          "Date String": "March 30th, 2022",
+          "Description": "In a historic and overdue first, this year, New Zealand’s pavilion will be taken over by a South Pacific islander who identifies as Fa’afafine, which is Sāmoa’s third gender. Sāmoan-Japanese artist Yuki Kihara is renowned for exploring postcolonial history, and for her ambitious project in Venice, she will dive into the singular lens of the Fa’afafine—which means “in the manner of a woman”—with a campy reading of the notion of paradise, bringing Indigenous perspectives to drag culture via the new term In-drag-enous.",
+          "Latitude": -14.2756,
+          "Longitude": -170.702,
+          "Name": "Mia Forsline",
+          "News/Media Outlet": "Artnet News",
+          "Record ID": "recw7jQLWsAStGOkE",
+          "State": "CA",
+          "Story Date": "2022-03-30",
+          "Story Type": "News story",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2022-05-02T03:29:23.000Z",
+          "Title": "Yuki Kihara Is Planting a Flag for Sāmoa’s Third Gender With a Film Premiering at New Zealand’s Venice Pavilion",
+          "URL": "https://news.artnet.com/art-world/venice-studio-visit-yuki-kihara-2091290",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -118.302254,
             34.063141
           ],
