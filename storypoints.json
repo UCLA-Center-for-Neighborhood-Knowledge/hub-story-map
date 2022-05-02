@@ -1663,8 +1663,8 @@
       {
         "geometry": {
           "coordinates": [
-            -170.702,
-            -14.2756
+            -118.3406,
+            33.8358
           ],
           "type": "Point"
         },
@@ -1675,8 +1675,8 @@
           "Contact Info": "mia@aapifund.org",
           "Date String": "April 8th, 2022",
           "Description": "This is how I found out about Ocha Classic, a Thai restaurant beloved by Central Americans, Mexicans and Latinos familiar with Koreatown. Since it opened in 1985 in Koreatown, the restaurant has expanded to seven locations on the strength of a highly loyal, and almost entirely Latino, clientele — though three locations were forced to close during the pandemic.",
-          "Latitude": -14.2756,
-          "Longitude": -170.702,
+          "Latitude": 33.8358,
+          "Longitude": -118.3406,
           "Name": "Mia Forsline",
           "News/Media Outlet": "The Los Angeles Times",
           "Record ID": "recNYpVNLH6Hu40Hl",
@@ -4622,8 +4622,8 @@
       {
         "geometry": {
           "coordinates": [
-            -118.3406,
-            33.8358
+            -170.702,
+            -14.2756
           ],
           "type": "Point"
         },
@@ -4634,8 +4634,8 @@
           "Contact Info": "mia@aapifund.org",
           "Date String": "March 30th, 2022",
           "Description": "In a historic and overdue first, this year, New Zealand’s pavilion will be taken over by a South Pacific islander who identifies as Fa’afafine, which is Sāmoa’s third gender. Sāmoan-Japanese artist Yuki Kihara is renowned for exploring postcolonial history, and for her ambitious project in Venice, she will dive into the singular lens of the Fa’afafine—which means “in the manner of a woman”—with a campy reading of the notion of paradise, bringing Indigenous perspectives to drag culture via the new term In-drag-enous.",
-          "Latitude": 33.8358,
-          "Longitude": -118.3406,
+          "Latitude": -14.2756,
+          "Longitude": -170.702,
           "Name": "Mia Forsline",
           "News/Media Outlet": "Artnet News",
           "Record ID": "recw7jQLWsAStGOkE",
