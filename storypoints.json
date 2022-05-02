@@ -2286,6 +2286,36 @@
       {
         "geometry": {
           "coordinates": [
+            -93.0616,
+            44.9964
+          ],
+          "type": "Point"
+        },
+        "id": "recV5DIrneXuR9DUd",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Ra",
+          "Contact Info": "mia@aapifund.org",
+          "Date String": "April 22nd, 2022",
+          "Description": "Population growth in the Hmong community means Ramsey County must provide Hmong-speaking election judges in order to comply with federal voting-rights laws. The county will also train judges who can help voters who speak Spanish, Somali, Oromo, and Karen.",
+          "Latitude": 44.9964,
+          "Longitude": -93.0616,
+          "Name": "Mia Forsline",
+          "News/Media Outlet": "Sahan Journal",
+          "Record ID": "recV5DIrneXuR9DUd",
+          "Story Date": "2022-04-22",
+          "Story Type": "News story",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2022-05-02T03:44:33.000Z",
+          "Title": "Ramsey County is training Hmong election judges after U.S. Census data showed growth in the voting base. The effort is required by the Voting Rights Act of 1965.",
+          "URL": "https://sahanjournal.com/democracy-politics/hmong-interpreter-judges-ramsey-county-elections-voting-rights-act/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -118.24735164773303,
             34.047835173550716
           ],
