@@ -2286,7 +2286,7 @@
       {
         "geometry": {
           "coordinates": [
-            -93.0616,
+            -93.09,
             44.9537
           ],
           "type": "Point"
@@ -2299,7 +2299,7 @@
           "Date String": "April 22nd, 2022",
           "Description": "Population growth in the Hmong community means Ramsey County must provide Hmong-speaking election judges in order to comply with federal voting-rights laws. The county will also train judges who can help voters who speak Spanish, Somali, Oromo, and Karen.",
           "Latitude": 44.9537,
-          "Longitude": -93.0616,
+          "Longitude": -93.09,
           "Name": "Mia Forsline",
           "News/Media Outlet": "Sahan Journal",
           "Record ID": "recV5DIrneXuR9DUd",
