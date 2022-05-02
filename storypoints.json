@@ -1663,8 +1663,8 @@
       {
         "geometry": {
           "coordinates": [
-            -118.30002,
-            34.06865
+            -170.702,
+            -14.2756
           ],
           "type": "Point"
         },
@@ -1675,8 +1675,8 @@
           "Contact Info": "mia@aapifund.org",
           "Date String": "April 8th, 2022",
           "Description": "This is how I found out about Ocha Classic, a Thai restaurant beloved by Central Americans, Mexicans and Latinos familiar with Koreatown. Since it opened in 1985 in Koreatown, the restaurant has expanded to seven locations on the strength of a highly loyal, and almost entirely Latino, clientele — though three locations were forced to close during the pandemic.",
-          "Latitude": 34.06865,
-          "Longitude": -118.30002,
+          "Latitude": -14.2756,
+          "Longitude": -170.702,
           "Name": "Mia Forsline",
           "News/Media Outlet": "The Los Angeles Times",
           "Record ID": "recNYpVNLH6Hu40Hl",
