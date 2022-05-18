@@ -2811,6 +2811,37 @@
       {
         "geometry": {
           "coordinates": [
+            -119.5383,
+            37.8651
+          ],
+          "type": "Point"
+        },
+        "id": "reca72VDM54AyUG5I",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Yosemite",
+          "Contact Info": "mia@aapifund.org",
+          "Date String": "May 9th, 2022",
+          "Description": "The pivotal role Chinese immigrants played in creating Yosemite",
+          "Latitude": 37.8651,
+          "Longitude": -119.5383,
+          "Name": "Mia Forsline",
+          "News/Media Outlet": "Today",
+          "Record ID": "reca72VDM54AyUG5I",
+          "State": "CA",
+          "Story Date": "2022-05-09",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2022-05-18T01:19:45.000Z",
+          "Title": "The pivotal role Chinese immigrants played in creating Yosemite",
+          "URL": "https://www.today.com/video/the-pivotal-role-chinese-immigrants-played-in-creating-yosemite-139607109518",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -72.517,
             42.3709
           ],
