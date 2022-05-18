@@ -3064,6 +3064,38 @@
       {
         "geometry": {
           "coordinates": [
+            -93.265,
+            44.9778
+          ],
+          "type": "Point"
+        },
+        "id": "rece3gKukJLCivWNN",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Minneapolis",
+          "Contact Info": "mia@aapifund.org",
+          "Date String": "May 1st, 2022",
+          "Description": "A Black-Indonesian family in Minneapolis open up about how they moved through the chaos of anti-Asian hate and racial reckoning; each member reveals experiences never shared before, and navigate the issues that have haunted them. A film by Joua Lee Grande. For more: https://bit.ly/AAStoriesRB_OAFronts",
+          "Latitude": 44.9778,
+          "Longitude": -93.265,
+          "Media Embed": "https://youtu.be/KXuOYLA92Ns",
+          "Name": "Mia Forsline",
+          "News/Media Outlet": "WORLD Channel",
+          "Record ID": "rece3gKukJLCivWNN",
+          "State": "Minnesota ",
+          "Story Date": "2022-05-01",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2022-05-18T00:54:23.000Z",
+          "Title": "Asian American Stories of Resilience and Beyond",
+          "URL": "https://www.youtube.com/watch?v=KXuOYLA92Ns&list=PL-7a7eUvdMmgyBbMBnr6mL6syAaJb-46x",
+          "youtube_var": "KXuOYLA92Ns"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.105672,
             40.009819
           ],
