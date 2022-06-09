@@ -2636,7 +2636,7 @@
       {
         "geometry": {
           "coordinates": [
-            -95.712,
+            -95.7126,
             37.0902
           ],
           "type": "Point"
@@ -2648,7 +2648,7 @@
           "Date String": "May 30th, 2022",
           "Description": "Stories of loss, struggle, change and hope are the most powerful tools we have to understand one another and bridge what divides us.",
           "Latitude": 37.0902,
-          "Longitude": -95.712,
+          "Longitude": -95.7126,
           "Name": "Mia Forsline",
           "News/Media Outlet": "The New York Times",
           "Record ID": "recXCxu4LpfmisgOJ",
