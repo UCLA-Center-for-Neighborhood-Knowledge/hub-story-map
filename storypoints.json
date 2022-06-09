@@ -101,6 +101,36 @@
       {
         "geometry": {
           "coordinates": [
+            -95.7129,
+            37.0902
+          ],
+          "type": "Point"
+        },
+        "id": "rec2NVSVX5rbvZefQ",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "mia@aapifund.org",
+          "Date String": "May 8th, 2022",
+          "Description": "Hmonglish is a podcast that explores the intersection of Hmong and American culture. Co-hosts Chef Yia Vang and news anchor Gia Vang have lived their entire lives processing their Hmong-American identities. This program provides a space for them to explore this dual heritage while also educating the populace on Hmong culture with the help of guests and other members of their community.",
+          "Latitude": 37.0902,
+          "Longitude": -95.7129,
+          "Name": "Mia Forsline",
+          "News/Media Outlet": "Apple Podcasts",
+          "Record ID": "rec2NVSVX5rbvZefQ",
+          "State": "Nationwide",
+          "Story Date": "2022-05-08",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2022-06-09T22:49:52.000Z",
+          "Title": "Hmonglish",
+          "URL": "https://podcasts.apple.com/us/podcast/hmonglish/id1623076086",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -87.69874298575817,
             41.95964696914843
           ],
