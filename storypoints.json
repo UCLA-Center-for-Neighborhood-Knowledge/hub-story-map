@@ -1466,6 +1466,38 @@
       {
         "geometry": {
           "coordinates": [
+            -118.1937,
+            33.7701
+          ],
+          "type": "Point"
+        },
+        "id": "recLViwer9lQ4ciXh",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Long Beach",
+          "Contact Info": "mia@aapifund.org",
+          "Date String": "December 1st, 2021",
+          "Description": "Stories that honor or highlight Khmer Rouge survivors.",
+          "Latitude": 33.7701,
+          "Longitude": -118.1937,
+          "Media Embed": "https://youtu.be/gsiv?app=de",
+          "Name": "Mia Forsline",
+          "News/Media Outlet": "YouTube",
+          "Record ID": "recLViwer9lQ4ciXh",
+          "State": "CA",
+          "Story Date": "2021-12-01",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2022-06-09T22:42:15.000Z",
+          "Title": "Cambodian Heroes Project",
+          "URL": "https://www.youtube.com/user/tongsiv?app=desktop&fs=e&s=cl",
+          "youtube_var": "gsiv?app=de"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -89.38174438895659,
             43.07807922870835
           ],
@@ -2507,6 +2539,36 @@
           "Timestamp": "2020-08-28T22:52:50.000Z",
           "Title": "Two COVID-19 Disparities in Summit County: Death Rate High, Asian Residents Disproportionately Affected",
           "URL": "https://spectrumnews1.com/oh/columbus/news/2020/07/01/two-covid-19-disparities-in-summit-county--death-rate-high--asian-residents-disproportionately-affected",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -95.7129,
+            37.0902
+          ],
+          "type": "Point"
+        },
+        "id": "recXCxu4LpfmisgOJ",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "mia@aapifund.org",
+          "Date String": "May 30th, 2022",
+          "Description": "Stories of loss, struggle, change and hope are the most powerful tools we have to understand one another and bridge what divides us.",
+          "Latitude": 37.0902,
+          "Longitude": -95.7129,
+          "Name": "Mia Forsline",
+          "News/Media Outlet": "The New York Times",
+          "Record ID": "recXCxu4LpfmisgOJ",
+          "State": "Nationwide",
+          "Story Date": "2022-05-30",
+          "Story Type": "News story",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2022-06-09T22:36:12.000Z",
+          "Title": "Asian and Black Communities Have a Long History of Shared Solidarity",
+          "URL": "https://www.nytimes.com/2022/05/30/opinion/asian-black-americans-community.html?referringSource=articleShare",
           "youtube_var": " "
         },
         "type": "Feature"
