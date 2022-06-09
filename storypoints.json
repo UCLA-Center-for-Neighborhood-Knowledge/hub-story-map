@@ -1526,7 +1526,7 @@
       {
         "geometry": {
           "coordinates": [
-            -118.1937,
+            -118.19371,
             33.7701
           ],
           "type": "Point"
@@ -1539,7 +1539,7 @@
           "Date String": "December 1st, 2021",
           "Description": "Stories that honor or highlight Khmer Rouge survivors.",
           "Latitude": 33.7701,
-          "Longitude": -118.1937,
+          "Longitude": -118.19371,
           "Media Embed": "https://youtu.be/gsiv?app=de",
           "Name": "Mia Forsline",
           "News/Media Outlet": "YouTube",
