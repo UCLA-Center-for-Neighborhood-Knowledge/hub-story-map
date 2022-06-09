@@ -3025,6 +3025,36 @@
       {
         "geometry": {
           "coordinates": [
+            -95.7129,
+            37.0902
+          ],
+          "type": "Point"
+        },
+        "id": "recaYhGURNjQKEdTi",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "mia@aapifund.org",
+          "Date String": "April 30th, 2022",
+          "Description": "More than 30 years after President George H.W. Bush signed a law that designated May 1990 as the first Asian American and Pacific Islander Heritage Month, much of Asian American history remains unknown to many Americans—including many Asian Americans themselves.",
+          "Latitude": 37.0902,
+          "Longitude": -95.7129,
+          "Name": "Mia Forsline",
+          "News/Media Outlet": "Time",
+          "Record ID": "recaYhGURNjQKEdTi",
+          "State": "Nationwide",
+          "Story Date": "2022-04-30",
+          "Story Type": "News story",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2022-05-02T03:55:47.000Z",
+          "Title": "11 Moments From Asian American History That You Should Know",
+          "URL": "https://time.com/5956943/aapi-history-milestones/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -86.4603,
             35.4834
           ],
@@ -3404,6 +3434,36 @@
           "Timestamp": "2020-08-28T22:21:06.000Z",
           "Title": "Nearly $200,000 in grants could reach Portland small businesses hurt by coronavirus next week",
           "URL": "https://www.oregonlive.com/coronavirus/2020/03/nearly-200000-in-grants-could-reach-portland-small-businesses-hurt-by-coronavirus-next-week.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -95.7129,
+            37.0902
+          ],
+          "type": "Point"
+        },
+        "id": "rechWqjnbvblQy9Fb",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "mia@aapifund.org",
+          "Date String": "April 22nd, 2022",
+          "Description": "When Ram Devineni decided to create India's first female comic superhero, he had plenty of inspiration. Devineni's hero, Priya, travels around the world on a flying tiger named Sahas, helping people find solutions to the problems they face. In the seventh comic of the series, “Priya and the Twirling Wind,” she tackles climate change in northern India and the toxic haze that affects New Delhi.",
+          "Latitude": 37.0902,
+          "Longitude": -95.7129,
+          "Name": "Mia Forsline",
+          "News/Media Outlet": "The World - Environment",
+          "Record ID": "rechWqjnbvblQy9Fb",
+          "State": "Nationwide",
+          "Story Date": "2022-04-22",
+          "Story Type": "News story",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2022-05-02T03:41:17.000Z",
+          "Title": "Superhero Priya tries to rescue New Delhi from air pollution on Earth Day",
+          "URL": "https://theworld.org/stories/2022-04-22/superhero-priya-tries-rescue-new-delhi-air-pollution-earth-day",
           "youtube_var": " "
         },
         "type": "Feature"
