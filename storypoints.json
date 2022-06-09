@@ -390,6 +390,36 @@
       {
         "geometry": {
           "coordinates": [
+            -94.6859,
+            46.7296
+          ],
+          "type": "Point"
+        },
+        "id": "rec7gtFr4JXZN3eEc",
+        "properties": {
+          "Approved for Website": true,
+          "Contact Info": "mia@aapifund.org",
+          "Date String": "June 3rd, 2022",
+          "Description": "I left the immigration office as a Korean citizen, something I hadn’t been since I was a young child. I was brought from South Korea to the United States when I was 9 months old, adopted by an American family in Minnesota. When I was a few years old, I was naturalized as an American citizen. That entailed the forfeiture of my Korean citizenship, a decision I had no choice in as a toddler.",
+          "Latitude": 46.7296,
+          "Longitude": -94.6859,
+          "Name": "Mia Forsline",
+          "News/Media Outlet": "The Washington Post",
+          "Record ID": "rec7gtFr4JXZN3eEc",
+          "State": "MN",
+          "Story Date": "2022-06-03",
+          "Story Type": "News story",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2022-06-09T22:51:02.000Z",
+          "Title": "Why I reclaimed my South Korean citizenship after losing it as a baby",
+          "URL": "https://www.washingtonpost.com/outlook/2022/06/03/citizenship-south-korea-adoption-goal/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -73.85984796797858,
             40.84899514136141
           ],
