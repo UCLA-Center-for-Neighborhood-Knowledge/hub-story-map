@@ -3504,6 +3504,36 @@
       {
         "geometry": {
           "coordinates": [
+            -118.286855,
+            34.084761
+          ],
+          "type": "Point"
+        },
+        "id": "reci8dcJ20PzptxIp",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "October 21st, 2022",
+          "Latitude": 34.084761,
+          "Longitude": -118.286855,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Substack",
+          "Record ID": "reci8dcJ20PzptxIp",
+          "State": "California",
+          "Story Date": "2022-10-21",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2022-10-21T15:11:54.000Z",
+          "Title": "The Fight for L.A.'s Last Japanese Boarding House",
+          "URL": "https://makinganeighborhood.substack.com/p/the-fight-for-las-last-japanese-boarding",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -111.89067078055815,
             40.765110434684054
           ],
