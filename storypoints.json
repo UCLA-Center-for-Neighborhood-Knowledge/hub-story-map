@@ -551,6 +551,37 @@
       {
         "geometry": {
           "coordinates": [
+            -77.009192,
+            38.886854
+          ],
+          "type": "Point"
+        },
+        "id": "recArfzYQofsiPYc5",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Washington, D.C.",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "June 23rd, 2022",
+          "Description": "In \"MINK!,\" Wendy Mink narrates her mother’s groundbreaking rise to power and the startling collision between the personal and political that momentarily derailed the cause of gender equity in America.",
+          "Latitude": 38.886854,
+          "Longitude": -77.009192,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The New York Times",
+          "Record ID": "recArfzYQofsiPYc5",
+          "State": "Washington, D.C.",
+          "Story Date": "2022-06-23",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2022-10-26T18:37:35.000Z",
+          "Title": "MINK! — My Mom Fought For Title IX, but It Almost Didn’t Happen | Op-Docs",
+          "URL": "https://www.nytimes.com/2022/06/23/opinion/patsy-mink-title-ix.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -71.096449,
             42.338483
           ],
