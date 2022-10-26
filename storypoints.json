@@ -970,6 +970,37 @@
       {
         "geometry": {
           "coordinates": [
+            -121.89855,
+            36.613765
+          ],
+          "type": "Point"
+        },
+        "id": "recGXicBgiEVqSF8t",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Monterey",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "September 11th, 2022",
+          "Description": "The Feast of Lanterns featured cultural appropriation, racism, and disrespect of the pageant's residents. This story highlights how crucial it is that Asian Americans view their desire to be treated with dignity as part of a shared endeavor among people of color to fight racism.",
+          "Latitude": 36.613765,
+          "Longitude": -121.89855,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "recGXicBgiEVqSF8t",
+          "State": "California",
+          "Story Date": "2022-09-11",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2022-10-26T19:21:19.000Z",
+          "Title": "A California festival once featured townspeople in yellowface. Will its demise bring healing?",
+          "URL": "https://www.latimes.com/politics/story/2022-09-11/california-lantern-festival-that-offended-asian-americans-ended-can-racial-healing-begin",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -89.3824310344644,
             43.075571463022335
           ],
