@@ -515,6 +515,37 @@
       {
         "geometry": {
           "coordinates": [
+            -149.894351,
+            61.218211
+          ],
+          "type": "Point"
+        },
+        "id": "rec7uMqN1vjcLzQ8Q",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Anchorage",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "October 1st, 2022",
+          "Description": "In September of 2022, Mary Peltola made history when she became first Native Alaskan and woman elected to the U.S. House of Representatives for the Last Frontier State.",
+          "Latitude": 61.218211,
+          "Longitude": -149.894351,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "USA Today",
+          "Record ID": "rec7uMqN1vjcLzQ8Q",
+          "State": "Alaska",
+          "Story Date": "2022-10-01",
+          "Story Type": "News story",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2022-10-26T20:19:31.000Z",
+          "Title": "For first time in 233 years, Native American, Native Alaskan, Native Hawaiian all in U.S. House",
+          "URL": "https://www.usatoday.com/story/news/politics/2022/09/20/mary-peltola-congress-full-american-indigenous-representation/10435679002/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -83.33129883,
             32.31397575
           ],
