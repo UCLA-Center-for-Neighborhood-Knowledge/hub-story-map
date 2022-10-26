@@ -577,6 +577,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.147677,
+            34.194522
+          ],
+          "type": "Point"
+        },
+        "id": "rec9SGpVeM1cDI6gp",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Altadena",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "October 1st, 2022",
+          "Description": "The owner of the Altadena home in California and its one-acre property, learned of the Tongva community’s desire to obtain ancestral lands. In a land transfer made public Monday, the parcel was returned to the Tongva people, marking the first time in nearly 200 years, since the California mission system ended in 1833, that they would have land to call their own.",
+          "Latitude": 34.194522,
+          "Longitude": -118.147677,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "rec9SGpVeM1cDI6gp",
+          "State": "California",
+          "Story Date": "2022-10-01",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2022-10-26T20:23:56.000Z",
+          "Title": "After nearly 200 years, the Tongva community has land in Los Angeles County",
+          "URL": "https://www.latimes.com/california/story/2022-10-10/after-nearly-200-years-the-tongva-community-has-land-in-los-angeles-county",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.16414403915407,
             39.952284032088926
           ],
