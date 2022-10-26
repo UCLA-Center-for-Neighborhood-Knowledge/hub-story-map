@@ -36,6 +36,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.26732,
+            34.031242
+          ],
+          "type": "Point"
+        },
+        "id": "rec0fwWtozj37wX5K",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "June 22nd, 2022",
+          "Description": "Mia Yamamoto, trial lawyer based in California, came out as transgender late in life.",
+          "Latitude": 34.031242,
+          "Longitude": -118.26732,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "AARP",
+          "Record ID": "rec0fwWtozj37wX5K",
+          "State": "California",
+          "Story Date": "2022-06-22",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2022-10-26T19:57:56.000Z",
+          "Title": "California's First Openly Trans Trial Lawyer Fights for Equality for All",
+          "URL": "https://www.aarp.org/home-family/friends-family/info-2022/mia-yamamoto.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -82.552485,
             35.594418
           ],
