@@ -714,6 +714,37 @@
       {
         "geometry": {
           "coordinates": [
+            -117.968176,
+            33.744418
+          ],
+          "type": "Point"
+        },
+        "id": "recD3loHHWaPN6rwe",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "July 4th, 2022",
+          "Description": "In a tight-knit refugee community that generally prospered after coming to this country with nothing, the sight of fellow Vietnamese living on the streets can prompt judgment about how they ended up in this situation.",
+          "Latitude": 33.744418,
+          "Longitude": -117.968176,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "recD3loHHWaPN6rwe",
+          "State": "California",
+          "Story Date": "2022-07-04",
+          "Story Type": "Another form of media",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2022-10-26T18:31:58.000Z",
+          "Title": "O.C.’s Vietnamese homeless people feel like outcasts in a culture of family, achievement",
+          "URL": "https://www.latimes.com/california/story/2022-07-04/vietnamese-homeless-outcasts",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.15284872068152,
             39.91322756166303
           ],
