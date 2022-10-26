@@ -131,6 +131,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.147788,
+            33.784653
+          ],
+          "type": "Point"
+        },
+        "id": "rec2mxxzcJ4jZKALB",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Long Beach",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "September 12th, 2022",
+          "Description": "Phea, now 40, is the first to come home on a pardon, hers issued by Gov. Gavin Newsom. The news has fired up up other deportees seeking clemency from abroad.",
+          "Latitude": 33.784653,
+          "Longitude": -118.147788,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "LAist",
+          "Record ID": "rec2mxxzcJ4jZKALB",
+          "State": "California",
+          "Story Date": "2022-09-12",
+          "Story Type": "News story",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2022-10-26T19:26:27.000Z",
+          "Title": "Deported 11 Years Ago, Cambodian Woman Gets Rare Chance To Return Home To Long Beach",
+          "URL": "https://laist.com/news/deportation-immigration-cambodia-refugee",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -87.69874298575817,
             41.95964696914843
           ],
