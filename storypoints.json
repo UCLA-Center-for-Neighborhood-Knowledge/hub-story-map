@@ -1940,6 +1940,37 @@
       {
         "geometry": {
           "coordinates": [
+            -76.9773,
+            38.890778
+          ],
+          "type": "Point"
+        },
+        "id": "recNSq5tPiIHqXsUA",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Washington, D.C.",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "October 9th, 2022",
+          "Description": "A local high school band in Washington D.C. brings joy to a neighborhood and hope to students aspiring for college.",
+          "Latitude": 38.890778,
+          "Longitude": -76.9773,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The Washington Post",
+          "Record ID": "recNSq5tPiIHqXsUA",
+          "State": "Washington, D.C.",
+          "Story Date": "2022-10-09",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2022-10-27T14:25:05.000Z",
+          "Title": "A broke marching band parades on Capitol Hill to practice. Magic ensues.",
+          "URL": "https://www.washingtonpost.com/dc-md-va/2022/10/08/eastern-marching-band-capitol-hill-dc/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.30421,
             44.909003
           ],
