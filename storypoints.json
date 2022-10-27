@@ -2851,6 +2851,38 @@
       {
         "geometry": {
           "coordinates": [
+            -117.889258,
+            33.715992
+          ],
+          "type": "Point"
+        },
+        "id": "recX3je4dylV4myiq",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Orange County",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "December 8th, 2021",
+          "Description": "This personal story is one of the many video pieces of the Cambodian Heroes Project, honoring genocide survivors from Cambodia through their loved ones. It’s a project created by award winning filmmaker, Michael Siv. ",
+          "Latitude": 33.715992,
+          "Longitude": -117.889258,
+          "Media Embed": "https://youtu.be/e_lf1dUiuhg",
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "YouTube",
+          "Record ID": "recX3je4dylV4myiq",
+          "State": "Los Angeles",
+          "Story Date": "2021-12-08",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2022-10-27T16:30:37.000Z",
+          "Title": "My Strength: Pheou Kim",
+          "URL": "https://www.youtube.com/watch?v=e_lf1dUiuhg",
+          "youtube_var": "e_lf1dUiuhg"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -81.69570922851564,
             41.50545185642846
           ],
