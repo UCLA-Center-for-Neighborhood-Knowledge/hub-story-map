@@ -67,6 +67,37 @@
       {
         "geometry": {
           "coordinates": [
+            -93.090344,
+            44.936429
+          ],
+          "type": "Point"
+        },
+        "id": "rec0sY8O7OrpVQbbr",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Ramsey County",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "November 7th, 2022",
+          "Description": "Malia Lee is one of many Hmong-speaking election judges who are specifically trained by Chou Moua through the Hmong Outreach Network to be interpreters on Election Day. ",
+          "Latitude": 44.936429,
+          "Longitude": -93.090344,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "KARE 11",
+          "Record ID": "rec0sY8O7OrpVQbbr",
+          "State": "Minnesota",
+          "Story Date": "2022-11-07",
+          "Story Type": "News story",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2022-11-18T20:48:42.000Z",
+          "Title": "Malia Lee is one of many Hmong-speaking election judges who are specifically trained by Chou Moua through the Hmong Outreach Network to be interpreters on Election Day. ",
+          "URL": "https://www.kare11.com/article/news/community/lifting-voices/hmong-speaking-election-judges-arent-just-bridging-language-gaps/89-04212f99-9d5f-4cb8-9824-7959d87596b8",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -82.552485,
             35.594418
           ],
