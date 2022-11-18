@@ -4688,6 +4688,37 @@
       {
         "geometry": {
           "coordinates": [
+            -78.826758,
+            35.821858
+          ],
+          "type": "Point"
+        },
+        "id": "recrkgv2t4q1L62Lp",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Wake County",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "November 2nd, 2022",
+          "Description": "An Asian American voter in Cary shared with WRAL News a mailer she received that she believes is intended to mislead.",
+          "Latitude": 35.821858,
+          "Longitude": -78.826758,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "WRAL News",
+          "Record ID": "recrkgv2t4q1L62Lp",
+          "State": "North Carolina",
+          "Story Date": "2022-11-02",
+          "Story Type": "News story",
+          "Theme v2": "Anti-Asian Incidents of Violence",
+          "Timestamp": "2022-11-18T20:45:30.000Z",
+          "Title": "Asian American group: Election mailer misleads to discourage voters",
+          "URL": "https://www.wral.com/asian-american-group-election-mailer-misleads-to-discourage-voters/20552107/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -78.65019285682139,
             35.780592376200346
           ],
