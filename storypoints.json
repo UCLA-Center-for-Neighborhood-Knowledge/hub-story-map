@@ -1318,6 +1318,37 @@
       {
         "geometry": {
           "coordinates": [
+            -109.219852,
+            36.031454
+          ],
+          "type": "Point"
+        },
+        "id": "recHlxh8sJb1PBxCw",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Apache County",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "November 21st, 2022",
+          "Description": "Hilary Tompkins, born into the Salt Clan but adopted by white parents, discuss the importance of Navajo sovereignty and community for Navajo-born children up for adoption.",
+          "Latitude": 36.031454,
+          "Longitude": -109.219852,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "CNN",
+          "Record ID": "recHlxh8sJb1PBxCw",
+          "State": "Navajo Nation",
+          "Story Date": "2022-11-21",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2022-12-02T15:37:07.000Z",
+          "Title": "Opinion: I’m a Jersey girl born into the Salt Clan. My Navajo identity was taken from me",
+          "URL": "https://www.cnn.com/2022/11/21/opinions/native-american-supreme-court-adoptions-icwa-tompkins/index.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -97.87994384765626,
             39.43390596272554
           ],
