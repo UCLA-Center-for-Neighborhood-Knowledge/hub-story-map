@@ -3620,6 +3620,37 @@
       {
         "geometry": {
           "coordinates": [
+            -124.16761,
+            40.803561
+          ],
+          "type": "Point"
+        },
+        "id": "receMgj8Je5kxiuu7",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Eureka",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "November 12th, 2022",
+          "Description": "A family moves to Eureka, CA and learns a dark and hidden history that kept Chinese Americans out of their town.",
+          "Latitude": 40.803561,
+          "Longitude": -124.16761,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "receMgj8Je5kxiuu7",
+          "State": "California",
+          "Story Date": "2022-11-12",
+          "Story Type": "News story",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2022-12-02T15:23:51.000Z",
+          "Title": "This California town ran its Chinese residents out. Now the story is finally being told",
+          "URL": "https://www.latimes.com/california/story/2022-11-12/la-me-eureka-chinatown-history",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.105672,
             40.009819
           ],
