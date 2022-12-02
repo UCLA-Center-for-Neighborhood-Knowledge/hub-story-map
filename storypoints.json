@@ -4463,6 +4463,37 @@
       {
         "geometry": {
           "coordinates": [
+            -120.530461,
+            46.390333
+          ],
+          "type": "Point"
+        },
+        "id": "recpJQtcpAdUuvF9b",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Wapato",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "November 10th, 2022",
+          "Description": "In the face of discrimination and hate, the Inabas and the Yakama Nation forged a bond through a farm in eastern Washington that has lasted for more than 100 years.",
+          "Latitude": 46.390333,
+          "Longitude": -120.530461,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "New York Times",
+          "Record ID": "recpJQtcpAdUuvF9b",
+          "State": "Washington",
+          "Story Date": "2022-11-10",
+          "Story Type": "News story",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2022-12-02T15:21:55.000Z",
+          "Title": "A Japanese American Family, a Native American Tribe and a Bountiful Friendship",
+          "URL": "https://www.nytimes.com/2022/11/10/us/yakama-nation-japanese-farm.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.151924,
             39.956074
           ],
