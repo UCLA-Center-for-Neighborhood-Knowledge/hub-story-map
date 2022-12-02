@@ -450,6 +450,37 @@
       {
         "geometry": {
           "coordinates": [
+            -77.171448,
+            38.88616
+          ],
+          "type": "Point"
+        },
+        "id": "rec7SQwnodNoFohsf",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Falls Church",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "November 22nd, 2022",
+          "Description": "The former NAACP legal secretary married Marshall in 1955 and burnished his reputation as the leading legal architect of the civil rights movement",
+          "Latitude": 38.88616,
+          "Longitude": -77.171448,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The Washington Post",
+          "Record ID": "rec7SQwnodNoFohsf",
+          "State": "Virginia",
+          "Story Date": "2022-11-22",
+          "Story Type": "News story",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2022-12-02T15:45:04.000Z",
+          "Title": "Cecilia ‘Cissy’ Marshall, keeper of Thurgood Marshall’s legacy, dies at 94",
+          "URL": "https://www.washingtonpost.com/obituaries/2022/11/22/cissy-marshall-thurgood-dead/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -122.42250823765063,
             37.75478945821775
           ],
