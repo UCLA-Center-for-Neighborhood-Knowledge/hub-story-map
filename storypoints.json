@@ -796,6 +796,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.390704,
+            33.838946
+          ],
+          "type": "Point"
+        },
+        "id": "rec9pDEsxjkpd60wb",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Redondo Beach",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "December 20th, 2022",
+          "Description": "Mitsuki Hara is hiding amid the undulating kelp forests 30 feet below the surface of the ocean. In her arms is a 4-foot-6-inch speargun — almost as tall as she is — that she’s training on white sea bass, the elusive “gray ghosts” of California. ",
+          "Latitude": 33.838946,
+          "Longitude": -118.390704,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "rec9pDEsxjkpd60wb",
+          "State": "California",
+          "Story Date": "2022-12-20",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-01-05T20:46:53.000Z",
+          "Title": "She breaks records hunting underwater ‘ghosts’ — with a spear almost as big as she is",
+          "URL": "https://www.latimes.com/lifestyle/story/2022-12-20/los-angeles-sustainable-spearfishing-diver-mitsuki-hara",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.26549720593904,
             44.977244832313346
           ],
