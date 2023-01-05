@@ -386,6 +386,37 @@
       {
         "geometry": {
           "coordinates": [
+            72.623249,
+            46.664795
+          ],
+          "type": "Point"
+        },
+        "id": "rec5bk3qe43rUDYEx",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Hérouxville",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "December 17th, 2022",
+          "Description": "“We’ve had a break from our past,” said Bernard Thompson, Hérouxville’s mayor and a onetime supporter of the code. “We now want as many immigrants as possible.” ",
+          "Latitude": 46.664795,
+          "Longitude": 72.623249,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The New York Times",
+          "Record ID": "rec5bk3qe43rUDYEx",
+          "State": "Quebec, CA",
+          "Story Date": "2022-12-17",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-01-05T20:45:23.000Z",
+          "Title": "How a Town Famous for Xenophobia Fell in Love With Immigrants",
+          "URL": "https://www.nytimes.com/2022/12/17/world/canada/quebec-immigrants-xenophobia.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -81.638671,
             41.250062
           ],
