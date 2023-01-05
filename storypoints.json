@@ -386,7 +386,7 @@
       {
         "geometry": {
           "coordinates": [
-            72.623249,
+            -72.623249,
             46.664795
           ],
           "type": "Point"
@@ -399,7 +399,7 @@
           "Date String": "December 17th, 2022",
           "Description": "“We’ve had a break from our past,” said Bernard Thompson, Hérouxville’s mayor and a onetime supporter of the code. “We now want as many immigrants as possible.” ",
           "Latitude": 46.664795,
-          "Longitude": 72.623249,
+          "Longitude": -72.623249,
           "Name": "Jenny Lee",
           "News/Media Outlet": "The New York Times",
           "Record ID": "rec5bk3qe43rUDYEx",
