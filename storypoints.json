@@ -5327,6 +5327,37 @@
       {
         "geometry": {
           "coordinates": [
+            -122.269596,
+            37.804246
+          ],
+          "type": "Point"
+        },
+        "id": "rectkynHebt7BkuhI",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Oakland",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "December 28th, 2022",
+          "Description": "Sheng Thao, the daughter of refugees, will become the most prominent Hmong American politician when she leads the California city of 440,000 residents. ",
+          "Latitude": 37.804246,
+          "Longitude": -122.269596,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The New York Times",
+          "Record ID": "rectkynHebt7BkuhI",
+          "State": "California",
+          "Story Date": "2022-12-28",
+          "Story Type": "News story",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-01-05T20:38:21.000Z",
+          "Title": "Oakland’s Next Mayor Highlights Political Rise of Hmong Americans",
+          "URL": "https://www.nytimes.com/2022/12/28/us/elections/oakland-mayor-sheng-thao-hmong-american.html?smid=nytcore-ios-share&referringSource=articleShare",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -77.04904175014237,
             38.81064032094063
           ],
