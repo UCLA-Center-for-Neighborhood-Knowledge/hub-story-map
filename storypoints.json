@@ -3779,6 +3779,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.294179,
+            34.136288
+          ],
+          "type": "Point"
+        },
+        "id": "recfnt4YXan3FU1oj",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "December 20th, 2022",
+          "Description": "Indigenous animals and humans have a connection to the Los Angeles basin. ",
+          "Latitude": 34.136288,
+          "Longitude": -118.294179,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "recfnt4YXan3FU1oj",
+          "State": "California",
+          "Story Date": "2022-12-20",
+          "Story Type": "News story",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-01-05T20:32:39.000Z",
+          "Title": "‘He mirrors us.’ Tongva artists see the Indigenous story in the tragedy of P-22.",
+          "URL": "https://www.latimes.com/california/story/2022-12-20/he-mirrors-us-tongva-artists-see-the-indigenous-story-in-the-tragedy-of-p-22",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -106.63317632635882,
             35.06571188923899
           ],
