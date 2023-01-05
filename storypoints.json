@@ -322,6 +322,37 @@
       {
         "geometry": {
           "coordinates": [
+            -71.116928,
+            42.376591
+          ],
+          "type": "Point"
+        },
+        "id": "rec5Z79T5bRO9bUmR",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Cambridge",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "December 2nd, 2022",
+          "Description": "“It is a little sad now that I think about it,” Ms. Li, 20, said in a recent interview. “I wasn’t really able to talk about the activities that meant the most to me.” ",
+          "Latitude": 42.376591,
+          "Longitude": -71.116928,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The New York Times",
+          "Record ID": "rec5Z79T5bRO9bUmR",
+          "State": "Massachusetts",
+          "Story Date": "2022-12-02",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-01-05T20:40:57.000Z",
+          "Title": "Applying to College, and Trying to Appear ‘Less Asian’",
+          "URL": "https://www.nytimes.com/2022/12/02/us/asian-american-college-applications.html?login=smartlock&auth=login-smartlock",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -87.63559520244598,
             41.85433058883432
           ],
