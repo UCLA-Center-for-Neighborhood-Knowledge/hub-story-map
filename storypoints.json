@@ -2617,6 +2617,37 @@
       {
         "geometry": {
           "coordinates": [
+            -77.034757,
+            38.899012
+          ],
+          "type": "Point"
+        },
+        "id": "recTjgbXfFeWpFBHh",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Washington D.C.",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "December 2nd, 2022",
+          "Description": "“This is a valuable component of being able to face not only climate change but the preservation and protection of all of our resources.” ",
+          "Latitude": 38.899012,
+          "Longitude": -77.034757,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The White House",
+          "Record ID": "recTjgbXfFeWpFBHh",
+          "State": "Washington D.C.",
+          "Story Date": "2022-12-02",
+          "Story Type": "News story",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-01-05T20:35:24.000Z",
+          "Title": "What is “Indigenous Knowledge” And Why Does It Matter? Integrating Ancestral Wisdom and Approaches into Federal Decision-Making",
+          "URL": "https://www.whitehouse.gov/ostp/news-updates/2022/12/02/what-is-indigenous-knowledge-and-why-does-it-matter-integrating-ancestral-wisdom-and-approaches-into-federal-decision-making/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -94.175952,
             45.540135
           ],
