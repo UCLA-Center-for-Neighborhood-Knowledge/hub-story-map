@@ -1086,6 +1086,37 @@
       {
         "geometry": {
           "coordinates": [
+            -74.003357,
+            40.71401
+          ],
+          "type": "Point"
+        },
+        "id": "recDfvQhlzBgJWxbT",
+        "properties": {
+          "Approved for Website": true,
+          "City": "New York City",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "November 28th, 2022",
+          "Description": "Scholar Catherine Ceniza Choy discusses the histories — and futures — of Asian Americans.",
+          "Latitude": 40.71401,
+          "Longitude": -74.003357,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Truthout",
+          "Record ID": "recDfvQhlzBgJWxbT",
+          "State": "New York",
+          "Story Date": "2022-11-28",
+          "Story Type": "Another form of media",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2023-01-05T20:50:51.000Z",
+          "Title": "Knowledge of Asian American Histories Strengthens Fight Against Racist Violence",
+          "URL": "https://truthout.org/articles/knowledge-of-asian-american-histories-strengthens-fight-against-racist-violence/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.15284872068152,
             39.91322756166303
           ],
