@@ -701,7 +701,7 @@
       {
         "geometry": {
           "coordinates": [
-            74.014722,
+            -74.014722,
             40.71223
           ],
           "type": "Point"
@@ -714,7 +714,7 @@
           "Date String": "December 6th, 2022",
           "Description": "Yeoh turned down everything that perpetuated harmful tropes about Asian women, ultimately portraying characters who are full, complex people. ",
           "Latitude": 40.71223,
-          "Longitude": 74.014722,
+          "Longitude": -74.014722,
           "Name": "Jenny Lee",
           "News/Media Outlet": "TIME Magazine",
           "Record ID": "rec8anfbazQbdqGj0",
