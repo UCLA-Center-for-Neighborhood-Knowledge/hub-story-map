@@ -670,6 +670,37 @@
       {
         "geometry": {
           "coordinates": [
+            74.014722,
+            40.71223
+          ],
+          "type": "Point"
+        },
+        "id": "rec8anfbazQbdqGj0",
+        "properties": {
+          "Approved for Website": true,
+          "City": "New York City",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "December 6th, 2022",
+          "Description": "Yeoh turned down everything that perpetuated harmful tropes about Asian women, ultimately portraying characters who are full, complex people. ",
+          "Latitude": 40.71223,
+          "Longitude": 74.014722,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "TIME Magazine",
+          "Record ID": "rec8anfbazQbdqGj0",
+          "State": "New York",
+          "Story Date": "2022-12-06",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-01-05T20:43:06.000Z",
+          "Title": "2022 TIME ICON OF THE YEAR: MICHELLE YEOH",
+          "URL": "https://time.com/icon-of-the-year-2022-michelle-yeoh/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -118.147677,
             34.194522
           ],
