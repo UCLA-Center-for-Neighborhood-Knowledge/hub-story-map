@@ -290,6 +290,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.21163,
+            34.138008
+          ],
+          "type": "Point"
+        },
+        "id": "rec3TB3EnWwzS2Gur",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles ",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "July 14th, 2022",
+          "Description": "Sitting with Ana Cho in the pottery studio behind her Eagle Rock bungalow, it’s hard to believe the relaxed ceramist once endured a work grind so stressful, she left a lucrative career as a video game designer. ",
+          "Latitude": 34.138008,
+          "Longitude": -118.21163,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "rec3TB3EnWwzS2Gur",
+          "State": "California",
+          "Story Date": "2022-07-14",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-01-05T20:48:38.000Z",
+          "Title": "After burning out making video games, she quit and found bliss at the potter’s wheel",
+          "URL": "https://www.latimes.com/lifestyle/story/2022-07-14/after-burnout-video-game-designer-quits-to-start-new-career-in-pottery-woodworking",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -77.43253326625563,
             37.53698898161375
           ],
@@ -3607,6 +3638,37 @@
           "Timestamp": "2022-05-02T03:55:47.000Z",
           "Title": "11 Moments From Asian American History That You Should Know",
           "URL": "https://time.com/5956943/aapi-history-milestones/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -122.271116,
+            37.799625
+          ],
+          "type": "Point"
+        },
+        "id": "recazbERIQ4P7W9We",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Oakland",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "August 21st, 2021",
+          "Description": "ARRIVING captures—in their own words—stories of Asian American and Pacific Islander individuals inside prisons, detained by ICE, or recently released from ICE or prisons, as well as stories from impacted family members. ",
+          "Latitude": 37.799625,
+          "Longitude": -122.271116,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Asian Prisoner Support",
+          "Record ID": "recazbERIQ4P7W9We",
+          "State": "California",
+          "Story Date": "2021-08-21",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-01-05T21:08:11.000Z",
+          "Title": "ARRIVING: Freedom Writings of Asian and Pacific Islanders",
+          "URL": "https://www.asianprisonersupport.com/arriving-freedom-writings-of-asian-and-pacific-islanders",
           "youtube_var": " "
         },
         "type": "Feature"
