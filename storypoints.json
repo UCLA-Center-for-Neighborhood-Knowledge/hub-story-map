@@ -479,6 +479,37 @@
       {
         "geometry": {
           "coordinates": [
+            -74.77086772209836,
+            40.22054858417998
+          ],
+          "type": "Point"
+        },
+        "id": "rec5y6RxC11cx3SqX",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Trenton",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "February 18th, 2022",
+          "Description": "Here in New Jersey, a multiracial and multifaith coalition led by the New Jersey Institute for Social Justice’s Say the Word campaign has been calling for action on Reparations Task Force Bill (A938/S386), a bill with diverse co-sponsors that would require New Jersey to study its role in slavery and to make policy recommendations.",
+          "Latitude": 40.22054858417998,
+          "Longitude": -74.77086772209836,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "New Jersey Monitor",
+          "Record ID": "rec5y6RxC11cx3SqX",
+          "State": "New Jersey",
+          "Story Date": "2022-02-18",
+          "Story Type": "Another form of media",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2023-01-27T16:57:26.000Z",
+          "Title": "Reparations are possible — they happened for Asian Americans | Opinion",
+          "URL": "https://newjerseymonitor.com/2022/02/18/reparations-are-possible-they-happened-for-asian-americans-opinion/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -81.638671,
             41.250062
           ],
