@@ -4152,6 +4152,37 @@
       {
         "geometry": {
           "coordinates": [
+            -74.77086772209836,
+            40.22054858417998
+          ],
+          "type": "Point"
+        },
+        "id": "recfyCf6fBqOAeLu2",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Trenton",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "October 27th, 2022",
+          "Description": "The model minority myth — a false white supremacist notion which hurts Asian Americans so deeply — was born out of anti-Blackness. And when we East Asians talk about reparations, we must realize why people that look like us received them and why Black families have not been able to.",
+          "Latitude": 40.22054858417998,
+          "Longitude": -74.77086772209836,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "New Jersey Spotlight News",
+          "Record ID": "recfyCf6fBqOAeLu2",
+          "State": "New Jersey",
+          "Story Date": "2022-10-27",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-01-27T17:00:19.000Z",
+          "Title": "Reparations: The payment — and the cost — to one Japanese American woman",
+          "URL": "https://www.njspotlightnews.org/2022/10/reparations-japanese-american-world-war-ii-interned-20000-compensation-black-americans-slavery-no-reparations/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -106.63317632635882,
             35.06571188923899
           ],
