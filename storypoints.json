@@ -417,6 +417,37 @@
       {
         "geometry": {
           "coordinates": [
+            -86.523329,
+            39.168499
+          ],
+          "type": "Point"
+        },
+        "id": "rec5aw9Iz9sUiXZO7",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Bloomington",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "January 19th, 2023",
+          "Description": "“There’s a lot of people here who are just so willing to help even if they aren’t your best friends,” Zhang said of the Asian American community. “We all have a mutual understanding of this fear and have all at one point experienced it, or know someone who has experienced it.” ",
+          "Latitude": 39.168499,
+          "Longitude": -86.523329,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "NBC News",
+          "Record ID": "rec5aw9Iz9sUiXZO7",
+          "State": "Indiana",
+          "Story Date": "2023-01-19",
+          "Story Type": "Incident in my commmunity",
+          "Theme v2": "Anti-Asian Incidents of Violence",
+          "Timestamp": "2023-01-27T16:48:29.000Z",
+          "Title": "After Indiana Univ. stabbing, Asian American students say they haven’t received enough support from school",
+          "URL": "https://www.nbcnews.com/news/asian-america/indiana-univ-stabbing-asian-american-students-say-havent-received-enou-rcna66386",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -72.623249,
             46.664795
           ],
