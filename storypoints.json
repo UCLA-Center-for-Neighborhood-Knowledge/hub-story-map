@@ -5861,6 +5861,37 @@
       {
         "geometry": {
           "coordinates": [
+            -73.99988200238505,
+            40.71739680177908
+          ],
+          "type": "Point"
+        },
+        "id": "recwYoQWg8NgV9Gr8",
+        "properties": {
+          "Approved for Website": true,
+          "City": "New York City",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "January 22nd, 2023",
+          "Description": "Archive as Memorial gathers oral histories, artifacts, art installations, and other documents of AAPI experiences during the pandemic.",
+          "Latitude": 40.71739680177908,
+          "Longitude": -73.99988200238505,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Hyperallergic",
+          "Record ID": "recwYoQWg8NgV9Gr8",
+          "State": "New York",
+          "Story Date": "2023-01-22",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-01-27T16:52:09.000Z",
+          "Title": "Empty Chinatown Storefront Becomes a Community Tribute",
+          "URL": "https://hyperallergic.com/794924/empty-chinatown-storefront-becomes-a-community-tribute/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.181466,
             39.943291
           ],
