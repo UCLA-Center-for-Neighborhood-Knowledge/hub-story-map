@@ -6083,6 +6083,37 @@
       {
         "geometry": {
           "coordinates": [
+            -74.21270860238165,
+            40.83083550924856
+          ],
+          "type": "Point"
+        },
+        "id": "recy10PZobkBLmaKh",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Montclair",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "May 22nd, 2021",
+          "Description": "About 1,200 white paper lanterns illuminated Edgemont Memorial Park Friday evening, in tribute to victims of racial violence and injustice.",
+          "Latitude": 40.83083550924856,
+          "Longitude": -74.21270860238165,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Montclair Local",
+          "Record ID": "recy10PZobkBLmaKh",
+          "State": "New Jersey",
+          "Story Date": "2021-05-22",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-01-27T18:39:00.000Z",
+          "Title": "Lanterns light Edgemont Park, to support AAPI families and all victims of hate",
+          "URL": "https://montclairlocal.news/lanterns-light-edgemont-park-to-support-aapi-families-and-all-victims-of-hate/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -89.38380432548003,
             43.076574580081704
           ],
