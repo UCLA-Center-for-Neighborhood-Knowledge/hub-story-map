@@ -4248,6 +4248,37 @@
       {
         "geometry": {
           "coordinates": [
+            -74.118989,
+            40.977665
+          ],
+          "type": "Point"
+        },
+        "id": "recgjNg3aQqIVzlr8",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Bergen County",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "October 21st, 2022",
+          "Description": "New Jersey is the fourth most diverse state in America, according to a 2022 WalletHub study. As more people from all backgrounds step up to run for office, our elected officials will represent the new constituencies eager to have their voices heard.",
+          "Latitude": 40.977665,
+          "Longitude": -74.118989,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "NorthJersey.com",
+          "Record ID": "recgjNg3aQqIVzlr8",
+          "State": "New Jersey",
+          "Story Date": "2022-10-21",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-01-27T18:28:54.000Z",
+          "Title": "How NJ Asian voters want their voices heard in politics",
+          "URL": "https://www.northjersey.com/story/news/columnists/2022/10/21/nj-asian-voters-want-their-voices-heard-in-politics/69576680007/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -122.67516824198539,
             45.52508661632931
           ],
