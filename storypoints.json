@@ -1148,6 +1148,38 @@
       {
         "geometry": {
           "coordinates": [
+            -118.141018,
+            34.053622
+          ],
+          "type": "Point"
+        },
+        "id": "recDCnSZZ4GhC0Bdc",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Monterey Park",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "January 23rd, 2023",
+          "Description": "“In New York City and around the country we are triggered, we have PTSD from this,” said Jo-Ann Yoo, the executive director of the Asian American Federation, a coalition of 70 groups in the city. ",
+          "Grantee Org": "Asian American Federation of New York",
+          "Latitude": 34.053622,
+          "Longitude": -118.141018,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Spectrum News NY1",
+          "Record ID": "recDCnSZZ4GhC0Bdc",
+          "State": "California",
+          "Story Date": "2023-01-23",
+          "Story Type": "Incident in my commmunity",
+          "Theme v2": "Anti-Asian Incidents of Violence",
+          "Timestamp": "2023-01-27T16:49:50.000Z",
+          "Title": "Anti-gun violence activists demand action after mass shooting",
+          "URL": "https://www.ny1.com/nyc/all-boroughs/politics/2023/01/24/anti-gun-violence-activists-demand-action-after-mass-shooting",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -74.003357,
             40.71401
           ],
