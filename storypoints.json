@@ -321,6 +321,38 @@
       {
         "geometry": {
           "coordinates": [
+            -87.631402,
+            41.879416
+          ],
+          "type": "Point"
+        },
+        "id": "rec5Bp6kxHNVo3nFg",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Chicago",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "March 18th, 2022",
+          "Description": "Various studies have found that most American history lessons and textbooks fail to illuminate the diversity of AAPI experiences and identities – often reinforcing the perception of AAPIs as foreigners or outsiders, and suggesting AAPI history is somehow distinct and separate from American history.",
+          "Grantee Org": "Asian Americans Advancing Justice | Chicago",
+          "Latitude": 41.879416,
+          "Longitude": -87.631402,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "CNN",
+          "Record ID": "rec5Bp6kxHNVo3nFg",
+          "State": "Illinois",
+          "Story Date": "2022-03-18",
+          "Story Type": "Another form of media",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2023-01-27T18:26:55.000Z",
+          "Title": "Our educational shortcomings drive anti-AAPI sentiment",
+          "URL": "https://www.cnn.com/2022/03/18/opinions/asian-american-history-education-aapi-hate-crimes-murphy-pritzker/index.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -77.43253326625563,
             37.53698898161375
           ],
