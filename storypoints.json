@@ -4437,6 +4437,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.137541,
+            34.049859
+          ],
+          "type": "Point"
+        },
+        "id": "reciTaT46QIpKTsuA",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Monterey Park",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "January 27th, 2023",
+          "Description": "Hamid Khan, an organizer with the Los Angeles anti-police group, Stop LAPD Spying, say’s that the Monterey Park shooting is an example of how cops don’t keep communities safe, “the community itself, keeps itself safe.”",
+          "Latitude": 34.049859,
+          "Longitude": -118.137541,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "L.A. Taco",
+          "Record ID": "reciTaT46QIpKTsuA",
+          "State": "California ",
+          "Story Date": "2023-01-27",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-01-30T19:54:42.000Z",
+          "Title": "Minutes before Monterey Park mass shooting, SWAT teams were relieved of duty",
+          "URL": "https://www.lataco.com/monterey-park-shooting-swat-teams/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -111.89067078055815,
             40.765110434684054
           ],
