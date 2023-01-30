@@ -2800,6 +2800,37 @@
       {
         "geometry": {
           "coordinates": [
+            -73.33353536555327,
+            40.84021080191416
+          ],
+          "type": "Point"
+        },
+        "id": "recSf0Sqwrl88uQM1",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Monterey Park",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "January 27th, 2023",
+          "Description": "The dance studio has become a sanctuary in the majority-Asian city, where dancers of all skill levels and ages can sashay, twirl and swing, newcomers and experts alike. For many older Asian Americans, often immigrants, the dance hall has provided a sense of belonging and community. But on Jan. 21, that community was shattered when Star Ballroom Dance Studio became the site of one of California’s worst mass shootings in recent history.",
+          "Latitude": 40.84021080191416,
+          "Longitude": -73.33353536555327,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The Los Angeles Times",
+          "Record ID": "recSf0Sqwrl88uQM1",
+          "State": "California",
+          "Story Date": "2023-01-27",
+          "Story Type": "News story",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-01-30T19:50:54.000Z",
+          "Title": "Honoring the lives lost in the Monterey Park mass shooting",
+          "URL": "https://www.latimes.com/projects/monterey-park-shooting-victims-tribute/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -89.38311767997222,
             43.07296327952303
           ],
