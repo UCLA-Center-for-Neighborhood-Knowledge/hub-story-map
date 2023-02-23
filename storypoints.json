@@ -321,6 +321,37 @@
       {
         "geometry": {
           "coordinates": [
+            -122.4799297736348,
+            37.72426798565647
+          ],
+          "type": "Point"
+        },
+        "id": "rec3lsCUMGE5okGCj",
+        "properties": {
+          "Approved for Website": true,
+          "City": "San Francisco",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "February 14th, 2023",
+          "Description": "In this op-ed, a leading disability rights activist talks about learning to lean on her community.",
+          "Latitude": 37.72426798565647,
+          "Longitude": -122.4799297736348,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Teen Vogue",
+          "Record ID": "rec3lsCUMGE5okGCj",
+          "State": "California",
+          "Story Date": "2023-02-14",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-02-23T17:17:13.000Z",
+          "Title": "Alice Wong on Hospitalization, Crowdfunding Medical Care, and Finding Love In Community",
+          "URL": "https://www.teenvogue.com/story/alice-wong-hospitalization-crowdfunding-community",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -87.631402,
             41.879416
           ],
