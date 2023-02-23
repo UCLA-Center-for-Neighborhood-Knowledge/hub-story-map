@@ -4117,6 +4117,37 @@
       {
         "geometry": {
           "coordinates": [
+            -72.73365362595632,
+            41.78690075288804
+          ],
+          "type": "Point"
+        },
+        "id": "rece059EmwVbs7LwZ",
+        "properties": {
+          "Approved for Website": true,
+          "City": "West Hartford",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "January 31st, 2023",
+          "Description": "Lhakpa Sherpa has climbed Mount Everest 10 times, the most ascents ever by a woman. She has no plans of slowing down.",
+          "Latitude": 41.78690075288804,
+          "Longitude": -72.73365362595632,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The New York Times",
+          "Record ID": "rece059EmwVbs7LwZ",
+          "State": "Connecticut",
+          "Story Date": "2023-01-31",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-02-23T18:31:54.000Z",
+          "Title": "The Queen of Everest Trains While Working at Whole Foods",
+          "URL": "https://www.nytimes.com/2023/01/31/sports/lhakpa-sherpa-everest.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.265,
             44.9778
           ],
