@@ -6270,6 +6270,37 @@
       {
         "geometry": {
           "coordinates": [
+            -73.951873,
+            40.663913
+          ],
+          "type": "Point"
+        },
+        "id": "recyF6RomjLLN0GYv",
+        "properties": {
+          "Approved for Website": true,
+          "City": "New York City",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "February 23rd, 2023",
+          "Description": "We asked Asian Americans form all walks of life to share their stories of being trapped by and breaking out of the boxes they’ve been placed in.\n\n",
+          "Latitude": 40.663913,
+          "Longitude": -73.951873,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "We Are More",
+          "Record ID": "recyF6RomjLLN0GYv",
+          "State": "New York",
+          "Story Date": "2023-02-23",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-02-23T17:17:33.000Z",
+          "Title": "We Are More",
+          "URL": "https://www.morethan.art/stories",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -89.38380432548003,
             43.076574580081704
           ],
