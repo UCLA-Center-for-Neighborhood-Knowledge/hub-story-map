@@ -1820,6 +1820,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.26149560075768,
+            34.05937581122298
+          ],
+          "type": "Point"
+        },
+        "id": "recI7HoPpqqPFbNBS",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "February 21st, 2023",
+          "Description": "More Asian Americans are turning out to vote than ever before, but to what extent do they participate in other civic and political activities? A survey of Asian Americans in California provides some answers.",
+          "Latitude": 34.05937581122298,
+          "Longitude": -118.26149560075768,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Carnegie Endowment for International Peace",
+          "Record ID": "recI7HoPpqqPFbNBS",
+          "State": "California",
+          "Story Date": "2023-02-21",
+          "Story Type": "Another form of media",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2023-02-23T17:26:07.000Z",
+          "Title": "Civic and Political Life of California’s Asian Americans",
+          "URL": "https://carnegieendowment.org/2023/02/21/civic-and-political-life-of-california-s-asian-americans-pub-89064",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.40786457127253,
             44.92721161580861
           ],
