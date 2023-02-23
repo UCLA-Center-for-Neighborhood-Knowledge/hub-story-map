@@ -5599,6 +5599,38 @@
       {
         "geometry": {
           "coordinates": [
+            -89.4163516423289,
+            43.03321204453179
+          ],
+          "type": "Point"
+        },
+        "id": "rect5gDHksu0FNRtU",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Madison",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "June 21st, 2021",
+          "Description": "Deportation impacts the whole family and community. Freedom, Inc has been fighting against the deportation of Southeast Asians for the last 20 years and has been centering the voices of women, children, and those who identify as LGBTQI+.",
+          "Grantee Org": "Freedom, Inc.",
+          "Latitude": 43.03321204453179,
+          "Longitude": -89.4163516423289,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Freedom, Inc.",
+          "Record ID": "rect5gDHksu0FNRtU",
+          "State": "Wisconsin",
+          "Story Date": "2021-06-21",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-02-23T17:02:11.000Z",
+          "Title": "Join us and pledge to support the end of Southeast Asian Deportation",
+          "URL": "https://www.facebook.com/watch/?v=468082307624617&extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&mibextid=2Rb1fB&ref=sharing",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -71.05517584830524,
             42.32870216575532
           ],
