@@ -4500,6 +4500,37 @@
       {
         "geometry": {
           "coordinates": [
+            -78.638565,
+            35.783937
+          ],
+          "type": "Point"
+        },
+        "id": "recjBwVt4d546I6MS",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Raleigh",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "February 10th, 2023",
+          "Description": "Asian Americans are the fastest growing racial or ethnic group in the United States — and that growth has been especially rapid in the Southeast. While most Asian Americans still reside on the West Coast, the second greatest proportion lives below the Mason-Dixon Line.",
+          "Latitude": 35.783937,
+          "Longitude": -78.638565,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Facing South",
+          "Record ID": "recjBwVt4d546I6MS",
+          "State": "North Carolina",
+          "Story Date": "2023-02-10",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-02-23T17:05:08.000Z",
+          "Title": "The South's Asian American population is booming — and diverse",
+          "URL": "https://www.facingsouth.org/2023/02/souths-asian-american-population-booming-and-diverse",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -106.64785767439753,
             35.07982558444753
           ],
