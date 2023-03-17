@@ -1913,6 +1913,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.32699368868735,
+            34.10341192063279
+          ],
+          "type": "Point"
+        },
+        "id": "recIDGIdPcUwNButi",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "March 13th, 2023",
+          "Description": "The futuristic film from the studio A24 won seven awards, including for best picture, directing and in three of the four acting categories.",
+          "Latitude": 34.10341192063279,
+          "Longitude": -118.32699368868735,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The New York Times",
+          "Record ID": "recIDGIdPcUwNButi",
+          "State": "California",
+          "Story Date": "2023-03-13",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-03-17T19:27:39.000Z",
+          "Title": "‘Everything Everywhere All at Once’ Is Big Winner at the Oscars",
+          "URL": "https://www.nytimes.com/2023/03/13/movies/oscars-everything-everywhere-all-at-once.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.40786457127253,
             44.92721161580861
           ],
