@@ -3803,6 +3803,37 @@
       {
         "geometry": {
           "coordinates": [
+            -81.377008,
+            28.527564
+          ],
+          "type": "Point"
+        },
+        "id": "recaOX9ij1SmyNyRE",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Orlando",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "February 24th, 2023",
+          "Description": "Momentum for requiring instruction of Asian American and Pacific Islander history in K-12 curriculum nationwide continues to grow—including in states like Florida where legislation restricts how topics of race can be taught in schools.",
+          "Latitude": 28.527564,
+          "Longitude": -81.377008,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "EdWeek",
+          "Record ID": "recaOX9ij1SmyNyRE",
+          "State": "Florida",
+          "Story Date": "2023-02-24",
+          "Story Type": "News story",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2023-03-17T18:46:31.000Z",
+          "Title": "The Demand for Asian American History Is Growing. See Where",
+          "URL": "https://www.edweek.org/teaching-learning/the-demand-for-asian-american-history-is-growing-see-where/2023/02",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -72.517,
             42.3709
           ],
