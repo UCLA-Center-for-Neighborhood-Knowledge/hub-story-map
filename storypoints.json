@@ -5558,6 +5558,37 @@
       {
         "geometry": {
           "coordinates": [
+            -73.97422290294425,
+            40.76167151878272
+          ],
+          "type": "Point"
+        },
+        "id": "recrebbumcXoVBpZx",
+        "properties": {
+          "Approved for Website": true,
+          "City": "New York City",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "February 22nd, 2023",
+          "Description": "National surveys consistently show overwhelming support for affirmative action among Asian Americans.",
+          "Latitude": 40.76167151878272,
+          "Longitude": -73.97422290294425,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Teen Vogue",
+          "Record ID": "recrebbumcXoVBpZx",
+          "State": "New York",
+          "Story Date": "2023-02-22",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-03-17T19:19:34.000Z",
+          "Title": "Asian American Students Like Me Support Affirmative Action in College Admissions",
+          "URL": "https://www.teenvogue.com/story/asian-american-student-support-affirmative-action",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -78.826758,
             35.821858
           ],
