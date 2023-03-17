@@ -888,6 +888,37 @@
       {
         "geometry": {
           "coordinates": [
+            -93.07130915974638,
+            44.974555236409635
+          ],
+          "type": "Point"
+        },
+        "id": "rec8nc4mHYzLkNV4j",
+        "properties": {
+          "Approved for Website": true,
+          "City": "St. Paul",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "February 24th, 2023",
+          "Description": "Around a hundred of Hmong community members and activists from other groups packed a St. Paul library Friday night and demanded more police accountability and better training.",
+          "Latitude": 44.974555236409635,
+          "Longitude": -93.07130915974638,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Sahan Journal",
+          "Record ID": "rec8nc4mHYzLkNV4j",
+          "State": "Minnesota",
+          "Story Date": "2023-02-24",
+          "Story Type": "Incident in my commmunity",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-03-17T19:22:37.000Z",
+          "Title": "Hmong community members demand police reform while mourning the killing of Yia Xiong",
+          "URL": "https://sahanjournal.com/policing-justice/yia-xiong-st-paul-police-fatal-shooting-minnesota-hmong-community-meeting/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             85.33299925488524,
             27.726284170247556
           ],
