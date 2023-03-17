@@ -888,6 +888,37 @@
       {
         "geometry": {
           "coordinates": [
+            85.33299925488524,
+            27.726284170247556
+          ],
+          "type": "Point"
+        },
+        "id": "rec9OGYWgv5WaVPmN",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Kathmandu",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "February 26th, 2023",
+          "Description": "In Himalayan Buddhism, the religious roles of nuns have long been restricted by rules and customs. But one sect is changing that, mixing meditation with martial arts and environmental activism.",
+          "Latitude": 27.726284170247556,
+          "Longitude": 85.33299925488524,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The New York Times",
+          "Record ID": "rec9OGYWgv5WaVPmN",
+          "State": "Nepal",
+          "Story Date": "2023-02-26",
+          "Story Type": "News story",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-03-17T19:07:27.000Z",
+          "Title": "Kung Fu Nuns of Nepal Smash Convention",
+          "URL": "https://www.nytimes.com/2023/02/26/world/asia/nepal-kung-fu-nuns.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -118.147677,
             34.194522
           ],
