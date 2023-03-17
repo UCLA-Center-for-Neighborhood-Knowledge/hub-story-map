@@ -2563,6 +2563,37 @@
       {
         "geometry": {
           "coordinates": [
+            -77.03648688693367,
+            38.89777647849461
+          ],
+          "type": "Point"
+        },
+        "id": "recNjnrPfKLFdov4T",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Washington D.C.",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "March 13th, 2023",
+          "Description": "Erika Moritsugu, the first White House A.A.P.I. liaison, is in charge of both promoting the community’s representation and responding to its tragedies at a time of rising racism.\n\n",
+          "Latitude": 38.89777647849461,
+          "Longitude": -77.03648688693367,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The New York Times",
+          "Record ID": "recNjnrPfKLFdov4T",
+          "State": "Washington D.C.",
+          "Story Date": "2023-03-13",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-03-17T19:23:54.000Z",
+          "Title": "At White House, Asian American Liaison Juggles Celebrations and Crises",
+          "URL": "https://www.nytimes.com/2023/03/13/us/politics/erika-moritsugu-white-house-aapi-liaison.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.242828,
             45.031882
           ],
