@@ -4050,6 +4050,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.04850247764912,
+            34.14641400138469
+          ],
+          "type": "Point"
+        },
+        "id": "recaaqxbIU6EoUWWn",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Arcadia",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "March 16th, 2023",
+          "Description": "On a softly sunny day in December, the author joined a group of Japanese Americans on a tour of Santa Anita, where track officials described the living conditions at the camp.",
+          "Latitude": 34.14641400138469,
+          "Longitude": -118.04850247764912,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "recaaqxbIU6EoUWWn",
+          "State": "California",
+          "Story Date": "2023-03-16",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-03-20T16:18:56.000Z",
+          "Title": "Forced to live in horse stalls. How one of America’s worst injustices played out at Santa Anita",
+          "URL": "https://www.latimes.com/california/story/2023-03-16/santa-anita-incarceration-japanese-americans",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -122.271116,
             37.799625
           ],
