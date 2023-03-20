@@ -3504,6 +3504,37 @@
       {
         "geometry": {
           "coordinates": [
+            -90.04475222201332,
+            35.03512446764608
+          ],
+          "type": "Point"
+        },
+        "id": "recWfpJ9wT7flHCHh",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Memphis",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "March 8th, 2023",
+          "Description": "Tommy Kha’s portraits blend his Asian heritage with the mythology of the South.",
+          "Latitude": 35.03512446764608,
+          "Longitude": -90.04475222201332,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The New York Times",
+          "Record ID": "recWfpJ9wT7flHCHh",
+          "State": "Tennessee",
+          "Story Date": "2023-03-08",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-03-17T19:28:47.000Z",
+          "Title": "A Photographer Frames His Own American South",
+          "URL": "https://www.nytimes.com/2023/03/08/arts/design/tommy-kha-photography.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -117.889258,
             33.715992
           ],
