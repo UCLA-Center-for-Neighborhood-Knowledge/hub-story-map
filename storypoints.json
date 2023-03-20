@@ -3017,6 +3017,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.29528558208649,
+            34.06164693871559
+          ],
+          "type": "Point"
+        },
+        "id": "recTC1NDKOCNm6y86",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "March 16th, 2023",
+          "Description": "In a historic decision aimed at accuracy and reconciliation, the Los Angeles Times announced Thursday that it would drop the use of “internment” in most cases to describe the mass incarceration of 120,000 people of Japanese ancestry during World War II.",
+          "Latitude": 34.06164693871559,
+          "Longitude": -118.29528558208649,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "recTC1NDKOCNm6y86",
+          "State": "California",
+          "Story Date": "2023-03-16",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-03-20T16:22:49.000Z",
+          "Title": "No, my Japanese American parents were not ‘interned’ during WWII. They were incarcerated",
+          "URL": "https://www.latimes.com/california/story/2023-03-16/japanese-american-internment-incarceration-wwii-los-angeles-times-style",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -89.38311767997222,
             43.07296327952303
           ],
