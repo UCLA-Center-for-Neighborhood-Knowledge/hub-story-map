@@ -3340,6 +3340,37 @@
       {
         "geometry": {
           "coordinates": [
+            -84.38855754744738,
+            33.755910174812236
+          ],
+          "type": "Point"
+        },
+        "id": "recUtNzwTIjfBq9If",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Atlanta",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "March 16th, 2023",
+          "Description": "It’s been two years since eight people were killed when a man opened fire in three different Atlanta-area massage businesses. Six of the eight victims were Asian women.",
+          "Latitude": 33.755910174812236,
+          "Longitude": -84.38855754744738,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "WNYC Studios",
+          "Record ID": "recUtNzwTIjfBq9If",
+          "State": "Georgia",
+          "Story Date": "2023-03-16",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-03-20T16:24:27.000Z",
+          "Title": "Two Years Later, Georgia's AAPI Community is Still Healing",
+          "URL": "https://www.wnycstudios.org/podcasts/takeaway/segments/two-years-later-georgia-aapi-community-still-healing",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.09,
             44.9537
           ],
