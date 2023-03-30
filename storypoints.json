@@ -4051,6 +4051,37 @@
       {
         "geometry": {
           "coordinates": [
+            -84.38855754744738,
+            33.755910174812236
+          ],
+          "type": "Point"
+        },
+        "id": "recaTgPFQgKR0MPeY",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Atlanta",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "March 16th, 2023",
+          "Description": "https://www.wsbtv.com/news/local/atlanta/this-still-matters-asian-americans-say-life-has-gotten-worse-since-deadly-spa-shootings/7DFDLDRND5CWRIPXO6YSTQEQPI/",
+          "Latitude": 33.755910174812236,
+          "Longitude": -84.38855754744738,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "WSB-TV",
+          "Record ID": "recaTgPFQgKR0MPeY",
+          "State": "Georgia",
+          "Story Date": "2023-03-16",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-03-30T20:55:39.000Z",
+          "Title": "‘This still matters:’ Asian-Americans say life has gotten worse since deadly spa shootings",
+          "URL": "https://www.wsbtv.com/news/local/atlanta/this-still-matters-asian-americans-say-life-has-gotten-worse-since-deadly-spa-shootings/7DFDLDRND5CWRIPXO6YSTQEQPI/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -95.7129,
             37.0502
           ],
