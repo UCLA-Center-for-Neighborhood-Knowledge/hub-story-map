@@ -4299,6 +4299,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.3822293567548,
+            34.08843709564055
+          ],
+          "type": "Point"
+        },
+        "id": "reccTn7vr6jEkAuWg",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "April 22nd, 2023",
+          "Description": "With a mixture of prose, poetry, stomping and pantomime, she captivates the audience as she has others for more than 25 years, with tales from the Shahnameh — the national epic poem of Iran completed by the poet Ferdowsi in the year 1010.",
+          "Latitude": 34.08843709564055,
+          "Longitude": -118.3822293567548,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "reccTn7vr6jEkAuWg",
+          "State": "California",
+          "Story Date": "2023-04-22",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-05-01T16:33:57.000Z",
+          "Title": "Iran’s storytelling tradition spans centuries. A woman in Tehrangeles has revolutionized it",
+          "URL": "https://www.latimes.com/california/story/2023-04-22/with-stomps-claps-and-costumes-irans-first-female-epic-story-teller-inspires-las-iranian-diaspora",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -89.77148585021497,
             35.29450390989274
           ],
