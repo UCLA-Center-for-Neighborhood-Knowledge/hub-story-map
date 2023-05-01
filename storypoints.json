@@ -6129,6 +6129,37 @@
       {
         "geometry": {
           "coordinates": [
+            -116.20006433685117,
+            33.673431370415614
+          ],
+          "type": "Point"
+        },
+        "id": "rectApt0WzWh1BE25",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Indio",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "April 18th, 2023",
+          "Description": "A tale of forbidden love with an infectious hook, Ali Sethi’s song Pasoori has become an international phenomenon, fusing poetic tradition with global beats to fuel the rise of the Pakistani singer’s star.",
+          "Latitude": 33.673431370415614,
+          "Longitude": -116.20006433685117,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Aljazeera",
+          "Record ID": "rectApt0WzWh1BE25",
+          "State": "California",
+          "Story Date": "2023-04-18",
+          "Story Type": "News story",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-05-01T16:31:01.000Z",
+          "Title": "Pakistani singer Ali Sethi wows Coachella crowd with Pasoori",
+          "URL": "https://www.aljazeera.com/news/2023/4/18/pakistani-singer-ali-sethi-wows-coachella-crowd-with-pasoori",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -71.069221,
             42.298311
           ],
