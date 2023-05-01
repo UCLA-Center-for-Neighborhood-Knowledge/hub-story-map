@@ -6062,6 +6062,37 @@
       {
         "geometry": {
           "coordinates": [
+            -95.36407785237797,
+            29.7599535658478
+          ],
+          "type": "Point"
+        },
+        "id": "recsmkOdUFaiCRqXS",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Houston",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "May 1st, 2023",
+          "Description": "A Houston community group has a straightforward, solvable problem — Korean-speaking people face daunting language barriers trying to interact with Texas government.",
+          "Latitude": 29.7599535658478,
+          "Longitude": -95.36407785237797,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Houston Tribune",
+          "Record ID": "recsmkOdUFaiCRqXS",
+          "State": "Texas",
+          "Story Date": "2023-05-01",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-05-01T16:40:21.000Z",
+          "Title": "Asking to be Heard",
+          "URL": "https://www.texastribune.org/series/asking-to-be-heard/?utm_medium=website&utm_source=tt-newsletters&utm_campaign=trib-marketing&utm_term=atbh-series-promo",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -71.427848,
             41.821391
           ],
