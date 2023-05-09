@@ -5455,6 +5455,37 @@
       {
         "geometry": {
           "coordinates": [
+            -96.66081041103433,
+            33.132861631139136
+          ],
+          "type": "Point"
+        },
+        "id": "recoMN2vwYiKrgP9A",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Allen",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "May 8th, 2023",
+          "Description": "Three members of a Korean American family including a three-year-old boy and an Indian American woman are among the 8 people killed by a suspected neo-Nazi sympathizer in Allen, Texas.",
+          "Latitude": 33.132861631139136,
+          "Longitude": -96.66081041103433,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "AsAm News",
+          "Record ID": "recoMN2vwYiKrgP9A",
+          "State": "Texas",
+          "Story Date": "2023-05-08",
+          "Story Type": "Incident in my commmunity",
+          "Theme v2": "Anti-Asian Incidents of Violence",
+          "Timestamp": "2023-05-09T14:11:16.000Z",
+          "Title": "4 Asian Americans among 8 killed in Texas mall shooting",
+          "URL": "https://asamnews.com/2023/05/08/mass-shooting-allen-texas-gunman-killed/?fbclid=IwAR00PyWAFHBFmebjXMD6PW7e6xB14nI2VT55XQr_OpkYTFcXQesymTu0Y4I",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -95.7129,
             37.0302
           ],
