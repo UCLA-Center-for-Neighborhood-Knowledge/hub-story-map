@@ -1045,6 +1045,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.32309473392951,
+            33.89688009994357
+          ],
+          "type": "Point"
+        },
+        "id": "rec9ypv6dbOwcRxuo",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Gardena",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "May 19th, 2023",
+          "Description": "The revival of the neighborhood cinema, built in 1946 and purchased by Judy Kim’s parents almost 50 years ago, was ignited a few months ago, when Kim realized she couldn’t keep the theater afloat on her own.",
+          "Latitude": 33.89688009994357,
+          "Longitude": -118.32309473392951,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "rec9ypv6dbOwcRxuo",
+          "State": "California",
+          "Story Date": "2023-05-19",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-06-15T16:30:41.000Z",
+          "Title": "One of L.A.’s last family-owned cinemas is in limbo. Its fans aren’t ready to give up",
+          "URL": "https://www.latimes.com/california/story/2023-05-19/fans-rally-to-save-family-owned-gardena-cinema-los-angeles",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.26549720593904,
             44.977244832313346
           ],
