@@ -1335,6 +1335,37 @@
       {
         "geometry": {
           "coordinates": [
+            -118.25659715441215,
+            34.00545407938047
+          ],
+          "type": "Point"
+        },
+        "id": "recDAUZj0XkhQbDKU",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "June 2nd, 2023",
+          "Description": "The unity of two long-neglected communities during trying times is a reminder of what we desperately need in Los Angeles, especially in the wake of last fall’s L.A. City Hall tape leak.",
+          "Latitude": 34.00545407938047,
+          "Longitude": -118.25659715441215,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "recDAUZj0XkhQbDKU",
+          "State": "California",
+          "Story Date": "2023-06-02",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-06-15T16:33:29.000Z",
+          "Title": "The untold story of the Zoot Suit riots: How Black L.A. defended Mexican Americans",
+          "URL": "https://www.latimes.com/california/story/2023-06-02/zoot-suit-riots-south-la-central-avenue-farmers-market",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -118.141018,
             34.053622
           ],
