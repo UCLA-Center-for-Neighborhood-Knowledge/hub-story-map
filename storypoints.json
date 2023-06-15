@@ -2718,6 +2718,37 @@
       {
         "geometry": {
           "coordinates": [
+            -95.578832,
+            29.70509
+          ],
+          "type": "Point"
+        },
+        "id": "recORhrbBhi6jIUoV",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Houston",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "May 10th, 2023",
+          "Description": "The clashing of cultural norms with American systems is especially clear to Asian-American and Pacific Islander women — the most likely group to be caring for elderly parents in the United States.",
+          "Latitude": 29.70509,
+          "Longitude": -95.578832,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The 19th",
+          "Record ID": "recORhrbBhi6jIUoV",
+          "State": "Texas",
+          "Story Date": "2023-05-10",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-06-15T16:37:54.000Z",
+          "Title": "In the U.S., a weak support system erodes Asian traditions of intergenerational caregiving",
+          "URL": "https://19thnews.org/2023/05/aapi-women-traditional-family-caregiving/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.242828,
             45.031882
           ],
