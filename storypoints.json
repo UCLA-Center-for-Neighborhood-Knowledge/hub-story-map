@@ -1367,6 +1367,37 @@
       {
         "geometry": {
           "coordinates": [
+            -73.97422290294425,
+            40.76167151878272
+          ],
+          "type": "Point"
+        },
+        "id": "recESrJnj8ddABnsM",
+        "properties": {
+          "Approved for Website": true,
+          "City": "New York City",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "May 11th, 2023",
+          "Description": "A generation of Asian American women are named Connie. ",
+          "Latitude": 40.76167151878272,
+          "Longitude": -73.97422290294425,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "New York Times",
+          "Record ID": "recESrJnj8ddABnsM",
+          "State": "New York",
+          "Story Date": "2023-05-11",
+          "Story Type": "Another form of media",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-06-15T16:28:57.000Z",
+          "Title": "GENERATION CONNIE",
+          "URL": "https://www.nytimes.com/interactive/2023/05/11/opinion/connie-chung-named-after.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -75.15284872068152,
             39.91322756166303
           ],
