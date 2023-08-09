@@ -98,6 +98,37 @@
       {
         "geometry": {
           "coordinates": [
+            -83.17530145707471,
+            42.320685742316684
+          ],
+          "type": "Point"
+        },
+        "id": "rec1RA87G6jedJ72f",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Dearborn",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "July 20th, 2023",
+          "Description": "Coming of age is marked by a series of firsts. Your first kiss. Your first job. Your first drink. Many who grew up in Dearborn, Mich., would add to the list: your first hookah.",
+          "Latitude": 42.320685742316684,
+          "Longitude": -83.17530145707471,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The New York Times",
+          "Record ID": "rec1RA87G6jedJ72f",
+          "State": "Michigan",
+          "Story Date": "2023-07-20",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-08-09T20:44:18.000Z",
+          "Title": "The Hookah Lounge",
+          "URL": "https://www.nytimes.com/interactive/2023/07/20/style/hookah-dearborn-michigan.html?action=click&module=card&pageType=theWeekenderLink",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -82.552485,
             35.594418
           ],
