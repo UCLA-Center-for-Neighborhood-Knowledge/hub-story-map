@@ -2716,6 +2716,29 @@
         "type": "Feature"
       },
       {
+        "geometry": null,
+        "id": "recOEDIZcbZtRqXMf",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Tallahassee",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "July 7th, 2023",
+          "Description": "For a century, the League of Women Voters in Florida formed bonds with marginalized residents by helping them register to vote — and, in recent years, those efforts have extended to the growing Asian American and Asian immigrant communities. But a state law signed by Gov. Ron DeSantis in May would have forced the group to alter its strategy.\n\n",
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "AP News",
+          "Record ID": "recOEDIZcbZtRqXMf",
+          "State": "Florida",
+          "Story Date": "2023-07-07",
+          "Story Type": "News story",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-08-09T20:41:57.000Z",
+          "Title": "Asian Americans feel particularly targeted by new laws criminalizing those who assist voters",
+          "URL": "https://apnews.com/article/gop-voting-restrictions-criminalize-translators-asian-americans-cd7416f886a15e9b69d1c752c33bb36b",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
         "geometry": {
           "coordinates": [
             -95.578832,
