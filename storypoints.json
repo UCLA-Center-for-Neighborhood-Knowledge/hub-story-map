@@ -2655,6 +2655,37 @@
       {
         "geometry": {
           "coordinates": [
+            -90.26956600469511,
+            33.83219547705833
+          ],
+          "type": "Point"
+        },
+        "id": "recNUOnkEbT8VGWLx",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Glendora",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "July 25th, 2023",
+          "Description": "On what would have been Emmett Till's 82nd birthday, President Biden signed a proclamation designating a national monument to honor the child who was abducted, tortured, and murdered in 1955 after being accused of whistling at a white woman.",
+          "Latitude": 33.83219547705833,
+          "Longitude": -90.26956600469511,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "NPR",
+          "Record ID": "recNUOnkEbT8VGWLx",
+          "State": "Mississippi",
+          "Story Date": "2023-07-25",
+          "Story Type": "Another form of media",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2023-08-09T20:55:12.000Z",
+          "Title": "Biden designates a national monument honoring Emmett Till and his mother",
+          "URL": "https://www.npr.org/2023/07/23/1189664409/emmett-till-national-monuments-biden",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.30421,
             44.909003
           ],
