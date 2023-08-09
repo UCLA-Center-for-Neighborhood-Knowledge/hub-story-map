@@ -383,6 +383,37 @@
       {
         "geometry": {
           "coordinates": [
+            -106.32023088642175,
+            35.877635161246666
+          ],
+          "type": "Point"
+        },
+        "id": "rec3qMcJDBfHISJn9",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Alamos",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "July 26th, 2023",
+          "Description": "“Oppenheimer,” the massive blockbuster biopic of J. Robert Oppenheimer, “the father of the atomic bomb,” has sparked renewed interest in the dawn of the Atomic Age and prompted conversations about its decision not to depict the communities that bore the brunt of the fallout.",
+          "Latitude": 35.877635161246666,
+          "Longitude": -106.32023088642175,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "rec3qMcJDBfHISJn9",
+          "State": "New Mexico",
+          "Story Date": "2023-07-26",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-08-09T21:01:55.000Z",
+          "Title": "Oppenheimer’s test site wasn’t remote. It was populated by Hispanos and Native Americans",
+          "URL": "https://www.latimes.com/delos/story/2023-07-26/oppenheimer-atomic-bomb-new-mexico-cancer-aftermath",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -87.631402,
             41.879416
           ],
