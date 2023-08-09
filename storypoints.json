@@ -6114,6 +6114,37 @@
       {
         "geometry": {
           "coordinates": [
+            -115.56305167846612,
+            32.79277801486631
+          ],
+          "type": "Point"
+        },
+        "id": "recq2O9Mhn21kZjEO",
+        "properties": {
+          "Approved for Website": true,
+          "City": "El Centro",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "July 29th, 2023",
+          "Description": "In the border guards’ eyes, Cervantes, 48, was an invader. In his eyes, he was a family man trying to go home.",
+          "Latitude": 32.79277801486631,
+          "Longitude": -115.56305167846612,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "recq2O9Mhn21kZjEO",
+          "State": "California",
+          "Story Date": "2023-07-29",
+          "Story Type": "News story",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-08-09T21:04:17.000Z",
+          "Title": "Column: Jose Cervantes left Delaware to see his dying father in Mexico. What happened changed his family’s fate",
+          "URL": "https://www.latimes.com/opinion/story/2023-07-29/mexico-us-border-migrants-desert-deaths-rescues",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -74.005115,
             40.614436
           ],
