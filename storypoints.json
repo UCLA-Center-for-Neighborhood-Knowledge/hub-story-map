@@ -2716,7 +2716,13 @@
         "type": "Feature"
       },
       {
-        "geometry": null,
+        "geometry": {
+          "coordinates": [
+            -84.28217590852954,
+            30.438317777603565
+          ],
+          "type": "Point"
+        },
         "id": "recOEDIZcbZtRqXMf",
         "properties": {
           "Approved for Website": true,
@@ -2724,6 +2730,8 @@
           "Contact Info": "jenny@aapifund.org",
           "Date String": "July 7th, 2023",
           "Description": "For a century, the League of Women Voters in Florida formed bonds with marginalized residents by helping them register to vote — and, in recent years, those efforts have extended to the growing Asian American and Asian immigrant communities. But a state law signed by Gov. Ron DeSantis in May would have forced the group to alter its strategy.\n\n",
+          "Latitude": 30.438317777603565,
+          "Longitude": -84.28217590852954,
           "Name": "Jenny Lee",
           "News/Media Outlet": "AP News",
           "Record ID": "recOEDIZcbZtRqXMf",
