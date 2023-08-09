@@ -4642,6 +4642,37 @@
       {
         "geometry": {
           "coordinates": [
+            -93.26903516670848,
+            44.993494503017295
+          ],
+          "type": "Point"
+        },
+        "id": "recd3P4eqr1ZkDjHN",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Minneapolis",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "July 17th, 2023",
+          "Description": "Spend a day on the water with Wang Ping and you will discover a source of her poetry.",
+          "Latitude": 44.993494503017295,
+          "Longitude": -93.26903516670848,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "The New York Times",
+          "Record ID": "recd3P4eqr1ZkDjHN",
+          "State": "Minnesota",
+          "Story Date": "2023-07-17",
+          "Story Type": "Another form of media",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-08-09T20:50:48.000Z",
+          "Title": "A Long, Shining River of Verse, Flowing From a Rower and Writer",
+          "URL": "https://www.nytimes.com/2023/07/17/sports/poet-rower-wang-ping.html#:~:text=Spend%20a%20day%20on%20the,a%20source%20of%20her%20poetry.&text=Wang%20Ping%20is%20a%20poet,deep%20connection%20in%20these%20things",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -118.036368,
             34.033094
           ],
