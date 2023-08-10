@@ -2458,6 +2458,37 @@
       {
         "geometry": {
           "coordinates": [
+            -90.388343243428,
+            29.99715275625883
+          ],
+          "type": "Point"
+        },
+        "id": "recKoyEgWM9xJNWaP",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Norco",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "August 1st, 2023",
+          "Description": "In this Dispatch from the Frontlines, Joy Banner describes the way her rural Black community is using the power of law and rights to their ancestral land to fight an industrial scheme that threatens to tear it apart. ",
+          "Latitude": 29.99715275625883,
+          "Longitude": -90.388343243428,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Equation Campaign",
+          "Record ID": "recKoyEgWM9xJNWaP",
+          "State": "Louisana",
+          "Story Date": "2023-08-01",
+          "Story Type": "Another form of media",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-08-10T13:45:28.000Z",
+          "Title": "Compair Lapin vs. Christopher James in Cancer Alley",
+          "URL": "https://www.equationcampaign.org/dispatches/compair-lapin-vs-christopher-james-in-cancer-alley",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -118.19361,
             33.7701
           ],
@@ -3032,6 +3063,37 @@
           "Title": "\"Family Ties\" by Cameron PajYeeb Yang",
           "URL": "https://www.youtube.com/watch?v=FNp54zp-KtA&list=PLRfZSCUPr4NpXZnT8PokIQYegHyBBb-UC&index=1",
           "youtube_var": "FNp54zp-KtA"
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -122.29933794497758,
+            41.576429112634216
+          ],
+          "type": "Point"
+        },
+        "id": "recRbv4c6Hgd8dKkk",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Montague",
+          "Contact Info": "jenny@aapifund.org",
+          "Date String": "August 4th, 2023",
+          "Description": "Siskiyou County has repealed a pair of ordinances that residents said targeted Hmong and other Asian Americans in the region and made it harder for them to access water during a period of intense drought.",
+          "Latitude": 41.576429112634216,
+          "Longitude": -122.29933794497758,
+          "Name": "Jenny Lee",
+          "News/Media Outlet": "Los Angeles Times",
+          "Record ID": "recRbv4c6Hgd8dKkk",
+          "State": "California",
+          "Story Date": "2023-08-04",
+          "Story Type": "News story",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-08-10T14:32:45.000Z",
+          "Title": "Siskiyou County repeals water ordinances that residents said targeted Asian Americans",
+          "URL": "https://www.latimes.com/california/story/2023-08-04/siskiyou-county-repeals-water-ordinances-that-residents-said-targeted-asian-americans",
+          "youtube_var": " "
         },
         "type": "Feature"
       },
