@@ -98,6 +98,37 @@
       {
         "geometry": {
           "coordinates": [
+            -115.25996634907592,
+            36.142598646070915
+          ],
+          "type": "Point"
+        },
+        "id": "rec1NgheKdO5DNXVN",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Las Vegas",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "November 11th, 2022",
+          "Description": "Some warn that, with changing demographics and drastic generational differences, the parties will have to adapt to earn Asian American's long-term loyalty. ",
+          "Latitude": 36.142598646070915,
+          "Longitude": -115.25996634907592,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "NBC Asian America",
+          "Record ID": "rec1NgheKdO5DNXVN",
+          "State": "Nevada",
+          "Story Date": "2022-11-11",
+          "Story Type": "News story",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-11-07T16:36:26.000Z",
+          "Title": "Nevada is 1 of 5 states with over 10% Asian Americans. Both parties courted vote, but Dems won out.",
+          "URL": "https://www.nbcnews.com/news/asian-america/nevada-1-5-states-10-asian-americans-both-parties-courted-vote-dems-wo-rcna57959",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -83.17530145707471,
             42.320685742316684
           ],
@@ -1138,6 +1169,69 @@
       {
         "geometry": {
           "coordinates": [
+            -122.27716147899629,
+            37.800224163742875
+          ],
+          "type": "Point"
+        },
+        "id": "recAWLGf7VVwd5y4k",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Oakland",
+          "Contact Info": "aapifund@aapifund.org",
+          "Date String": "November 7th, 2023",
+          "Description": "In August, the Southeast Asian Deportation Relief Act of 2023 was introduced in Congress. The legislation aims to end deportations of Southeast Asian American refugees and provide protections for the more than 15,000 people with final orders of removal. The legislation also seeks to establish a path to return to the U.S. for refugees who have already been deported to Cambodia, Vietnam and Laos. To advocate for the right to stay in the U.S., four employees of the Asian Prisoner Support Committee, an organization supporting formerly incarcerated Asians and Pacific Islanders, formed the APSC Four.",
+          "Grantee Org": "Asian Prisoner Support Committee",
+          "Latitude": 37.800224163742875,
+          "Longitude": -122.27716147899629,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "https://www.kqed.org/news/11966564/double-punishment-thousands-of-southeast-asian-refugees-face-deportation-after-decades-old-convictions",
+          "Record ID": "recAWLGf7VVwd5y4k",
+          "State": "CA",
+          "Story Date": "2023-11-07",
+          "Story Type": "News story",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-11-17T23:33:06.000Z",
+          "Title": "'Double Punishment': Thousands of Southeast Asian Refugees Face Deportation After Decades-Old Convictions",
+          "URL": "https://www.kqed.org/news/11966564/double-punishment-thousands-of-southeast-asian-refugees-face-deportation-after-decades-old-convictions",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -122.32280671164547,
+            47.598799774848715
+          ],
+          "type": "Point"
+        },
+        "id": "recAXHl99xo31UewM",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Seattle",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "September 15th, 2023",
+          "Description": "A man vandalized the Wing Luke Museum of the Asian Pacific American Experience on Thursday, an attack local community leaders say was motivated by racial hatred.",
+          "Latitude": 47.598799774848715,
+          "Longitude": -122.32280671164547,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "The Seattle Times",
+          "Record ID": "recAXHl99xo31UewM",
+          "State": "Washington",
+          "Story Date": "2023-09-15",
+          "Story Type": "News story",
+          "Theme v2": "Anti-Asian Incidents of Violence",
+          "Timestamp": "2023-11-07T17:04:09.000Z",
+          "Title": "Wing Luke Museum vandalized; man arrested for alleged hate crime",
+          "URL": "https://www.seattletimes.com/seattle-news/law-justice/wing-luke-museum-vandalized-man-arrested-for-alleged-hate-crime/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -93.26549720593904,
             44.977244832313346
           ],
@@ -1196,6 +1290,37 @@
           "Timestamp": "2022-10-26T18:37:35.000Z",
           "Title": "MINK! — My Mom Fought For Title IX, but It Almost Didn’t Happen | Op-Docs",
           "URL": "https://www.nytimes.com/2022/06/23/opinion/patsy-mink-title-ix.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -83.060176,
+            42.344037
+          ],
+          "type": "Point"
+        },
+        "id": "recB0CmSVZlqWC03u",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Detroit",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "October 11th, 2023",
+          "Description": "Curtis Chin recounts coming of age as a Chinese American gay kid in his new memoir",
+          "Latitude": 42.344037,
+          "Longitude": -83.060176,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "Detroit Metro Times",
+          "Record ID": "recB0CmSVZlqWC03u",
+          "State": "Michigan",
+          "Story Date": "2023-10-11",
+          "Story Type": "News story",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-10-28T00:07:01.000Z",
+          "Title": "Curtis Chin tells Detroit history with a side of Chinese food in new memoir",
+          "URL": "https://www.metrotimes.com/arts/curtis-chin-tells-detroit-history-with-a-side-of-chinese-food-in-new-memoir-34343591",
           "youtube_var": " "
         },
         "type": "Feature"
@@ -1780,6 +1905,69 @@
       {
         "geometry": {
           "coordinates": [
+            -122.26993562698925,
+            37.80057591390771
+          ],
+          "type": "Point"
+        },
+        "id": "recGj1ATKwzsRlqft",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Oakland",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "August 12th, 2021",
+          "Description": "An anthology published by the Asian Prisoner Support Committee, ARRIVING captures—in their own words—stories of Asian American and Pacific Islander individuals inside prisons, detained by ICE, or recently released from ICE or prisons, as well as stories from impacted family members. These reflective pieces detail their experiences with war, memory, prison, transformation, healing, and home.",
+          "Latitude": 37.80057591390771,
+          "Longitude": -122.26993562698925,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "Asian Prisoner Support Committee",
+          "Record ID": "recGj1ATKwzsRlqft",
+          "State": "California",
+          "Story Date": "2021-08-12",
+          "Story Type": "Another form of media",
+          "Theme": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-11-07T23:13:08.000Z",
+          "Title": "ARRIVING: Freedom Writings of Asian and Pacific Islanders",
+          "URL": "https://www.asianprisonersupport.com/arriving-freedom-writings-of-asian-and-pacific-islanders",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -77.04338436441773,
+            38.81386863456084
+          ],
+          "type": "Point"
+        },
+        "id": "recH53JUs1MCzU0mC",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Alexandria",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "March 24th, 2023",
+          "Description": "Asian Americans' psychological state over the last few years has been one of hypervigilance and pretending — constantly having to act as if everything is \"business as usual\" even amid high-profile anti-Asian attacks and the aftereffects of collective trauma, health advocates and experts tell Axios.",
+          "Latitude": 38.81386863456084,
+          "Longitude": -77.04338436441773,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "Axios",
+          "Record ID": "recH53JUs1MCzU0mC",
+          "State": "Virginia",
+          "Story Date": "2023-03-24",
+          "Story Type": "News story",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2023-11-07T16:55:03.000Z",
+          "Title": "The unseen Asian American mental health crisis",
+          "URL": "https://www.axios.com/2023/03/24/asian-american-hate-mental-health",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -73.9411468547769,
             40.664142151151545
           ],
@@ -1902,6 +2090,37 @@
           "Timestamp": "2020-09-01T23:52:35.000Z",
           "Title": "Domestic violence helpline available over text",
           "URL": "https://waow.com/2020/04/29/domestic-violence-helpline-available-over-text/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -73.96082519553603,
+            40.8074357980534
+          ],
+          "type": "Point"
+        },
+        "id": "recHhKX30VOA8QSAQ",
+        "properties": {
+          "Approved for Website": true,
+          "City": "New York",
+          "Contact Info": "aapifund@aapifund.org",
+          "Date String": "July 17th, 2019",
+          "Description": "A literary critic and psychotherapist study broken narratives and missing words to understand what a diverse cohort has in common.",
+          "Latitude": 40.8074357980534,
+          "Longitude": -73.96082519553603,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "The New Yorker",
+          "Record ID": "recHhKX30VOA8QSAQ",
+          "State": "New York",
+          "Story Date": "2019-07-17",
+          "Story Type": "Another form of media",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2023-11-17T23:40:34.000Z",
+          "Title": "The Stories We Tell, and Don't Tell, About Asian American Lives",
+          "URL": "https://www.newyorker.com/books/under-review/the-stories-we-tell-and-dont-tell-about-asian-american-lives",
           "youtube_var": " "
         },
         "type": "Feature"
@@ -2361,6 +2580,38 @@
       {
         "geometry": {
           "coordinates": [
+            -84.2822748695316,
+            30.43825544275961
+          ],
+          "type": "Point"
+        },
+        "id": "recKALq2WvIKIWc7m",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Tallahassee",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "January 1st, 2023",
+          "Description": "Read this open letter signed by over 800 African American Studies faculty, administrators, and allies in higher education at dozens of colleges and universities in response to Florida Governor Ron DeSantis anti-CRT and anti-African American Studies campaign.",
+          "Latitude": 30.43825544275961,
+          "Longitude": -84.2822748695316,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "Medium",
+          "Record ID": "recKALq2WvIKIWc7m",
+          "State": "Florida",
+          "Story Date": "2023-01-01",
+          "Story Type": "Another form of media",
+          "Theme": "Intersectional issues",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-11-07T16:22:06.000Z",
+          "Title": "Open Letter In Defense of AP African American Studies",
+          "URL": "https://medium.com/@afamprofshighered/open-letter-in-defense-of-ap-african-american-studies-e61768fb8f9c",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -81.51768136031025,
             41.07937642258714
           ],
@@ -2482,6 +2733,38 @@
           "Timestamp": "2023-08-10T13:45:28.000Z",
           "Title": "Compair Lapin vs. Christopher James in Cancer Alley",
           "URL": "https://www.equationcampaign.org/dispatches/compair-lapin-vs-christopher-james-in-cancer-alley",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -118.24384804232974,
+            34.04863439766301
+          ],
+          "type": "Point"
+        },
+        "id": "recKu6qQaTuQGp1oc",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Little Tokyo",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "September 26th, 2022",
+          "Description": "Listen to Little Tokyo Service Center on the “How to LA” podcast. Listen along as LTSC staff Grant Sunoo, Ryan Chu-Tachikawa and Sharon Kamegai Cocita share what makes Little Tokyo such a special place. Click the button below to listen to the podcast episode \"Discovering The Past and Present of Little Tokyo\" which aired on September 26th. ",
+          "Latitude": 34.04863439766301,
+          "Longitude": -118.24384804232974,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "Little Tokyo Service Center",
+          "Record ID": "recKu6qQaTuQGp1oc",
+          "State": "Los Angeles",
+          "Story Date": "2022-09-26",
+          "Story Type": "Another form of media",
+          "Theme": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-11-07T23:22:33.000Z",
+          "Title": "Discovering The Past and Present of Little Tokyo",
+          "URL": "https://open.spotify.com/episode/4689gZjx46VUQ2BjbxskgS",
           "youtube_var": " "
         },
         "type": "Feature"
@@ -3069,6 +3352,37 @@
       {
         "geometry": {
           "coordinates": [
+            -121.28033683402467,
+            37.92948993460174
+          ],
+          "type": "Point"
+        },
+        "id": "recREhrMAduIRikOs",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Stockton",
+          "Contact Info": "aapifund@aapifund.org",
+          "Date String": "July 24th, 2019",
+          "Description": "Author Gayle Romasanta is on a crusade to recover the farm worker’s story, empowering young leaders to follow in his footsteps",
+          "Latitude": 37.92948993460174,
+          "Longitude": -121.28033683402467,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "Smithsonian Magazine",
+          "Record ID": "recREhrMAduIRikOs",
+          "State": "CA",
+          "Story Date": "2019-07-24",
+          "Story Type": "News story",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-11-17T23:15:29.000Z",
+          "Title": "Why It Is Important to Know the Story of Filipino-American Larry Itliong",
+          "URL": "https://www.smithsonianmag.com/smithsonian-institution/why-it-is-important-know-story-filipino-american-larry-itliong-180972696/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -122.29933794497758,
             41.576429112634216
           ],
@@ -3480,6 +3794,37 @@
           "Timestamp": "2020-09-18T21:34:38.000Z",
           "Title": "Freedom Inc. protest calls for immediate end to police in Madison schools",
           "URL": "https://www.wiscnews.com/news/state-and-regional/freedom-inc-protest-calls-for-immediate-end-to-police-in-madison-schools/article_e249c3d6-3909-5c03-b2d1-4b1edbe37757.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -122.2714348579757,
+            37.80238492991712
+          ],
+          "type": "Point"
+        },
+        "id": "recTi67oBXCs8IZ9Y",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Oakland",
+          "Contact Info": "aapifund@aapifund.org",
+          "Date String": "April 27th, 2022",
+          "Description": "Native American students who are state residents will no longer have to pay tuition or fees at one of the nation’s largest public-university systems — a decision that some say is a long-overdue acknowledgment of past harms.",
+          "Latitude": 37.80238492991712,
+          "Longitude": -122.2714348579757,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "The Chronicle of Higher Education",
+          "Record ID": "recTi67oBXCs8IZ9Y",
+          "State": "CA",
+          "Story Date": "2022-04-27",
+          "Story Type": "News story",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2023-11-17T22:26:09.000Z",
+          "Title": "Native American Students Can Now Attend U. of California Tuition-Free",
+          "URL": "https://www.chronicle.com/article/native-american-students-can-now-attend-u-of-california-tuition-free",
           "youtube_var": " "
         },
         "type": "Feature"
@@ -4640,6 +4985,38 @@
       {
         "geometry": {
           "coordinates": [
+            -84.19136645738035,
+            33.91681420633115
+          ],
+          "type": "Point"
+        },
+        "id": "recbgj2dkPCDmtFSx",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Atlanta",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "March 16th, 2023",
+          "Description": "It’s been two years since eight people were killed when a man opened fire in three different Atlanta-area massage businesses. Six of the eight victims were Asian women.  The discourse surrounding the mass shooting, from government officials to mainstream media outlets, claimed the motive of the shooting was unknown. But many people in the AAPI community scoffed. Pointing out that this hate crime didn’t happen in a vacuum– but within the context of a long and racist history. So, in the last two years, has anything changed?",
+          "Grantee Org": "Asian Americans Advancing Justice-Atlanta",
+          "Latitude": 33.91681420633115,
+          "Longitude": -84.19136645738035,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "The Takeaway | WNYC Studios",
+          "Record ID": "recbgj2dkPCDmtFSx",
+          "State": "Georgia",
+          "Story Date": "2023-03-16",
+          "Story Type": "News story",
+          "Theme v2": "Anti-Asian Incidents of Violence",
+          "Timestamp": "2023-11-10T22:59:02.000Z",
+          "Title": "Two Years Later, Georgia's AAPI Community is Still Healing",
+          "URL": "https://www.wnycstudios.org/podcasts/takeaway/segments/two-years-later-georgia-aapi-community-still-healing",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -118.3822293567548,
             34.08843709564055
           ],
@@ -4828,6 +5205,38 @@
       {
         "geometry": {
           "coordinates": [
+            -77.0365083423291,
+            38.898177293206295
+          ],
+          "type": "Point"
+        },
+        "id": "recdA7XzMqwfYXdCr",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Washington",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "December 2nd, 2022",
+          "Description": "The White House Office of Science and Technology Policy (OSTP) and Council on Environmental Quality (CEQ) released the first-ever Guidance for Federal Departments and Agencies on Indigenous Knowledge at the White House Tribal Nations Summit. The guidance, and accompanying implementation memorandum, recognized that in order to make the best scientific and policy decisions possible, the Federal government should value and, as appropriate, respectfully include Indigenous Knowledge.",
+          "Latitude": 38.898177293206295,
+          "Longitude": -77.0365083423291,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "The White House",
+          "Record ID": "recdA7XzMqwfYXdCr",
+          "State": "District of Columbia",
+          "Story Date": "2022-12-02",
+          "Story Type": "Another form of media",
+          "Theme": "Intersectional issues",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2023-11-07T16:38:30.000Z",
+          "Title": "What is “Indigenous Knowledge” And Why Does It Matter? Integrating Ancestral Wisdom and Approaches into Federal Decision-Making",
+          "URL": "https://www.whitehouse.gov/ostp/news-updates/2022/12/02/what-is-indigenous-knowledge-and-why-does-it-matter-integrating-ancestral-wisdom-and-approaches-into-federal-decision-making/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -71.31520843715407,
             41.490147068822814
           ],
@@ -4924,6 +5333,38 @@
       {
         "geometry": {
           "coordinates": [
+            -74.00784058013721,
+            40.71318710751999
+          ],
+          "type": "Point"
+        },
+        "id": "receBPGRPYoxB8L6d",
+        "properties": {
+          "Approved for Website": true,
+          "City": "New York City",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "August 15th, 2023",
+          "Description": "Many asylum-seekers from African countries have arrived in New York City in recent months, and advocates worry that the city isn’t addressing language barrier issues for non-Spanish-speaking migrants.",
+          "Latitude": 40.71318710751999,
+          "Longitude": -74.00784058013721,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "City & State New York",
+          "Record ID": "receBPGRPYoxB8L6d",
+          "State": "New York",
+          "Story Date": "2023-08-15",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2023-11-07T16:33:12.000Z",
+          "Title": "‘Why are they not working with us?’: advocates decry language barriers for African migrants",
+          "URL": "https://www.cityandstateny.com/politics/2023/08/why-are-they-not-working-us-advocates-decry-language-barriers-african-migrants/389446/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -124.16761,
             40.803561
           ],
@@ -4948,6 +5389,37 @@
           "Timestamp": "2022-12-02T15:23:51.000Z",
           "Title": "This California town ran its Chinese residents out. Now the story is finally being told",
           "URL": "https://www.latimes.com/california/story/2022-11-12/la-me-eureka-chinatown-history",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            79.3841,
+            43.6534
+          ],
+          "type": "Point"
+        },
+        "id": "recePx9uXjck3AUUE",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Toronto",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "June 27th, 2023",
+          "Description": "Progressive mayor-elect Olivia Chow is the first Chinese Canadian to win the office, ending more than a decade of conservative leadership.",
+          "Latitude": 43.6534,
+          "Longitude": 79.3841,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "National Public Radio",
+          "Record ID": "recePx9uXjck3AUUE",
+          "State": "Canada",
+          "Story Date": "2023-06-27",
+          "Story Type": "News story",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-11-06T17:05:25.000Z",
+          "Title": "Olivia Chow is elected Toronto's mayor — marking a shift in the city's politics",
+          "URL": "https://www.npr.org/2023/06/27/1184582839/olivia-chow-toronto-mayor-progressive-first-chinese-canadian",
           "youtube_var": " "
         },
         "type": "Feature"
@@ -5021,6 +5493,38 @@
       {
         "geometry": {
           "coordinates": [
+            -118.18143202698728,
+            34.08581509472189
+          ],
+          "type": "Point"
+        },
+        "id": "recfkOZjEIko81wuR",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "September 23rd, 2023",
+          "Description": "The Anawakalmekak International University Preparatory of North America and Tzicatl Community Development Corporation celebrated a historic moment on Friday, September 22, 2023, as 12 acres of land were officially returned to the Gabrielino Shoshone Nation of Southern California, the original custodians of this land.",
+          "Latitude": 34.08581509472189,
+          "Longitude": -118.18143202698728,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "Native News Online",
+          "Record ID": "recfkOZjEIko81wuR",
+          "State": "California",
+          "Story Date": "2023-09-23",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Theme v2": "Curiosity Is the Path to Our Best Future",
+          "Timestamp": "2023-11-07T16:59:50.000Z",
+          "Title": "LA's Largest-Ever Land Back an 'Important Step' in the Movement",
+          "URL": "https://nativenewsonline.net/sovereignty/land-back-largest-land-return-to-tribe-ever-in-los-angeles",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -118.294179,
             34.136288
           ],
@@ -5076,6 +5580,38 @@
           "Timestamp": "2023-01-27T17:00:19.000Z",
           "Title": "Reparations: The payment — and the cost — to one Japanese American woman",
           "URL": "https://www.njspotlightnews.org/2022/10/reparations-japanese-american-world-war-ii-interned-20000-compensation-black-americans-slavery-no-reparations/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -77.00713628903033,
+            38.89093496668489
+          ],
+          "type": "Point"
+        },
+        "id": "recgDiazPoUK4p32k",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Washington",
+          "Contact Info": "aapifund@aapifund.org",
+          "Date String": "October 17th, 2022",
+          "Description": "The legislation, campaigned for by the Southeast Asian Resource Action Center (SEARAC), Southeast Asian Freedom Network (SEAFN), and other community organizations, would ban the deportation of Cambodian, Vietnamese, and Laotian individuals who arrived in the U.S. before 2008. It’s the first such relief bill to include Cambodians.",
+          "Grantee Org": "Southeast Asian Freedom Network",
+          "Latitude": 38.89093496668489,
+          "Longitude": -77.00713628903033,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "The Yappie",
+          "Record ID": "recgDiazPoUK4p32k",
+          "State": "DC",
+          "Story Date": "2022-10-17",
+          "Story Type": "News story",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-11-17T23:36:39.000Z",
+          "Title": "Advocates turn to Congress in bid to limit deportation of Southeast Asian refugees",
+          "URL": "https://theyappie.com/congress-deportation-southeast-asian-refugees/",
           "youtube_var": " "
         },
         "type": "Feature"
@@ -5140,6 +5676,37 @@
           "Timestamp": "2023-01-27T18:28:54.000Z",
           "Title": "How NJ Asian voters want their voices heard in politics",
           "URL": "https://www.northjersey.com/story/news/columnists/2022/10/21/nj-asian-voters-want-their-voices-heard-in-politics/69576680007/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -75.154278,
+            39.9535
+          ],
+          "type": "Point"
+        },
+        "id": "recgw4KsVpR3kYHTp",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Philadelphia",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "March 15th, 2023",
+          "Description": "The ARD spoke with Taryn Flaherty, a University of Pennsylvania student, and co-leader of Philadelphia’s Students for the Preservation of Chinatown (SPOC).",
+          "Latitude": 39.9535,
+          "Longitude": -75.154278,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "Anti-Racism Daily",
+          "Record ID": "recgw4KsVpR3kYHTp",
+          "State": "Pennsylvania",
+          "Story Date": "2023-03-15",
+          "Story Type": "News story",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-10-28T00:00:26.000Z",
+          "Title": "The Fight to Save Philadelphia’s Chinatown",
+          "URL": "https://the-ard.com/2023/03/15/the-fight-to-save-philadelphias-chinatown/",
           "youtube_var": " "
         },
         "type": "Feature"
@@ -5467,6 +6034,37 @@
       {
         "geometry": {
           "coordinates": [
+            -74.00038731750102,
+            40.716596608825455
+          ],
+          "type": "Point"
+        },
+        "id": "reck6fxQVIgu3TYJD",
+        "properties": {
+          "Approved for Website": true,
+          "City": "New York City",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "January 22nd, 2023",
+          "Description": "A former souvenir shop in Manhattan’s Chinatown neighborhood has been transformed into a community-oriented tribute. Archive as Memorial: Documenting A/P/A Voices During COVID-19, up through March 25 at the Storefront for Ideas (SFI), is a space for local residents and other New Yorkers to reflect on the many experiences of Asian, Asian-American, and Pacific Islander (AAPI) people since the start of lockdowns in early 2020.",
+          "Latitude": 40.716596608825455,
+          "Longitude": -74.00038731750102,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "Hyperallergic",
+          "Record ID": "reck6fxQVIgu3TYJD",
+          "State": "New York",
+          "Story Date": "2023-01-22",
+          "Story Type": "News story",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-11-17T00:24:58.000Z",
+          "Title": "Empty Chinatown Storefront Becomes a Community Tribute",
+          "URL": "https://hyperallergic.com/794924/empty-chinatown-storefront-becomes-a-community-tribute/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
             -89.38380432548003,
             43.073966439276205
           ],
@@ -5755,6 +6353,38 @@
           "Timestamp": "2020-07-31T20:31:05.000Z",
           "Title": "Anti-Asian Immigration Violence Is Nothing New",
           "URL": "https://www.yesmagazine.org/social-justice/2020/07/07/anti-asian-immigration-rhetoric-nothing-new/",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -118.23790181349364,
+            34.04621791380272
+          ],
+          "type": "Point"
+        },
+        "id": "recmlYSxtR0ozMFf5",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Los Angeles",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "December 24th, 2022",
+          "Description": "On Dec. 21, 2022, the National Nikkei Reparations Coalition (NNRC) and 76 supporting organizations submitted a letter calling on the Biden Administration to establish a presidential commission to study the legacy of enslavement and racist government policies with the intent to develop and implement practical solutions for reparations.",
+          "Latitude": 34.04621791380272,
+          "Longitude": -118.23790181349364,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "The Rafu Shimpo",
+          "Record ID": "recmlYSxtR0ozMFf5",
+          "State": "California",
+          "Story Date": "2022-12-24",
+          "Story Type": "News story",
+          "Theme": "Intersectional issues",
+          "Theme v2": "Together, We Have the Power",
+          "Timestamp": "2023-11-07T16:40:32.000Z",
+          "Title": "76 JA, Asian American Organizations Call for Presidential Commission on Black Reparations",
+          "URL": "https://rafu.com/2022/12/76-ja-asian-american-organizations-call-for-presidential-commission-on-black-reparations/",
           "youtube_var": " "
         },
         "type": "Feature"
@@ -6137,6 +6767,37 @@
           "Timestamp": "2020-08-21T21:43:09.000Z",
           "Title": "Tracking the Latest Chapter of Anti-Asian Racism in America",
           "URL": "https://www.kqed.org/news/11808957/tracking-the-latest-chapter-of-anti-asian-racism-in-america",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -122.42739317938687,
+            37.77009906603824
+          ],
+          "type": "Point"
+        },
+        "id": "recplhwxP5Sj1OoUE",
+        "properties": {
+          "Approved for Website": true,
+          "City": "San Francisco",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "February 4th, 2023",
+          "Description": "In October of last year, the US Mint released a quarter bearing the face of Anna May Wong — widely acknowledged as the first Chinese-American movie star — as part of its American Women Quarters initiative. What emerges from even a cursory study of Anna May Wong’s life is that her complexity and depth were rarely acknowledged but she used her intelligence to control the narrative as much as she could.",
+          "Latitude": 37.77009906603824,
+          "Longitude": -122.42739317938687,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "The Arts Fuse",
+          "Record ID": "recplhwxP5Sj1OoUE",
+          "State": "CA",
+          "Story Date": "2023-02-04",
+          "Story Type": "News story",
+          "Theme v2": "Our Beloved Community Is Abundant, Caring and Joyful",
+          "Timestamp": "2023-11-17T23:07:34.000Z",
+          "Title": "Flipping a Coin: The Significance of Anna May Wong’s Quarter",
+          "URL": "https://artsfuse.org/268082/flipping-a-coin-the-significance-of-anna-may-wongs-quarter/",
           "youtube_var": " "
         },
         "type": "Feature"
@@ -7224,6 +7885,38 @@
           "Timestamp": "2020-09-18T21:45:45.000Z",
           "Title": "Madison School Board votes unanimously to end police in schools contract",
           "URL": "https://madison.com/ct/news/local/education/local_schools/updated-madison-school-board-votes-unanimously-to-end-police-in-schools-contract/article_ac077373-a518-554f-a7a6-1f2514d989a6.html",
+          "youtube_var": " "
+        },
+        "type": "Feature"
+      },
+      {
+        "geometry": {
+          "coordinates": [
+            -95.50690781164549,
+            29.804646638232473
+          ],
+          "type": "Point"
+        },
+        "id": "recxqEAiduH6X8XVa",
+        "properties": {
+          "Approved for Website": true,
+          "City": "Houston",
+          "Contact Info": "chelsea@aapifund.org",
+          "Date String": "May 30th, 2023",
+          "Description": "A Houston community group has a straightforward, solvable problem — Korean-speaking people face daunting language barriers trying to interact with Texas government. This year, the staff of Woori Juntos is asking state lawmakers to knock down language barriers that may impede hundreds of thousands of Texans, many part of the state’s fast-growing Asian populations, from getting the help and services to which they are entitled. When the people ask, will the Legislature listen? These stories follow that quest.",
+          "Latitude": 29.804646638232473,
+          "Longitude": -95.50690781164549,
+          "Name": "Chelsea Trinh",
+          "News/Media Outlet": "The Texas Tribune",
+          "Record ID": "recxqEAiduH6X8XVa",
+          "State": "Texas",
+          "Story Date": "2023-05-30",
+          "Story Type": "News story",
+          "Theme": "Exposing system inequalities",
+          "Theme v2": "We All Belong, Our Narrative Stories",
+          "Timestamp": "2023-11-07T16:51:40.000Z",
+          "Title": "Asking to be Heard",
+          "URL": "https://www.texastribune.org/series/asking-to-be-heard/",
           "youtube_var": " "
         },
         "type": "Feature"
